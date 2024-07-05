@@ -9,26 +9,29 @@
   weight = 10
 
 [[main]]
+  name = "Call for papers"
+  url = "#call-for-papers"
+  weight = 15
+
+[[main]]
+  name = "Venue"
+  url = "#venue"
+  weight = 18 
+
+[[main]]
+  name = "Registration"
+  url = "#registration"
+  weight = 20
+
+[[main]]
   name = "Program"
-  url = "#talks"
+  url = "#program"
   weight = 30
-
-#[[main]]
-#  name = "Topics"
-#  url = "#tags"
-#  weight = 25
-
-#[[main]]
-#  name = "Participants"
-#  url = "#people"
-#  weight = 40
-
 
 [[main]]
   name = "Team"
   url = "#chairs"
   weight = 45
-
 
 [[main]]
   name = "Contact"
@@ -40,7 +43,7 @@
 #  url = "#"
 #  weight = 65
 
-[[main]]
-  name = "Live Stream"
-  url = "https://www.cais2020.ca/live-stream/"
-  weight = 60
+#[[main]]
+#  name = "Live Stream"
+#  url = "https://www.cais2020.ca/live-stream/"
+#  weight = 60
