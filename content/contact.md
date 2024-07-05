@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-Live streams will be available here during the live sessions. <br><br>
+For any inquiries about the CAIS2025 conference, contact Philippe Mongeon (pmongeon@dal.ca)

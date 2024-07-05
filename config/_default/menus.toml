@@ -15,17 +15,17 @@
 
 [[main]]
   name = "Venue"
-  url = "#venue"
+  url = "venue/"
   weight = 18 
 
 [[main]]
   name = "Registration"
-  url = "#registration"
+  url = "registration/"
   weight = 20
 
 [[main]]
   name = "Program"
-  url = "#program"
+  url = "program/"
   weight = 30
 
 [[main]]
@@ -35,15 +35,6 @@
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "contact/"
   weight = 60
 
-#[[main]]
-#  name = "FR"
-#  url = "#"
-#  weight = 65
-
-#[[main]]
-#  name = "Live Stream"
-#  url = "https://www.cais2020.ca/live-stream/"
-#  weight = 60
