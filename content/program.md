@@ -1,5 +1,5 @@
 ---
-title: Live stream
+title: Program
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-Live streams will be available here during the live sessions. <br><br>
+Coming soon!
