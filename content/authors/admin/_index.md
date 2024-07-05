@@ -25,7 +25,7 @@ social:
   
 ---
 
-## An **Open** Hybrid Conference  
+## An **Open and Hybrid** Conference  
 CAIS2025 is the annual conference of the [Canadian Association for Information Science](http://cais-acsi.ca). 
 This year we are pleased to bring you a **hybrid** conference conference will be hosted by the Department of Information Science, at Dalhousie University.
 
