@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Call for papers"
-  url = "https://cais2025.netlify.app/call-for-papers/"
+  url = "call-for-papers/"
   weight = 15
 
 [[main]]
