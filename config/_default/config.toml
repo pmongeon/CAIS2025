@@ -6,15 +6,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "CAIS2020"
+title = "CAIS2025"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://cais2020.ca/"
+baseurl = "https://cais2025.ca/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; CAIS-ASCI 2020"
+copyright = "&copy; CAIS-ASCI 2025"
 
 ############################
 ## Advanced options below ##
