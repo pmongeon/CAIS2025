@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Back to the Future
 avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
@@ -62,9 +62,9 @@ We are pleased to invite master’s and doctoral students to CAIS’s Student Re
 To participate in the Forum, <a href="https://forms.gle/HE3t4gim3XSym6eH9">please fill out the following submission form</a>.
 
 ## Awards
-<strong>Student-to-CAIS/ACSI award</strong> includes a monetary prize for the best paper submitted by a student.
-<strong>Best practitoner paper</strong>
-<strong>Best paper award</strong>
+- <strong>Student-to-CAIS/ACSI award</strong> includes a monetary prize for the best paper submitted by a student.
+- <strong>Best practitoner paper</strong>
+- <strong>Best paper award</strong>
 
 ## Important dates 
 
