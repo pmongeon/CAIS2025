@@ -28,14 +28,19 @@ social:
 ## Call for Papers: Canadian Association for Information Science 53rd Annual Conference: Back to the Future
   
 The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 53rd annual conference, to be held in the beautiful and vibrant oceanside city of Halifax, Nova Scotia from May 28-30, 2025. This year's theme, "Back to the Future” is a nod to our return to gathering back in person for the CAIS conference, after five years exclusively online. It also denotes the CAIS community’s over half-a-century tradition of conferring with other members of our interdisciplinary community about our shared values and mission, which we continually return to for guidance as our field evolves. Just as this theme roots us back in CAIS’ core principles of openness and inclusivity, it also turns our minds towards the future of our field. It asks: how do we draw on and learn from our past to shape our future? The researchers and practitioners comprising our community may consider where we came from, where we are going, and the threads that unite past and future, as we gather as an academic community in the present.
+
 The 2025 conference also marks several ‘firsts’ for the CAIS/ACSI conference. CAIS heard the voices of its community about how a virtual format offers flexible and accessible participation. We are thus delighted to host CAIS 2025 in a hybrid format, and welcome both in-person or virtual attendance, or a mix of both! 
+
 Another exciting first for the CAIS community is its partnership with Dalhousie University’s Department of Information Science annual student-run conference, Information Without Borders (IWB). We are thrilled to combine the rich tradition of Information Science students and professionals gathering for IWB in Halifax with this year’s CAIS conference, which we anticipate will contribute to a richer event and program. 
+
 Finally, at CAIS, we believe that diversity is a strength that enriches our understanding and advances our discipline. By coming together and uniting our knowledge, we can create a vibrant mosaic of insights that reflects the complexity and diversity of the information landscape. We are happy to announce that with support from the Federation of the Social Sciences and Humanities, we are able to offer 25 registration scholarships for attendees. We welcome you to apply here:
+
 As a reminder, the CAIS conference is free and open to all online, and free in-person to registered CAIS members. You are welcome to join CAIS at any time by registering for a (free) student, regular ($40.00), or reduced rate ($20.00) membership at any time here: https://cais-acsi.ca/membership 
 
-
 CAIS is committed to embracing diversity and incorporating a range of perspectives in the field of information science. We invite researchers, practitioners, and students from across Canada to join us in exploring the many facets of information science and its impact on individuals, communities, and society as a whole. 
+
 We encourage submissions that showcase a range of methodologies, theoretical perspectives, and topics, including but not limited to:
+
 - Information behavior and seeking
 - Information literacy and education
 - Knowledge management and organization
