@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Back to the Future
+title: 	
 avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
@@ -67,12 +67,13 @@ We are pleased to invite master’s and doctoral students to CAIS’s Student Re
 To participate in the Forum, <a href="https://forms.gle/HE3t4gim3XSym6eH9">please fill out the following submission form</a>.
 
 ## Awards
-- <strong>Student-to-CAIS/ACSI award</strong> includes a monetary prize for the best paper submitted by a student.
-- <strong>Best practitoner paper</strong>
-- <strong>Best paper award</strong>
+- <strong>Student-to-CAIS/ACSI award</strong>.
+- <strong>Best practitoner paper</strong>.
+- <strong>Best paper award</strong>.
 
 ## Important dates 
 
-- Submission deadline:  <strong>January 5, 2024, midnight Pacific Time</strong>.
-- Notification of acceptance: <strong>no later than March 15, 2024</strong>. 
-- Submission of final version of papers: <strong>no later than April 30, 2025</strong>.
+- <strong>Submission deadline</strong>: January 8, 2024, midnight Pacific Time.
+- <strong>Notification of acceptance</strong>: No later than March 15, 2024.
+- <strong>Submission of final versions</strong>: No later than April 30, 2025.
+- <strong>Conference</strong>: May 27-30, 2025.
