@@ -33,53 +33,41 @@ Another exciting first for the CAIS community is its partnership with Dalhousie 
 Finally, at CAIS, we believe that diversity is a strength that enriches our understanding and advances our discipline. By coming together and uniting our knowledge, we can create a vibrant mosaic of insights that reflects the complexity and diversity of the information landscape. We are happy to announce that with support from the Federation of the Social Sciences and Humanities, we are able to offer 25 registration scholarships for attendees. We welcome you to apply here:
 As a reminder, the CAIS conference is free and open to all online, and free in-person to registered CAIS members. You are welcome to join CAIS at any time by registering for a (free) student, regular ($40.00), or reduced rate ($20.00) membership at any time here: https://cais-acsi.ca/membership 
 
+
 CAIS is committed to embracing diversity and incorporating a range of perspectives in the field of information science. We invite researchers, practitioners, and students from across Canada to join us in exploring the many facets of information science and its impact on individuals, communities, and society as a whole. 
-We encourage submissions that showcase a range of methodologies, theoretical perspectives, and areas of focus, including but not limited to:
-Information behavior and seeking
-Information literacy and education
-Knowledge management and organization
-Information technologies and systems
-Social media and networking
-Bibliometrics and scholarly communication
-Data science 
-Information policy and ethics
-Cultural heritage and preservation
-Health information management
-Diversity, equity, and inclusion in information science
+We encourage submissions that showcase a range of methodologies, theoretical perspectives, and topics, including but not limited to:
+- Information behavior and seeking
+- Information literacy and education
+- Knowledge management and organization
+- Information technologies and systems
+- Social media and networking
+- Bibliometrics and scholarly communication
+- Data science 
+- Information policy and ethics
+- Cultural heritage and preservation
+- Health information management
+- Diversity, equity, and inclusion in information science
 
+## Types of submissions
 
-### Types of proposals
+- <strong>Full paper</strong>: 2000-3000 words excluding references. 
+- <strong>Work in progress</strong>: 1500-2000 words excluding references.
+- <strong>Posters</strong>: 750-1500 words excluding references.
+- <strong>Panels</strong>: 500-1000 words excluding references.
 
-CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo double-blind peer review, and should be scrubbed of personally identifying information upon initial submission.
+Submission link: <a href = "https://easychair.org/conferences/?conf=caisacsi2024">https://easychair.org/conferences/?conf=caisacsi2024</a>
 
-<strong>Papers</strong>: We are seeking submissions of a variety of 20-minute oral presentations. We are particularly seeking those submissions that speak to the conference theme of “Leaps & Stumbles.”
-
-- “Leaps and Bounds”: Completed or well-developed empirical studies suitable for publication in scholarly journals.
-- “Quantum Leaps”: Rigorous theoretical, metatheoretical, conceptual, or scholarly discussions or reviews of the literature
-- “Leaps of Faith”: Ongoing work or works in progress
-- “Leaps to Mind”: Works from students, practicing professionals, international scholar
-
-CAIS/ACSI is additionally happy to accept proposals on any topics under the LIS disciplinary umbrella. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome.
-
-Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please see our <a href="Extended-Abstract-Writing-Guide.pdf">helpful advice for writing an extended abstract</a> and use <a href="CAIS-ACSI-2024-Abstract-Template.docx">this template to submit</a>. (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the Save as function).
-
-<strong>Lightning Talks</strong>: Visual presentations of projects at any stage of development on topics suitable for publication in scholarly journals. Diverse perspectives (theoretical and applied) and methodologies are welcomed. Proposals should be in the form of a short abstract (maximum 750 words excluding references), reporting on research projects, theoretical developments or innovative practical applications. Presenters of accepted talks will also be invited to provide a 5-7 minute overview of their work. Please use <a href="CAIS-ACSI-2024-Abstract-Template.docx">this template</a> (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the Save as function).
-
-<strong>Panels</strong>: 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references, please see here for our <a href="Extended-Abstract-Writing-Guide.pdf">helpful advice for writing an extended abstract</a>), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist. Please use <a href="CAIS-ACSI-2024-Abstract-Template.docx">this template</a>. (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the Save as function).
-
-Proposals will be evaluated wholistically on clarity, impact/originality, overall quality, and theory/methodology as appropriate. Proposals will be received and reviewed using EasyChair: <a href = "https://easychair.org/conferences/?conf=caisacsi2024">https://easychair.org/conferences/?conf=caisacsi2024</a>
-
-<strong>Doctoral / Master’s Student Research Forum</strong>: We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other students. Students at any stage of their graduate program are invited to submit to the Forum. Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
-
+## Student research forum
+We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other students. Students at any stage of their graduate program are invited to submit to the Forum. Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
 To participate in the Forum, <a href="https://forms.gle/HE3t4gim3XSym6eH9">please fill out the following submission form</a>.
 
-<strong>Student-to-CAIS/ACSI & Best Paper by a Practitioner Awards</strong>: Paper proposals by graduate students and practitioners will be considered for these awards. The Student-to-CAIS/ACSI award includes a monetary prize. Both awardees will have the opportunity to publish the full manuscript in the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie. In order to be considered for these awards, please indicate if you are a student or practitioner when submitting your proposal. Winners will be selected based on their extended abstracts. Details of the award, including previous winners, can be found at the CAIS/ACSI website at <a href="www.cais-acsi.ca">www.cais-acsi.ca</a>
+## Awards
+<strong>Student-to-CAIS/ACSI award</strong> includes a monetary prize for the best paper submitted by a student.
+<strong>Best practitoner paper</strong>
+<strong>Best paper award</strong>
 
-<strong>Deadlines</strong>:
+## Important dates 
 
-The <strong>extended</strong> submission deadline for all proposals is <strong>February 5, 2024, midnight Pacific Time</strong>. Initial submissions should be scrubbed of identifying information for double-blind peer review.
-
-Authors will be notified no later than March 15, 2024. Final versions must be submitted no later than April 30, 2024, and will then be published on the conference website and in the conference proceedings.
-
-<strong>CJILS</strong>: The Canadian Association of Information Science’s scholarly journal is the Canadian Journal of Information and Library Science. This bilingual journal, which publishes in French and English, has been in continuous publication since 1976 and has recently shifted to a diamond open access publishing model (where authors nor readers pay any fees). Authors are encouraged to submit full papers to the journal.
-
+- Submission deadline:  <strong>January 5, 2024, midnight Pacific Time</strong>.
+- Notification of acceptance: <strong>no later than March 15, 2024</strong>. 
+- Submission of final version of papers: <strong>no later than April 30, 2025</strong>.
