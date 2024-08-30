@@ -25,8 +25,6 @@ social:
   
 ---
 
-## Call for Papers: Canadian Association for Information Science 53rd Annual Conference: Back to the Future
-  
 The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 53rd annual conference, to be held in the beautiful and vibrant oceanside city of Halifax, Nova Scotia from May 28-30, 2025. This year's theme, "Back to the Future” is a nod to our return to gathering back in person for the CAIS conference, after five years exclusively online. It also denotes the CAIS community’s over half-a-century tradition of conferring with other members of our interdisciplinary community about our shared values and mission, which we continually return to for guidance as our field evolves. Just as this theme roots us back in CAIS’ core principles of openness and inclusivity, it also turns our minds towards the future of our field. It asks: how do we draw on and learn from our past to shape our future? The researchers and practitioners comprising our community may consider where we came from, where we are going, and the threads that unite past and future, as we gather as an academic community in the present.
 
 The 2025 conference also marks several ‘firsts’ for the CAIS/ACSI conference. CAIS heard the voices of its community about how a virtual format offers flexible and accessible participation. We are thus delighted to host CAIS 2025 in a hybrid format, and welcome both in-person or virtual attendance, or a mix of both! 
