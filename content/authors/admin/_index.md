@@ -73,7 +73,7 @@ To participate in the Forum, <a href="https://forms.gle/HE3t4gim3XSym6eH9">pleas
 
 ## Important dates 
 
-- <strong>Submission deadline</strong>: January 8, 2024, midnight Pacific Time.
-- <strong>Notification of acceptance</strong>: No later than March 15, 2024.
+- <strong>Submission deadline</strong>: January 8, 2025, midnight Pacific Time.
+- <strong>Notification of acceptance</strong>: No later than March 15, 2025.
 - <strong>Submission of final versions</strong>: No later than April 30, 2025.
 - <strong>Conference</strong>: May 27-30, 2025.
