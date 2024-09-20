@@ -36,7 +36,6 @@ subtitle = "Please click on the titles for more information. A three-page PDF ve
  [[content.filter_button]]
      name = "All"
      tag = "*"
-    
 [design]
   # Toggle between the various page layout types.
   #   1 = List

@@ -1,6 +1,14 @@
 # to do:
 - [ ] create conference on easychair
 - [ ] create cfp on easychair
-- [ ] create cfp link on cais2025 site
+- [ ] create cfp link on cais2025 site - goes on authors>admin>index.md
+- [ ] link for student research forum is for 2024 - do we want to update this or just make a new one?
+- [ ] need new socials for main page - we MUST get off the xitter.
+- [ ] there's a talk folder - does all the cfp info go here as well? or eliminate this and just use the easychair page link?
 - [ ] remove .pdfs from content>pdf
-
+- [ ] update authors>admin>.index.md for main page information
+- [ ] update project>full-program>index.md for the full program
+- [ ] delete all sessions, except session-1 as placeholder/template to be copied
+- [ ] are we doing a session on AI? We did in 2020, revisit this again? see session>1-artificial-intelligence
+- [ ] slides - what is this for? the keynote?
+- [ ] create a process guide for doing this in the future because I forget!

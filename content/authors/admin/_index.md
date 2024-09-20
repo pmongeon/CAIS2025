@@ -24,8 +24,7 @@ social:
 #  link: https://twitter.com/cais_acsi
   
 ---
-
-
+## Welcome to CAIS 2025: Back to the Future!
 
 The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 53rd annual conference, to be held in the beautiful and vibrant oceanside city of <strong>Halifax, Nova Scotia from May 28-30, 2025</strong>. This year's theme, "Back to the Future” is a nod to our return to gathering <strong>back</strong> in person for the CAIS conference, after five years exclusively online. It also denotes the CAIS community’s over half-a-century tradition of conferring with other members of our interdisciplinary community about our shared values and mission, which we continually return to for guidance as our field evolves. Just as this theme roots us back in CAIS’ core principles of openness and inclusivity, it also turns our minds towards the future of our field. It asks: how do we draw on and learn from our past to shape our future? The researchers and practitioners comprising our community may consider where we came from, where we are going, and the threads that unite past and future, as we gather as an academic community in the present.
 
@@ -33,9 +32,9 @@ The 2025 conference also marks several ‘firsts’ for the CAIS/ACSI conference
 
 Another exciting first for the CAIS community is its partnership with Dalhousie University’s Department of Information Science annual student-run conference, Information Without Borders (IWB). We are thrilled to combine the rich tradition of Information Science students and professionals gathering for IWB in Halifax with this year’s CAIS conference, which we anticipate will contribute to a richer event and program. 
 
-Finally, at CAIS, we believe that diversity is a strength that enriches our understanding and advances our discipline. By coming together and uniting our knowledge, we can create a vibrant mosaic of insights that reflects the complexity and diversity of the information landscape. We are happy to announce that with support from the Federation of the Social Sciences and Humanities, we are able to offer 25 registration scholarships for attendees. We welcome you to apply here:
+Finally, at CAIS, we believe that diversity is a strength that enriches our understanding and advances our discipline. By coming together and uniting our knowledge, we can create a vibrant mosaic of insights that reflects the complexity and diversity of the information landscape. We are happy to announce that with support from the Federation of the Social Sciences and Humanities, we are able to offer 25 registration scholarships for attendees. We welcome you to apply here:<a href = "https://link">https://link</a>
 
-As a reminder, the CAIS conference is free and open to all online, and free in-person to registered CAIS members. You are welcome to join CAIS at any time by registering for a (free) student, regular ($40.00), or reduced rate ($20.00) membership at any time here: https://cais-acsi.ca/membership 
+As a hybrid conreference, attendence is free and open to all online, and free in-person to registered CAIS members. You are welcome to join CAIS at any time by registering for a (free) student, regular ($40.00), or reduced rate ($20.00) membership at any time here: https://cais-acsi.ca/membership 
 
 CAIS is committed to embracing diversity and incorporating a range of perspectives in the field of information science. We invite researchers, practitioners, and students from across Canada to join us in exploring the many facets of information science and its impact on individuals, communities, and society as a whole. 
 
@@ -60,7 +59,7 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 - <strong>Posters</strong>: 750-1500 words excluding references.
 - <strong>Panels</strong>: 500-1000 words excluding references.
 
-Submission link: <a href = "https://easychair.org/conferences/?conf=caisacsi2024">https://easychair.org/conferences/?conf=caisacsi2024</a>
+Submission link: <a href = "https://easychair.org/conferences/?conf=caisacsi2025">https://easychair.org/conferences/?conf=caisacsi2025</a>
 
 ## Student research forum
 We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other students. Students at any stage of their graduate program are invited to submit to the Forum. Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
