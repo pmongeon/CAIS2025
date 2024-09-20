@@ -3,9 +3,8 @@ title: Poppy Riddle
 role: ID PhD Program, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
-bio: "I am a PhD student researching how searching for information may be
- improved through applying visualization. I am working at the intersection
- of Library and Information Science, bibliometrics, and human-computer interaction."
+bio: "I am a PhD student researching how searching for information may be improved. I am working at the intersection
+ of information seeking behaviour, scientometrics, and human-computer interaction."
 
 
 social:
@@ -27,14 +26,11 @@ user_groups:
 
 # About me
 
-I am a PhD student at [Dalhousie University](https://www.dal.ca/faculty/management/school-of-information-management.html)  researching how searching for information may be improved through applying visualization. I am working at the intersection of Library and Information Science, bibliometrics, and Human-Computer Interaction. 
+I am a PhD student at [Dalhousie University](https://www.dal.ca/faculty/management/school-of-information-management.html)  investigating the intersection of scholarly production and information seeking & retrieval behaviours. I am currently researching query formulation and reformulation are affected by conversational AI interfaces. 
 
 Interests:
 
-- Information Retrieval
+- Information search & retrieval
 - Biblliometrics and bibliometric-enhanced information retrieval (BIR)
-- Exploratory Search Behaviours
-- 2D and 3D information visualization
-- Cognitive load
-- Virtual reality
-- Topic Modelling
+- Exploratory Search 
+- Retrieval augmented generation (RAG)
