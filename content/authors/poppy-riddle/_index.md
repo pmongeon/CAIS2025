@@ -27,6 +27,7 @@ user_groups:
 # About me
 
 I am a PhD student at [Dalhousie University](https://www.dal.ca/faculty/management/school-of-information-management.html)  investigating the intersection of scholarly production and information seeking & retrieval behaviours. I am currently researching query formulation and reformulation are affected by conversational AI interfaces. 
+In my free time, I love being with my family, drawing and painting with my kiddo, roller skating, and stress baking!
 
 Interests:
 
