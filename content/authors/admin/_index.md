@@ -55,9 +55,9 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 ## Types of submissions
 
 - <strong>Full paper</strong>: 2000-3000 words excluding references. 
-- <strong>Work in progress</strong>: 1500-2000 words excluding references.
-- <strong>Posters</strong>: 750-1500 words excluding references.
-- <strong>Panels</strong>: 500-1000 words excluding references.
+- <strong>Work in progress</strong>: 1000-2000 words excluding references.
+- <strong>Poster</strong>: 500-1000 words excluding references.
+- <strong>Panel</strong>: 500-1000 words excluding references.
 
 Submission link: <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions</a>
 
