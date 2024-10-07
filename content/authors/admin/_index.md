@@ -59,7 +59,7 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 - <strong>Posters</strong>: 750-1500 words excluding references.
 - <strong>Panels</strong>: 500-1000 words excluding references.
 
-Submission link: <a href = "https://easychair.org/conferences/?conf=caisacsi2025">https://easychair.org/conferences/?conf=caisacsi2025</a>
+Submission link: <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions</a>
 
 ## Student research forum
 We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other students. Students at any stage of their graduate program are invited to submit to the Forum. Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
@@ -75,4 +75,4 @@ To participate in the Forum, <a href="https://forms.gle/HE3t4gim3XSym6eH9">pleas
 - <strong>Submission deadline</strong>: January 8, 2025, midnight Pacific Time.
 - <strong>Notification of acceptance</strong>: No later than March 15, 2025.
 - <strong>Submission of final versions</strong>: No later than April 30, 2025.
-- <strong>Conference</strong>: May 27-30, 2025.
+- <strong>Conference</strong>: May 27-29, 2025.
