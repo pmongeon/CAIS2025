@@ -61,7 +61,7 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 
 Please use the submission template to prepare your submission.
 - The English template is available <a href="https://cais2025.netlify.app/CAIS2025_template.docx">here</a>.
-- The French template is available <a https://cais2025.netlify.app/ACSI2025_modèle.docx="">here</a>.
+- The French template is available <a "https://cais2025.netlify.app/ACSI2025_modèle.docx=">here</a>.
 
 Submission link: <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions</a>
 
