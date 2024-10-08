@@ -1,5 +1,5 @@
 ---
-title: Call for papers
+title: Back to the Future: The 53rd Annual Conference of the Canadian Association for Information Science
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -13,7 +13,7 @@ header:
 ---
 
 
-## Welcome to CAIS 2025: Back to the Future!
+## Call for papers
 
 This year's theme, "Back to the Future” is a nod to our return to gathering back in person for the CAIS conference, after five years exclusively online. It also denotes the CAIS community’s over half-a-century tradition of conferring with other members of our interdisciplinary community about our shared values and mission, which we continually return to for guidance as our field evolves. Just as this theme roots us back to CAIS’ core principles of openness and inclusivity, it also turns our minds towards the future of our field. It asks: how do we draw on and learn from our past to shape our future? The researchers and practitioners comprising our community may consider where we came from, where we are going, and the threads that unite past and future, as we gather as an academic community in the present.
 
