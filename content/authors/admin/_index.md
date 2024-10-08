@@ -52,4 +52,3 @@ We look forward to welcoming you to Halifax!
 ## Contact us
 
 For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
-
