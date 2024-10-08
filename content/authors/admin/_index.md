@@ -42,19 +42,12 @@ We look forward to welcoming you to Halifax!
 
 ## Organizing committee
 
-Philippe Mongeon<br>Dalhousie University
-
-Sandra Toze<br>Dalhousie University
-
-Geoff Krause<br>Dalhousie University
-
-Maddie Hare<br>University of Ottawa
-
-Poppy Riddle<br>Dalhousie University
-
-Rebecca Marjoram<br>Dalhousie
-
-Dalhousie University. 
+- Philippe Mongeon, Dalhousie University
+- Sandra Toze, Dalhousie University
+- Geoff Krause, Dalhousie University
+- Maddie Hare, University of Ottawa
+- Poppy Riddle, Dalhousie University
+- Rebecca Marjoram, Dalhousie University. 
 
 For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
 
