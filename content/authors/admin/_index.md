@@ -41,22 +41,19 @@ We look forward to welcoming you to Halifax!
 - <strong>Conference</strong>: May 27-29, 2025.
 
 ## Organizing committee
-Philippe Mongeon, Associate professor
-Dalhousie University
 
-Sandra Toze, Associate Professor 
-Dalhousie University
+Philippe Mongeon<br>Dalhousie University
 
-Geoff Krause, PhD student
-Dalhousie University
+Sandra Toze<br>Dalhousie University
 
-Maddie Hare, PhD student
-University of Ottawa.
+Geoff Krause<br>Dalhousie University
 
-Poppy Riddle, PhD student
-Dalhousie University
+Maddie Hare<br>University of Ottawa
 
-Rebecca Marjoram, Master of Information candidate
+Poppy Riddle<br>Dalhousie University
+
+Rebecca Marjoram<br>Dalhousie
+
 Dalhousie University. 
 
 For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
