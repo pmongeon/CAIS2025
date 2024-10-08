@@ -11,5 +11,15 @@ header:
   caption: ""
   image: ""
 ---
+## Organizing committee
 
-If you have any questions, please contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
+- Philippe Mongeon, Dalhousie University
+- Sandra Toze, Dalhousie University
+- Geoff Krause, Dalhousie University
+- Maddie Hare, University of Ottawa
+- Poppy Riddle, Dalhousie University
+- Rebecca Marjoram, Dalhousie University
+
+## Contact us
+
+For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
