@@ -1,5 +1,5 @@
 ---
-title: Back to the Future: The 53rd Annual Conference of the Canadian Association for Information Science
+title: "Back to the Future: The 53rd Annual Conference of the Canadian Association for Information Science"
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
