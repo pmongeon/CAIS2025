@@ -42,13 +42,11 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 
 ## Submissions
 
-Please use the submission template (available in <a href="https://cais2025.netlify.app/CAIS2025_template.docx">English</a> or <a href="https://cais2025.netlify.app/ACSI2025_modèle.docx">French</a>) to prepare your submission.
-
-Submit <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">here</a>!
+Please use the submission template (available in <a href="https://cais2025.netlify.app/CAIS2025_template.docx">English</a> or <a href="https://cais2025.netlify.app/ACSI2025_modèle.docx">French</a>) to prepare your submission. Then submit <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">here</a>.
 
 ## Student research forum
 
-We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum aims to allow graduate students to present and discuss their research projects, get feedback from senior researchers, and make connections with other students. Students at any stage of their graduate program are invited to submit to the Forum. Please be prepared to present informally on an aspect of your research for 5-10 minutes, followed by a discussion. More details will be provided upon acceptance.
+We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum aims to allow graduate students to present and discuss their research projects, get feedback from senior researchers, and connect with other students. Students at any stage of their graduate program are invited to submit to the Forum. Please be prepared to present informally on an aspect of your research for 5-10 minutes, followed by a discussion. More details will be provided upon acceptance.
 
 To participate in the Forum, <a href="https://forms.gle/HE3t4gim3XSym6eH9">please fill out the following submission form</a>.
 
