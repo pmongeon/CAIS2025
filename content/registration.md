@@ -12,9 +12,9 @@ header:
   image: ""
 ---
 
-We expect registrations to open on <strong>March 1st 2025</strong>.
+We expect registration to open on <strong>March 1st 2025</strong>.
 
-Accessibility being one of the core values of CAIS and of the LIS field, <strong>virtual</strong> participation in the conference will remain <strong>free</strong>, and we are working hard to keep registration fees for in-person participants as low as possible. Below are our current estimates, which are likely to be reduced as we secure sponsorships.
+Accessibility being one of the core values of CAIS and of the LIS field, <strong>virtual</strong> participation in the conference will remain <strong>free</strong>, and we are working hard to keep registration fees for in-person participants as low as possible. Below are our current estimates, which we hope to reduce with sponsorships.
 
 - In-person regular (non CAIS members): 140$
 - In-person regular (CAIS members): $100
