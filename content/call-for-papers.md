@@ -45,9 +45,9 @@ Please use the submission template (available in <a href="https://cais2025.netli
 
 ## Student research forum
 
-We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum aims to allow graduate students to present and discuss their research projects, get feedback from senior researchers, and connect with other students. Students at any stage of their graduate program are invited to submit to the Forum. Please be prepared to present informally on an aspect of your research for 5-10 minutes, followed by a discussion. More details will be provided upon acceptance.
+We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More details will be provided upon acceptance. 
 
-To participate in the Forum, <a href="https://forms.gle/HE3t4gim3XSym6eH9">please fill out the following submission form</a>.
+To participate in the Forum, fill out the <a href="https://forms.gle/HE3t4gim3XSym6eH9">submission form</a>.
 
 ## Important dates 
 
