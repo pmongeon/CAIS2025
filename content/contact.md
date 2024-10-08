@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-If you have any questions, please contact us at conference@cais-acsi.ca.
+If you have any questions, please contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
