@@ -19,9 +19,9 @@ social:
 # - icon: envelope
 #  icon_pack: fas
 #  link: '#contact'
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/cais_acsi
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/cais_acsi
   
 ---
 ## Welcome to CAIS 2025
