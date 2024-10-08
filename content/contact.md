@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-For any inquiries about the CAIS2025 conference, contact Philippe Mongeon (pmongeon@dal.ca)
+If you have any questions, please contact us at conference@cais-acsi.ca.
