@@ -21,13 +21,12 @@ CAIS is committed to embracing diversity and incorporating a range of perspectiv
 
 We encourage submissions that showcase a range of methodologies, theoretical perspectives, and areas of focus, including but not limited to:
 
-- Information behavior and seeking
+- Information seeking and behaviour
 - Information literacy and education
 - Knowledge management and organization
 - Information technologies and systems
-- Social media and networking
+- Social media
 - Bibliometrics and scholarly communication
-- Data science 
 - Information policy and ethics
 - Cultural heritage and preservation
 - Health information management
