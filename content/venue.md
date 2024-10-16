@@ -26,11 +26,11 @@ Take advantage of your time in Halifax by exploring the city's rich culture and 
 
 Our conference is hosted at Dalhousie University, a leading institution in research and innovation with a strong tradition of academic excellence. Founded in 1818, Dalhousie is one of Canada’s oldest universities, and its stunning campus is nestled right in the heart of Halifax. Attendees will have the chance to explore Dalhousie's beautiful grounds and experience the university’s inspiring atmosphere.
 
-(Picture of Dalhousie)
+![Picture of Dalhousie University](Dalhousie.jpg)
 
 The Kenneth C. Rowe Management Building will serve as our main conference venue. Known for its modern design and top-tier facilities, this space provides the ideal environment for professional gatherings. Its central location makes it easy to explore the surrounding area and enjoy all that Halifax has to offer!
 
-(Picture of Kenneth C. Rowe Building)
+![Picture of the Kenneth C. Rowe building](Rowe.jpg)
 
 We look forward to receiving your submissions and welcoming you to CAIS's 53rd annual conference!
 
