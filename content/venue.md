@@ -13,7 +13,10 @@ header:
 
 ---
 ## Welcome to Halifax! 
-The vibrant capital of Nova Scotia is renowned for its rich maritime history, picturesque waterfront, and dynamic cultural scene. With its friendly atmosphere and stunning coastal views, Halifax offers an ideal backdrop for CAIS 2025. We invite you to explore all that this beautiful city has to offer during your stay. 
+
+Halifax is located in the unceded territories of the Mi’kmaw, Wolastoqey, and Peskotomuhkati Peoples. These sovereign nations hold inherent rights as the original peoples of these lands, and we each carry collective obligations under the Peace and Friendship Treaties. Section 35 of the Constitution Act, 1982 recognizes and affirms Aboriginal and Treaty rights in Canada.
+
+Vibrant capital of Nova Scotia, Halifax is also renowned for its rich maritime history, picturesque waterfront, and dynamic cultural scene. With its friendly atmosphere and stunning coastal views, Halifax offers an ideal backdrop for CAIS 2025. We invite you to explore all that this beautiful city has to offer during your stay. 
 
 ![Picture of Halifax](/Halifax.jpg)
 
