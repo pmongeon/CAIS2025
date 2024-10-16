@@ -15,7 +15,7 @@ header:
 ## Welcome to Halifax! 
 The vibrant capital of Nova Scotia is renowned for its rich maritime history, picturesque waterfront, and dynamic cultural scene. With its friendly atmosphere and stunning coastal views, Halifax offers an ideal backdrop for CAIS 2025. We invite you to explore all that this beautiful city has to offer during your stay. 
 
-![Picture of Halifax](Halifax.jpg)
+![Picture of Halifax](Halifax.jpeg)
 
 Take advantage of your time in Halifax by exploring the city's rich culture and attractions. Be sure to visit:
 - (Halifax Waterfront)[ https://discoverhalifaxns.com/things-to-do/halifax-waterfront/]: Enjoy scenic views, shops, and restaurants along the waterfront.
@@ -26,11 +26,11 @@ Take advantage of your time in Halifax by exploring the city's rich culture and 
 
 Our conference is hosted at Dalhousie University, a leading institution in research and innovation with a strong tradition of academic excellence. Founded in 1818, Dalhousie is one of Canada’s oldest universities, and its stunning campus is nestled right in the heart of Halifax. Attendees will have the chance to explore Dalhousie's beautiful grounds and experience the university’s inspiring atmosphere.
 
-![Picture of Dalhousie University](Dalhousie.jpg)
+![Picture of Dalhousie University](/Dalhousie.jpeg)
 
 The Kenneth C. Rowe Management Building will serve as our main conference venue. Known for its modern design and top-tier facilities, this space provides the ideal environment for professional gatherings. Its central location makes it easy to explore the surrounding area and enjoy all that Halifax has to offer!
 
-![Picture of the Kenneth C. Rowe building](Rowe.jpg)
+![Picture of the Kenneth C. Rowe building](Rowe.jpeg)
 
 We look forward to receiving your submissions and welcoming you to CAIS's 53rd annual conference!
 
