@@ -28,13 +28,13 @@
 #  url = "program/"
 #  weight = 30
 
-#[[main]]
-#  name = "Team"
-#  url = "#team"
-#  weight = 45
-
 [[main]]
   name = "Contact"
   url = "contact/"
   weight = 60
+
+[[main]]
+  name = "French"
+  url = "https://acsi2025.ca"
+  weight = 70
 
