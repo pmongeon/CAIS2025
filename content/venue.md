@@ -18,9 +18,9 @@ The vibrant capital of Nova Scotia is renowned for its rich maritime history, pi
 ![Picture of Halifax](/Halifax.jpg)
 
 Take advantage of your time in Halifax by exploring the city's rich culture and attractions. Be sure to visit:
-- (Halifax Waterfront)[ https://discoverhalifaxns.com/things-to-do/halifax-waterfront/]: Enjoy scenic views, shops, and restaurants along the waterfront.
-- (Halifax Citadel National Historic Site)[ https://www.novascotia.com/see-do/attractions/halifax-citadel-national-historic-site/1440]: Discover the city's military history at this iconic fortress.
-- (Public Gardens)[ https://www.halifaxpublicgardens.ca/]: Stroll through these beautiful Victorian gardens, perfect for relaxation and reflection.
+- (Halifax Waterfront)[https://discoverhalifaxns.com/things-to-do/halifax-waterfront/]: Enjoy scenic views, shops, and restaurants along the waterfront.
+- (Halifax Citadel National Historic Site)[https://www.novascotia.com/see-do/attractions/halifax-citadel-national-historic-site/1440]: Discover the city's military history at this iconic fortress.
+- (Public Gardens)[https://www.halifaxpublicgardens.ca/]: Stroll through these beautiful Victorian gardens, perfect for relaxation and reflection.
 
 ## Dalhousie University 
 
@@ -46,7 +46,7 @@ Airport: Halifax Stanfield International Airport is located 30 minutes outside o
 ## Accommodations
 
 There are several hotels and accommodations within walking distance of the venue, providing comfortable options for our attendees. We recommend the following:
-- Cambridge Suites Hotel (<a href="https://www.cambridgesuiteshalifax.com/">website</a>)
+- (Cambridge Suites Hotel)[https://www.cambridgesuiteshalifax.com/]
 - Lord Nelson Hotel & Suites (<a href="https://lordnelsonhotel.ca/
 - Stay on Dalhousie campus (more information to come)
 
