@@ -15,7 +15,7 @@ header:
 ## Welcome to Halifax! 
 The vibrant capital of Nova Scotia is renowned for its rich maritime history, picturesque waterfront, and dynamic cultural scene. With its friendly atmosphere and stunning coastal views, Halifax offers an ideal backdrop for CAIS 2025. We invite you to explore all that this beautiful city has to offer during your stay. 
 
-(Picture of Halifax)
+![Picture of Halifax](Halifax.jpg)
 
 Take advantage of your time in Halifax by exploring the city's rich culture and attractions. Be sure to visit:
 - (Halifax Waterfront)[ https://discoverhalifaxns.com/things-to-do/halifax-waterfront/]: Enjoy scenic views, shops, and restaurants along the waterfront.
