@@ -35,8 +35,6 @@ The Kenneth C. Rowe Management Building will serve as our main conference venue.
 
 ![Picture of the Kenneth C. Rowe building](/Rowe.jpeg)
 
-We look forward to receiving your submissions and welcoming you to CAIS's 53rd annual conference!
-
 ## Venue Information
 Kenneth C. Rowe Management Building
 6100 University Ave, Halifax, NS
