@@ -42,7 +42,7 @@ Kenneth C. Rowe Management Building
 ## Getting to the Venue
 
 Dalhousie’s Studley campus is conveniently located near public transportation options, making it easy for attendees to reach the venue from various parts of the city.
-Airport: Halifax Stanfield International Airport is located 30 minutes outside of the city. See this page for helpful tips for getting to Halifax from the airport by bus, taxi, or car: [https://www.dal.ca/campus_life/orientation/helpful-tips/getting-to-Halifax.html]
+Airport: Halifax Stanfield International Airport is located 30 minutes outside of the city. See [this page](https://www.dal.ca/campus_life/orientation/helpful-tips/getting-to-Halifax.html) for helpful tips for getting to Halifax from the airport by bus, taxi, or car.
 
 ## Accommodations
 

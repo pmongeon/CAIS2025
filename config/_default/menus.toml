@@ -34,7 +34,7 @@
   weight = 60
 
 [[main]]
-  name = "French"
+  name = "Français"
   url = "https://acsi2025.ca"
   weight = 70
 
