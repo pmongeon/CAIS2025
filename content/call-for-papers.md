@@ -45,9 +45,7 @@ Please use the submission template (available in <a href="https://cais2025.netli
 
 ## Student research forum
 
-We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More details will be provided upon acceptance.  
-
-More information about participating in the Forum will be provided when Registration opens in March. The Forum this year is organized by Constance Poitras, CAIS board member and French Book Review Editor.
+We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More information about participating in the Forum will be provided when Registration opens in March.
 
 ## Important dates 
 
