@@ -15,7 +15,7 @@ header:
 
 ## Call for papers
 
-This year's theme, "Back to the Future” is a nod to our return to gathering **back in person** for the CAIS conference, after five years exclusively online. It also denotes the CAIS community’s over half-a-century tradition of conferring with other members of our interdisciplinary community about our shared values and mission, which we continually **return** to for guidance as our field evolves. Just as this theme roots us back to CAIS’ core principles of openness and inclusivity, it also turns our minds towards the **future** of our field. It asks: how do we draw on and learn from our past to shape our future? The researchers and practitioners comprising our community may consider where we came from, where we are going, and the threads that unite past and future, as we gather as an academic community in the present.
+This year's theme, "Back to the Future" is a nod to our return to gathering **back in person** for the CAIS conference, after five years exclusively online. It also denotes the CAIS community’s over half-a-century tradition of conferring with other members of our interdisciplinary community about our shared values and mission, which we continually **return** to for guidance as our field evolves. Just as this theme roots us back to CAIS’ core principles of openness and inclusivity, it also turns our minds towards the **future** of our field. It asks: how do we draw on and learn from our past to shape our future? The researchers and practitioners comprising our community may consider where we came from, where we are going, and the threads that unite past and future, as we gather as an academic community in the present.
 
 CAIS is committed to embracing diversity and incorporating a range of perspectives in the field of information science. We invite researchers, practitioners, and students to join us in exploring the many facets of information science and its impact on individuals, communities, and society as a whole. 
 
@@ -45,9 +45,9 @@ Please use the submission template (available in <a href="https://cais2025.netli
 
 ## Student research forum
 
-We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More details will be provided upon acceptance. 
+We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More details will be provided upon acceptance.  
 
-To participate in the Forum, fill out the <a href="https://forms.gle/HE3t4gim3XSym6eH9">submission form</a>.
+More information about participating in the Forum will be provided when Registration opens in March. The Forum this year is organized by Constance Poitras, CAIS board member and French Book Review Editor.
 
 ## Important dates 
 
