@@ -14,9 +14,9 @@ header:
 ## Organizing committee
 
 - Philippe Mongeon, Dalhousie University
-- Maddie Hare, University of Ottawa 
+- Sandra Toze, Dalhousie University 
 - Geoff Krause, Dalhousie University
-- Sandra Toze, Dalhousie University
+- Maddie Hare, University of Ottawa
 - Poppy Riddle, Dalhousie University
 - Rebecca Marjoram, Dalhousie University
 
