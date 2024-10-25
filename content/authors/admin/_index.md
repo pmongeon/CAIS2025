@@ -22,8 +22,15 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/cais_acsi
-  
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+ 
 ---
+![Picture of bannerhead](/banner.png)
+
 ## Welcome to CAIS 2025
 
 The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 53rd annual conference to be held in a <strong>hybrid format</strong> at Dalhousie University, in the beautiful and vibrant oceanside city of <strong>Halifax, Nova Scotia from May 27-29, 2025</strong>. 
