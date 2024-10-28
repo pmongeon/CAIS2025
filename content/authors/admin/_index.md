@@ -35,7 +35,7 @@ header:
 
 The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 53rd annual conference to be held in a <strong>hybrid format</strong> at Dalhousie University, in the beautiful and vibrant oceanside city of <strong>Halifax, Nova Scotia from May 27-29, 2025</strong>. 
 
-This year's conference is hosted by the Department of Information Science of Dalhousie University, in partnership with its annual student-run conference, Information Without Borders (IWB). We are thrilled to combine the longstanding tradition of Information Science students and professionals gathering for IWB in Halifax with this year’s CAIS conference.
+This year's conference is hosted by the Department of Information Science of Dalhousie University.
 
 We look forward to welcoming you to Halifax!
 
@@ -50,11 +50,12 @@ We look forward to welcoming you to Halifax!
 ## Organizing committee
 
 - Philippe Mongeon, Dalhousie University
-- Sandra Toze, Dalhousie University
-- Geoff Krause, Dalhousie University
 - Maddie Hare, University of Ottawa
+- Geoff Krause, Dalhousie University
+- Constance Poitras, Université de Montréal
 - Poppy Riddle, Dalhousie University
-- Rebecca Marjoram, Dalhousie University
+- Sandra Toze, Dalhousie University
+
 
 ## Contact us
 
