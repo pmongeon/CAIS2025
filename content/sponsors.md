@@ -21,7 +21,7 @@ For more information on available options, see our sponsorship package, availabl
 
 For more information on sponsoring CAIS 2025, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
 
-##2025 Sponsors
+## 2025 Sponsors
 
 CAIS 2025 is proud to be sponsored by the following organizations:
 
