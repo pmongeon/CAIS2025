@@ -25,8 +25,9 @@ For more information on sponsoring CAIS 2025, contact us at <a href=mailto:confe
 
 CAIS 2025 is proud to be sponsored by the following organizations:
 
-- The Canadian Association of Research Libraries (CARL)
 - Federation for the Humanities and Social Sciences (EDID Initiatives Fund) 
+- The Canadian Association of Research Libraries (CARL)
+
 
 ![Picture of FHSS](/fhss.jpg)       ![Picture of CARL](/carl.png)
 
