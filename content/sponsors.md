@@ -20,3 +20,13 @@ For more information on available options, see our sponsorship package, availabl
 ## Contact us
 
 For more information on sponsoring CAIS 2025, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
+
+##2025 Sponsors
+
+CAIS 2025 is proud to be sponsored by the following organizations:
+
+- The Canadian Association of Research Libraries (CARL)
+- Federation for the Humanities and Social Sciences (EDID Initiatives Fund) 
+
+![Picture of FHSS](/fhss.jpg)       ![Picture of CARL](/carl.png)
+

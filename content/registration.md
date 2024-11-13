@@ -21,3 +21,5 @@ Accessibility being one of the core values of CAIS and of the LIS field, <strong
 - In-person student (non CAIS members): $60
 - In-person student (CAIS member): $40
 - Virtual: $0
+
+With the support of the Federation for the Humanities and Social Sciences EDID Initiatives Fund, CAIS is pleased to offer a number of registration scholarships to BIPOC attendees. More information on the application process will be provided on this page in the coming months. 
