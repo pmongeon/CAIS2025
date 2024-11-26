@@ -37,7 +37,7 @@ The Canadian Association for Information Science (CAIS/ACSI) is pleased to annou
 
 This year's conference is hosted by the Department of Information Science of Dalhousie University. We look forward to welcoming you to Halifax!
 
-The CAIS 2025 conference is delighted to have Emily Drabinski, Associate Professor the Queens College (CUNY) Graduate School of Library and Information Studies, deliver the keynote address "Libraries at the End of the World". Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
+The CAIS 2025 conference is delighted to have <strong>Emily Drabinski<strong>, Associate Professor at the Queens College (CUNY) Graduate School of Library and Information Studies, deliver the keynote address <strong>"Libraries at the End of the World"<strong>. Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
 
 
 ## Important dates 
