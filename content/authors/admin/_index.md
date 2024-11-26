@@ -35,9 +35,9 @@ header:
 
 The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 53rd annual conference to be held in a <strong>hybrid format</strong> at Dalhousie University, in the beautiful and vibrant oceanside city of <strong>Halifax, Nova Scotia from May 27-29, 2025</strong>. 
 
-This year's conference is hosted by the Department of Information Science of Dalhousie University.
+This year's conference is hosted by the Department of Information Science of Dalhousie University. We look forward to welcoming you to Halifax!
 
-We look forward to welcoming you to Halifax!
+The CAIS 2025 conference is delighted to have Emily Drabinski, Associate Professor the Queens College (CUNY) Graduate School of Library and Information Studies, deliver the keynote address "Libraries at the End of the World". Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
 
 
 ## Important dates 
