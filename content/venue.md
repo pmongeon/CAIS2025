@@ -49,5 +49,5 @@ Airport: Halifax Stanfield International Airport is located 30 minutes outside o
 There are several hotels and accommodations within walking distance of the venue, providing comfortable options for our attendees. We recommend the following:
 - [Cambridge Suites Hotel](https://www.cambridgesuiteshalifax.com/)
 - [Lord Nelson Hotel & Suites](https://lordnelsonhotel.ca/)
-- Stay on Dalhousie campus! We will be offering a group booking rate for participants who would like to stay on-campus at a low cost. More information to come!
+- Stay on Dalhousie campus! Use our CAIS group booking rate to stay on-campus at a low cost. [Click here](https://drive.google.com/file/d/19Fy-uLWO3o1ewd5Rysxzn6P8kcirNsGR/view?usp=sharing) for more information on how to book.
 
