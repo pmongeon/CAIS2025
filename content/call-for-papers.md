@@ -49,7 +49,7 @@ We are pleased to invite master’s and doctoral students at any stage of their 
 
 ## Important dates 
 
-- <strong>Submission deadline</strong>: January 8, 2025, midnight Pacific Time.
+- <strong>Submission deadline</strong>: Extended deadline: January 20th, 2025, midnight Pacific Time. 
 - <strong>Notification of acceptance</strong>: No later than March 15, 2025.
 - <strong>Submission of final versions</strong>: No later than April 30, 2025.
 - <strong>Conference</strong>: May 27-29, 2025.
