@@ -30,5 +30,5 @@ CAIS 2025 is proud to be sponsored by the following organizations:
 - Érudit
 - ASIS&T Canada Chapter
 
-![Picture of FHSS](/fhss.jpg)       ![Picture of CARL](/carl.png) ![Picture of Erudit](/erudit.png) ![Picture of ASIST](/ASIST.png) 
+![Picture of FHSS](/fhss.jpg)       ![Picture of CARL](/carl.png) ![Picture of Erudit](/erudit1.png) ![Picture of ASIST](/ASIST.png) 
 
