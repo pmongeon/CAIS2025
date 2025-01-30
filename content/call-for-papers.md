@@ -42,7 +42,6 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 ## Submissions
 
 <strong>Submissions to CAIS 2025 are now closed.</strong>
-<!-- Please use the submission template (available in <a href="https://cais2025.netlify.app/CAIS2025_template.docx">English</a> or <a href="https://cais2025.netlify.app/ACSI2025_modèle.docx">French</a>) to prepare your submission. Then submit <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">here</a>.-->
 
 ## Student research forum
 
