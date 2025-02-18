@@ -41,14 +41,14 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 
 ## Submissions
 
-Please use the submission template (available in <a href="https://cais2025.netlify.app/CAIS2025_template.docx">English</a> or <a href="https://cais2025.netlify.app/ACSI2025_modèle.docx">French</a>) to prepare your submission. Then submit <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">here</a>.
+<strong>Submissions to CAIS 2025 are now closed.</strong>
 
 ## Student research forum
 
 We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More information about participating in the Forum will be provided when Registration opens in March.
 
 ## Important dates 
-<strong>Submissions to CAIS 2025 are now closed.</strong>
+
 - <strong>Submission deadline</strong>: ~~January 8th, 2025~~ January 20th, 2025, midnight Pacific Time. 
 - <strong>Notification of acceptance</strong>: No later than March 15, 2025.
 - <strong>Submission of final versions</strong>: No later than April 30, 2025.
