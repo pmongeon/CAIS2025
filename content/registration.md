@@ -14,7 +14,7 @@ header:
 
 We expect registration to open on <strong>March 1st 2025</strong>.
 
-Accessibility being one of the core values of CAIS and of the LIS field, <strong>virtual</strong> participation in the conference will remain <strong>free</strong> and we are proud to offer lowered registration fees thanks to the help of our generous [sponsors](https://cais2025.ca/sponsors/).
+Accessibility being one of the core values of CAIS and of the LIS field, <strong>virtual</strong> participation in the conference will remain <strong>free</strong> and we are proud to offer reduced registration fees thanks to the help of our generous [sponsors](https://cais2025.ca/sponsors/).
 
 - In-person regular (non CAIS members): ~~140$~~ $100
 - In-person regular (CAIS members): ~~$100~~ $60
