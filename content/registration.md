@@ -22,4 +22,4 @@ Accessibility being one of the core values of CAIS and of the LIS field, <strong
 - In-person student (CAIS member): ~~$40~~ $0
 - Virtual: $0
 
-With the support of the [Federation for the Humanities and Social Sciences EDID Initiatives Fund](https://www.federationhss.ca/en/programs-policy/funding-awards/edid-initiatives-fund), CAIS is pleased to offer a number of registration scholarships to BIPOC attendees. The application form will be provided on this page and open on March 15th.  
+With the support of the [Federation for the Humanities and Social Sciences EDID Initiatives Fund](https://www.federationhss.ca/en/programs-policy/funding-awards/edid-initiatives-fund), CAIS is pleased to offer a number of registration scholarships to BIPOC attendees. The application form will be provided on this page and open in March.  
