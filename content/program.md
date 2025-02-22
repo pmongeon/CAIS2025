@@ -21,8 +21,6 @@ CAIS 2025 is delighted to be joined by Emily Drabinski, who will be delivering t
 
 Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
 
-Emily Drabinski is Associate Professor at the Queens College (CUNY) Graduate School of Library and Information Studies. Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
-
 <strong>Program<strong>
 
 Coming soon!
