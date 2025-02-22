@@ -18,7 +18,6 @@ CAIS 2025 is delighted to be joined by Emily Drabinski, who will be delivering t
 
 ![Picture of Emily Drabinski](/ED2.jpeg)
 
-
 Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
 
 <strong>Program</strong>
