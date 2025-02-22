@@ -26,3 +26,19 @@ Emily Drabinski is Associate Professor at the Queens College (CUNY) Graduate Sch
 ##Program
 
 Coming soon!
+
+##Social Program
+
+The CAIS conference committee is pleased to offer several events for conference attendees to network and engage in an informal atmosphere. See below for more details.
+
+<strong>Day 1: Conference reception at The Social<strong>
+
+![The Social poster](/Reception.png)
+
+<strong>Day 2: Dinner at the Old Triangle<strong>
+
+![Old Triangle poster](/OldTriangle.png)
+
+<strong>Day 3: Guided tour of Halifax Citadel National Historic Site!<strong>
+
+![Citadel Tour poster](/Citadel.png)
