@@ -15,7 +15,7 @@ header:
 <strong>Keynote speaker</strong>
 
 CAIS 2025 is delighted to be joined by Emily Drabinski, who will be delivering the keynote address "Libraries at the end of the world". Since 2021, libraries have become a target of organized forces seeking to suppress the stories of LGBTQIA+ and BIPOC people and our histories. Attempts to remove books from library shelves have reached record numbers while legislation in states from Florida to Idaho to Texas to Missouri have enshrined censorship into law. Such restrictions on the right to think, write, and read place libraries at the center of the fight for democracy.
-
+# #resize:250x250 or to maintain aspect ratio, use #fit:250. Adjust value as needed. 
 ![Picture of Emily Drabinski](/ED2.jpg#fit:250)
 
 Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
