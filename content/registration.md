@@ -14,8 +14,6 @@ header:
 
 Registration to CAIS 2025 is now open! Register via Eventbrite found [here](https://www.eventbrite.com/e/1242367096429).
 
-Registration via [Eventbrite can be found here](https://www.eventbrite.com/e/1242367096429).
-
 Accessibility being one of the core values of CAIS and of the LIS field, <strong>virtual</strong> participation in the conference will remain <strong>free</strong> and we are proud to offer reduced registration fees thanks to the help of our generous [sponsors](https://cais2025.ca/sponsors/).
 
 - In-person regular (non CAIS members): ~~$140~~ $100
