@@ -26,7 +26,7 @@ With the support of the [Federation for the Humanities and Social Sciences EDID 
 
 <strong>CAIS/ACSI Student Research Forum 2025</strong>
 
-<strong>Date and time:<strong> Wednesday, May 28th, 12:45pm-2:15pm ADT (In-person with an online option available if needed).
+<strong>Date and time:</strong> Wednesday, May 28th, 12:45pm-2:15pm ADT (In-person with an online option available if needed).
 
 <strong>Goal:</strong> As graduate students in Library and Information Science (LIS), we are not just participants in the present—we are the future of the field. This year’s CAIS theme, Back to the Future, invites us to reflect on how past knowledge and traditions shape the evolution of our discipline. In this spirit, the Student Forum provides a space for emerging scholars to discuss their research, exchange ideas, and connect with peers as we navigate the challenges and opportunities of being graduate students in LIS.
 This session is designed to foster meaningful conversations, constructive feedback, and a sense of community among Master's and PhD students. By sharing our experiences and research trajectories, we build the foundations for the future of LIS—together.
