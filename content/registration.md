@@ -35,6 +35,4 @@ This session is designed to foster meaningful conversations, constructive feedba
 
 <strong>Participation:</strong> To participate in the Forum, please fill out [this submission form](https://forms.office.com/r/QMzhTkvvdm) no later than April 30th, 2025.
 
-![Picture of researchforum](/researchforum.jpg) 
-
 
