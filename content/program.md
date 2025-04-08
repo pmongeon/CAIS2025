@@ -11,6 +11,9 @@ header:
   caption: ""
   image: ""
 ---
+<strong>Program</strong>
+
+The preliminary program can be found [here](https://drive.google.com/file/d/1SxZRTT1h-eiw4ElYXh6TNGDaE7mZsRA2/view?usp=sharing).
 
 <strong>Keynote speaker</strong>
 
@@ -19,10 +22,6 @@ CAIS 2025 is delighted to be joined by Emily Drabinski, who will be delivering t
 ![Picture of Emily Drabinski](/ED2.jpg#fit:250)
 
 Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
-
-<strong>Program</strong>
-
-Coming soon!
 
 <strong>Social Program</strong>
 
