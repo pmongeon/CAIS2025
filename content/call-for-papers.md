@@ -39,6 +39,8 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 - <strong>Poster</strong>: 500-1000 words excluding references.
 - <strong>Panel</strong>: 500-1000 words excluding references.
 
+<strong>Poster details</strong>: 36" x 48" (91.4 x 122cm) portrait orientation. 
+
 ## Submissions
 
 <strong>Submissions to CAIS 2025 are now closed.</strong>
