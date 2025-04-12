@@ -41,7 +41,7 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 
 <strong>Poster sizing </strong>: 36" x 48" (91.4 x 122cm) portrait orientation. 
 
-<strong>Virtual poster session information </>: Virtual poster presenters will be allocated a timeslot in the final program. While we do not provide specific requirements around dimensions and orientation, posters should resemble traditional print versions. See the 2021 CAIS program for examples [here](https://www.cais2021.ca/).
+<strong>Virtual poster session information </strong>: Virtual poster presenters will be allocated a timeslot in the final program. While we do not provide specific requirements around dimensions and orientation, posters should resemble traditional print versions. See the 2021 CAIS program for examples [here](https://www.cais2021.ca/).
 
 Posters presenters who originally submitted a paper to the conference are welcome to shorten their submission to a 500-1,000 abstract for the conference proceedings.
 
