@@ -13,7 +13,7 @@ header:
 ---
 <strong>Program</strong>
 
-The preliminary program can be found [here](https://drive.google.com/file/d/1FPKQb6owEJwo1yfe_8PFXYiW63YNDzt1/view?usp=sharing). A detailed program will be published in early May.
+The preliminary program can be found [here](https://drive.google.com/file/d/1FPKQb6owEJwo1yfe_8PFXYiW63YNDzt1/view?usp=sharing). A detailed program will be published on this page in early May.
 
 <strong>Keynote speaker</strong>
 
