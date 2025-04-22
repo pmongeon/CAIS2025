@@ -57,7 +57,7 @@ We are pleased to invite master’s and doctoral students at any stage of their 
 
 - <strong>Submission deadline</strong>: ~~January 8th, 2025~~ ~~January 20th, 2025, midnight Pacific Time.~~ 
 - <strong>Notification of acceptance</strong>: ~~No later than March 15th, 2025.~~
-- <strong>Submission of final versions</strong>: No later than April 30th, 2025.
+- <strong>Submission of final versions</strong>: No later than April 30th, 2025. Submit to the CAIS OJS [here](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).
 - <strong>Conference</strong>: May 27-29th, 2025.
 
 Please note that accepted presenters will have the choice of presenting in-person or virtually.
