@@ -18,7 +18,7 @@ header:
 
 <strong>Date</strong>: May 26th, 2025
 <strong>Time</strong>: 2:30-4:30 pm 
-<strong>Location</strong>: Room 3001, Kenneth C. Rowe Management Building, Dalhousie University
+<strong>Location</strong>: Room 3001, Kenneth C. Rowe Management Building, Dalhousie University 
 <strong>Break</strong>: 4:30-6:30 pm (Food and beverages provided)  
 
 *Description*
@@ -31,7 +31,7 @@ Participants will explore these critical issues and actionable steps to be taken
 
 Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registration will be capped at 25 participants. There is no fee to participate. 
 
-![Picture of Workshop poster](/workshop.pdf)
+![Picture of Workshop poster](/workshop.png)
 
 ## Film screening and Panel Discussion
 
