@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Aligned events"
-  url = "alignedevents/"
+  url = "aligned-events/"
   weight = 40
 
 [[main]]
