@@ -28,7 +28,7 @@ Participants will explore these critical issues and actionable steps to be taken
 
 Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registration will be capped at 25 participants. There is no fee to participate. 
 
-![Picture of Workshop poster](workshop.png)
+![Picture of Workshop poster](/workshop.png)
 
 <strong>Film screening and panel discussion</strong>
 
@@ -38,4 +38,5 @@ Time: 6:30-9:30 pm
 Location: Potter Auditorium, Kenneth C. Rowe Management Building, Dalhousie University
 
 *Description*
-Check back for more detail soon!
+
+Check back for more details soon!
