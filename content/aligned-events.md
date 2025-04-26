@@ -13,14 +13,12 @@ header:
 ---
 ## Archives in Action Workshop: Toward a National Policy Action Plan for Marginalized and Vulnerable Audiovisual Archives
 
+
 *Details*
 
 Date: May 26th, 2025
-
-Time: 2:30-4:30 pm
- 
+Time: 2:30-4:30 pm 
 Location: Room 3001, Kenneth C. Rowe Management Building, Dalhousie University
-
 Break: 4:30-6:30 pm (Food and beverages provided)  
 
 *Description*
@@ -40,9 +38,7 @@ Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registr
 *Details*
 
 Date: May 26th, 2025
-
 Time: 6:30-9:30 pm 
-
 Location: Potter Auditorium, Kenneth C. Rowe Management Building, Dalhousie University
 
 *Description*
