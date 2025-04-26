@@ -13,7 +13,7 @@ header:
 ---
 <strong>Archives in Action Workshop: Toward a National Policy Action Plan for Marginalized and Vulnerable Audiovisual Archives</strong>
 
-<strong>Details</strong>
+*Details*
 
 Date: May 26th, 2025
 Time: 2:30-4:30 pm 
@@ -34,7 +34,7 @@ Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registr
 
 <strong>Film screening and panel discussion</strong>
 
-<strong>Details</strong>
+*Details*
 
 Date: May 26th, 2025
 Time: 6:30-9:30 pm 
