@@ -35,7 +35,7 @@ Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registr
 
 ![Picture of Workshop poster](/workshop.png)
 
-## Film screening and panel discussion
+## Film screening and Panel Discussion
 
 *Details*
 
