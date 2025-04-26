@@ -26,9 +26,7 @@ Film is an important medium for conveying First Nations culture, language, teach
 
 Participants will explore these critical issues and actionable steps to be taken by key stakeholders, including government bodies, cultural institutions, and funding agencies. This conversation aims to shape a “manifesto for action,” setting the groundwork for a national policy agenda that recognizes, protects, and sustains Indigenous audiovisual heritage.
 
-There is no fee to participate. 
-
-Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registration will be capped at 25 participants.
+Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registration will be capped at 25 participants. There is no fee to participate. 
 
 ![Picture of Workshop poster](workshop.png)
 
