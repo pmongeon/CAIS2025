@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-<strong>Archives in Action Workshop: Toward a National Policy Action Plan for Marginalized and Vulnerable Audiovisual Archives</strong>
+## <strong>Archives in Action Workshop: Toward a National Policy Action Plan for Marginalized and Vulnerable Audiovisual Archives</strong>
 
 *Details*
 
@@ -35,7 +35,7 @@ Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registr
 
 ![Picture of Workshop poster](/workshop.png)
 
-<strong>Film screening and panel discussion</strong>
+## <strong>Film screening and panel discussion</strong>
 
 *Details*
 
