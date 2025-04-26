@@ -31,7 +31,7 @@ Participants will explore these critical issues and actionable steps to be taken
 
 Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registration will be capped at 25 participants. There is no fee to participate. 
 
-![Picture of Workshop poster](/workshop.png)
+![Picture of Workshop poster](/workshop.pdf)
 
 ## Film screening and Panel Discussion
 
