@@ -11,13 +11,13 @@ publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Heather Hill
+  - Philippe Mongeon
 tags:
   - ""
 categories:
   - Papers
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
+#image:
+##  filename: featured
+##  focal_point: Smart
+##  preview_only: false
 ---
