@@ -14,8 +14,8 @@ authors:
   - Philippe Mongeon
 tags:
   - ""
-categories:
-  - Papers
+#categories:
+#  - Papers
 #image:
 ##  filename: featured
 ##  focal_point: Smart
