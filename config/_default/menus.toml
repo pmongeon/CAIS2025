@@ -29,9 +29,14 @@
   weight = 30
 
 [[main]]
+  name = "Aligned events"
+  url = "aligned-events/"
+  weight = 40
+
+[[main]]
   name = "Sponsors"
   url = "sponsors/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"

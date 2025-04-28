@@ -39,6 +39,12 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 - <strong>Poster</strong>: 500-1000 words excluding references.
 - <strong>Panel</strong>: 500-1000 words excluding references.
 
+<strong>Poster sizing </strong>: 36" x 48" (91.4 x 122cm) portrait orientation. 
+
+<strong>Virtual poster session information </strong>: Virtual poster presenters will be allocated a timeslot in the final program. While we do not provide specific requirements around dimensions and orientation, posters should resemble traditional print versions. See the 2021 CAIS program for examples [here](https://www.cais2021.ca/).
+
+Posters presenters who originally submitted a paper to the conference are welcome to shorten their submission to a 500-1,000 abstract for the conference proceedings.
+
 ## Submissions
 
 <strong>Submissions to CAIS 2025 are now closed.</strong>
@@ -49,9 +55,9 @@ We are pleased to invite master’s and doctoral students at any stage of their 
 
 ## Important dates 
 
-- <strong>Submission deadline</strong>: ~~January 8th, 2025~~ January 20th, 2025, midnight Pacific Time. 
-- <strong>Notification of acceptance</strong>: No later than March 15, 2025.
-- <strong>Submission of final versions</strong>: No later than April 30, 2025.
-- <strong>Conference</strong>: May 27-29, 2025.
+- <strong>Submission deadline</strong>: ~~January 8th, 2025~~ ~~January 20th, 2025, midnight Pacific Time.~~ 
+- <strong>Notification of acceptance</strong>: ~~No later than March 15th, 2025.~~
+- <strong>Submission of final versions</strong>: No later than April 30th, 2025. Submit to the CAIS OJS [here](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).
+- <strong>Conference</strong>: May 27-29th, 2025.
 
 Please note that accepted presenters will have the choice of presenting in-person or virtually.
