@@ -1,1 +1,12 @@
+---
+title: Julie Lise Simard
+role: École de bibliothéconomie et des sciences de l’information, Université de Montréal 
+bio: "Julie Lise Simard (iel, elle) a obtenu sa maitrise en sciences de l’information à l’École de bibliothéconomie et des sciences de l’information (EBSI) de l’Université de Montréal en 2022 et y poursuit actuellement ses études doctorales. Son sujet de thèse porte sur la justice organisationnelle perçue par les professionnel·les de l’information lors du processus d’embauche et sur les résistances et adaptations des identités intersectionnelles afin d’obtenir un emploi en sciences de l’information. Iel est impliqué·e dans les comités équité, diversité et inclusion de la Fédération des milieux documentaires (FMD) et de l’EBSI depuis 2021. En septembre 2024, elle a été nominé·e membre du Comité étudiant du Centre de recherche interdisciplinaire sur la justice intersectionnelle, la décolonisation et l'équité (CRI-JaDE). Iel a également collaboré avec les Nations Anicinabe (2021-2025) et Crie (depuis 2024) sur des projets de préservation, de revitalisation et de valorisation du patrimoine. Ses intérêts professionnels et de recherche touchent l’équité, la diversité, l’inclusion et la décolonisation dans les métiers documentaires et dans les pratiques en archivistique."
+avatar_filename: avatar.jpg
+superuser: false
+user_groups:
+  - Authors
+---
 
+# Bio
+Julie Lise Simard (iel, elle) a obtenu sa maitrise en sciences de l’information à l’École de bibliothéconomie et des sciences de l’information (EBSI) de l’Université de Montréal en 2022 et y poursuit actuellement ses études doctorales. Son sujet de thèse porte sur la justice organisationnelle perçue par les professionnel·les de l’information lors du processus d’embauche et sur les résistances et adaptations des identités intersectionnelles afin d’obtenir un emploi en sciences de l’information. Iel est impliqué·e dans les comités équité, diversité et inclusion de la Fédération des milieux documentaires (FMD) et de l’EBSI depuis 2021. En septembre 2024, elle a été nominé·e membre du Comité étudiant du Centre de recherche interdisciplinaire sur la justice intersectionnelle, la décolonisation et l'équité (CRI-JaDE). Iel a également collaboré avec les Nations Anicinabe (2021-2025) et Crie (depuis 2024) sur des projets de préservation, de revitalisation et de valorisation du patrimoine. Ses intérêts professionnels et de recherche touchent l’équité, la diversité, l’inclusion et la décolonisation dans les métiers documentaires et dans les pratiques en archivistique.
