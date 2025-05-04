@@ -11,6 +11,7 @@ draft: false
 featured: false
 authors:
   - Juliana Hirt
+  - Wan-Chen Lee
 tags:
   - "Tabletop Roleplaying Games"
   - "Artificial Intelligence"

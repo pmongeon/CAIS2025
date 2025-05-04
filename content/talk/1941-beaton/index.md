@@ -1,20 +1,22 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: "Extreme Sport and Information: Initial Findings of Technical Cave Diver’s Information-Seeking Behaviours"
+abstract: "Using the participatory, arts-based information world mapping (IWM) method, this study investigated the information-seeking behaviors of cave divers before, during, and after cave dives. Cave diving is considered an extreme sport, in which technical divers trained in overhead environments penetrate flooded cave systems. 20 participants were interviewed using the IWM technique and semi-structured open-ended questions. Verbatim clean transcriptions and participant maps were coded using thematic content analysis. Participant data suggests cave divers may be intentionally restrictive in their information-sharing behaviors, choosing vetted contacts willing to reciprocate information exchanges."
+location: Rowe 1007 and Zoom
+date: 2025-05-28T9:00:00.763Z
+date_end: 2025-05-28T9:25:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Toni Beaton
+  - Stacy Allison-Cassin
 tags:
   - ""
 categories:
   - Papers
+  - In-Person
 #image:
 ##  filename: featured
 ##  focal_point: Smart
