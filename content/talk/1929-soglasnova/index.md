@@ -11,6 +11,7 @@ draft: false
 featured: false
 authors:
   - Lana Soglasnova
+  - Veronika Makarova
 tags:
   - "Libraries" 
   - "Canada" 

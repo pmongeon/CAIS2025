@@ -11,6 +11,8 @@ draft: false
 featured: false
 authors:
   - Andrew Weiss
+  - Souvick Ghosh
+  - Frances Johnson
 tags:
   - "Misinformation"
   - "Dehumanization"

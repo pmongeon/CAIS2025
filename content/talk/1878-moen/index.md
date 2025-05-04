@@ -10,7 +10,8 @@ publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Mary H. Moen     
+  - Mary H. Moen  
+  - Lauren H. Mandel
 tags:
   - ""
 categories:

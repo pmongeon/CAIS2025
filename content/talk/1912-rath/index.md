@@ -11,6 +11,7 @@ draft: false
 featured: false
 authors:
   - Logan Rath
+  - Peter Kalenda
 tags:
   - "AI/LLM"
   - "Document Generation"

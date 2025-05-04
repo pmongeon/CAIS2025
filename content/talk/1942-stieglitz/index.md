@@ -11,6 +11,9 @@ draft: false
 featured: false
 authors:
   - Lauren Stieglitz
+  - Virginia Pow
+  - Olesya Komarnytska
+  - Tim Klassen
 tags:
   - "Libraries"
   - "Climate Action"

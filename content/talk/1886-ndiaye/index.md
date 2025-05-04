@@ -11,6 +11,7 @@ draft: false
 featured: false
 authors:
   - Mamoudou Ndiaye
+  - Raphaëlle Fabrice
 tags:
   - "Information Practices"
   - "Serious Games"

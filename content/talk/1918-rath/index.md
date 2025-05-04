@@ -11,6 +11,7 @@ draft: false
 featured: false
 authors:
   - Logan Rath
+  - Heidi Julien
 tags:
   - "Academic Instruction"
   - "Librarians"

@@ -11,6 +11,13 @@ draft: false
 featured: false
 authors:
   - Irene lopatovska
+  - Allison Cathey
+  - Celia Coan
+  - Melissa Bowden
+  - Harrison Cortellesi
+  - Alain Laforest
+  - Van Nguyen
+  - Hannah Ramirez
 tags:
   - ""
 categories:

@@ -11,6 +11,7 @@ draft: false
 featured: false
 authors:
   - Guinsly Mondesir
+  - Maggie Gordon
 tags:
   - "Information Behaviours"
   - "Canada"
