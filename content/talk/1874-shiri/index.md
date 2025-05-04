@@ -17,8 +17,8 @@ tags:
   - "information science"
   - "domain analysis"
 categories:
-  - paper
-  - in-person
+  - Papers
+  - In-Person
 #image:
 ##  filename: featured
 ##  focal_point: Smart
