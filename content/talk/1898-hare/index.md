@@ -1,20 +1,27 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: Measuring Literacy: The Results of a Scoping Review
+abstract: "This scoping review uses systematic review methodology to survey literature on established and emerging forms of literacy and their measurement, focusing on scholarly and grey literature published since 2014. Findings emphasize the need for standardized yet context-sensitive evaluation frameworks, acknowledging regional disparities, cultural contexts, and emerging domains like digital literacy. Key challenges include reflecting multifaceted literacy outcomes such as social connection, independence, and confidence. The study was undertaken to provide an evidence base for the non-profit organization Literacy Nova Scotia as they seek to survey the state of literacy in Nova Scotia. The next phase involves a Delphi study to gather insights from Nova Scotian literacy experts, informing robust, inclusive assessment frameworks."
+location: TBD
+date: 2025-05-27T16:10:00.763Z
+date_end: 2025-05-27T17:00:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
+  - Madelaine Hare
+  - Sandra Toze
+  - Wendy Kraglund-Gauthier
   - Alison Brown
+  - Poppy Riddle
+  - Lindsay McNiff
+  - Jayne Hunter
 tags:
   - ""
 categories:
-  - Papers
+  - Posters
+  - In-Person
 #image:
 ##  filename: featured
 ##  focal_point: Smart

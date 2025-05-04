@@ -1,20 +1,25 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: Personal and Professional Information Behaviours of Comic and Graphic Novel Librarians in Toronto
+abstract: "This poster will present findings from a study of the information behaviours of librarians in the Greater Toronto Area who work with comic and graphic novel collections across academic, school, and special library contexts. This project extends Sonnenwald et al.’s (2001) information horizon interview (IHI) methodology, considering how different situations and contexts influences information behaviours and comparing. This poster will describe data collection with 11 participants; outline findings from thematic analysis (Braun & Clarke, 2019), compare findings with Hektor’s (2001) information activities; and showcase drawings created by participants to promote visual methodologies in LIS."
+location: TBD
+date: 2025-05-27T16:10:00.763Z
+date_end: 2025-05-27T17:00:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Alexandra Landy
 tags:
-  - ""
+  - "Information Behaviours"
+  - "Toronto, Canada"
+  - "Comics"
+  - "Graphic Novels"
+  - "Librarians"
 categories:
-  - Papers
+  - Posters
+  - In-Person
 #image:
 ##  filename: featured
 ##  focal_point: Smart
