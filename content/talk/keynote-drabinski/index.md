@@ -16,7 +16,7 @@ tags:
 categories:
   - Keynote
 image:
-  filename: featured
+  filename: keynote.png
   focal_point: Smart
   preview_only: false
 ---
