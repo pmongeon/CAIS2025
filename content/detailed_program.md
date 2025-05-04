@@ -26,9 +26,6 @@ header:
     <th colspan=4 style="width:60%">Registrations (Rowe building atrium)</th>
   </tr>
   <tr>
-      <td colspan=6 style="font-size:20px"><strong>Day 1 - Tuesday, May 27</strong> </td>
-  </tr>
-  <tr>
       <td colspan=6 style="font-size:20px"><strong>Opening session - Rowe 1009 and Zoom A </strong></td>
   </tr>
   <tr>
@@ -36,15 +33,14 @@ header:
     <th colspan=4 style="width:60%">Event</th>
   </tr>
   <tr>
-    <td colspan=2>Opening remarks</td>
     <td colspan=2>9:00am - 9:20am</td>
+    <td colspan=2>Opening remarks</td>
     <td colspan=2></a></strong></td>
   </tr>
   <tr>
-    <td colspan=2>Keynote</td></br>
-    <td colspan=2>11:15am - 12:45pm</td>
-    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/Keynote1">Twenty-Five Years on the Metadata Beat</a></strong></br>
-    <i>Grant Campbell</i></td>
+    <td colspan=2>9:20am - 10:20am</td></br>
+    <td colspan=4>Libraries and the end of the world (Keynote)</td>
+    <i>Emily Drabinski</i></td>
   </tr>
   <tr>
     <td colspan=2>Break</td>
