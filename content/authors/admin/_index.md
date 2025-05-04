@@ -44,7 +44,7 @@ The CAIS 2025 conference is delighted to be joined by <strong>Emily Drabinski</s
 <strong>Submissions to CAIS 2025 are now closed.</strong>
 - <strong>Submission deadline</strong>: ~~January 8th, 2025~~ ~~January 20th, 2025, midnight Pacific Time.~~
 - <strong>Notification of acceptance</strong>: ~~No later than March 15, 2025.~~
-- <strong>Submission of final versions</strong>: No later than April 30, 2025.
+- <strong>Submission of final versions</strong>: ~~No later than April 30, 2025.~~
 - <strong>Conference</strong>: May 27-29, 2025.
 
 Please note that accepted presenters will have the choice of presenting in-person or virtually.
@@ -58,6 +58,10 @@ Please note that accepted presenters will have the choice of presenting in-perso
 - Poppy Riddle, Dalhousie University
 - Sandra Toze, Dalhousie University
 
+## Translators
+We are very grateful to Université de Montréal students Ambre Lefaix-Franchi, Faye Daw-Yi Fung, and Alice Aubin-Mercier for their assistance translating the conference proceedings.
+
+## Volunteers
 
 ## Contact us
 
