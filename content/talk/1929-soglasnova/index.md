@@ -1,5 +1,5 @@
 ---
-title: Canadian Libraries Use by Immigrants from Ukraine: Work in Progress
+title: "Canadian Libraries Use by Immigrants from Ukraine: Work in Progress"
 abstract: "This presentation addresses the use of libraries by Ukrainian immigrants in Canada based on a mixed methods study conducted primarily in Saskatchewan and Alberta, Canada. The objectives are to investigate the frequency and purpose of library use by the participants, and their preference for library type and services. The findings are important for improving library services to immigrants and refugees."
 location: Rowe 1007 and Zoom
 date: 2025-05-27T14:15:00.763Z
