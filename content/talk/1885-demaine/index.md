@@ -12,8 +12,8 @@ featured: false
 authors:
   - Jeffrey Demaine
 tags:
-  - "Academic Librarianship
-  - "Bibliometrics
+  - "Academic Librarianship"
+  - "Bibliometrics"
   - "Discovery"
   - "Human-Computer Interaction"
 categories:
