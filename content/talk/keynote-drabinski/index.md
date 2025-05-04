@@ -8,7 +8,7 @@ all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
-featured: false
+featured: true
 authors:
   - Emily Drabinski
 tags:
@@ -16,7 +16,7 @@ tags:
 categories:
   - Keynote
 image:
-  filename: keynote.png
+  filename: "keynote.png"
   focal_point: Smart
   preview_only: false
 ---
