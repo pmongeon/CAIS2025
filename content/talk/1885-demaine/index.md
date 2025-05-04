@@ -1,5 +1,5 @@
 ---
-title: Mapping SDGs by Faculty to Find New Interdisciplinary Collaborations, a Type of Linked Literature Analysis
+title: "Mapping SDGs by Faculty to Find New Interdisciplinary Collaborations: a Type of Linked Literature Analysis"
 abstract: "Social media platforms have amplified public scrutiny of libraries, as First Amendment auditors (FAAs) record their interactions to test constitutional boundaries. These encounters spark debates over the balance between free speech and maintaining an inclusive, orderly environment. Through an analysis of 300 YouTube comments on FAA-library interactions, this study highlights polarized public reactions influenced by selective video editing and algorithm-driven echo chambers. While auditors bring attention to issues of transparency, their confrontational tactics often challenge the core mission of libraries. The findings emphasize the importance of clear policies, staff training, and strategies to address the complexities of digital accountability."
 location: Rowe 1007 and Zoom
 date: 2025-05-29T10:05:00.763Z

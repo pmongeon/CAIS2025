@@ -1,5 +1,5 @@
 ---
-title: Digital Serious Games as Tools to Support Educational: Information Practices of Teachers, Integretion Perspectives and Challenges of their Preservation at the French National Library (BNF)
+title: "Digital Serious Games as Tools to Support Educational: Information Practices of Teachers, Integretion Perspectives and Challenges of their Preservation at the French National Library (BNF)"
 abstract: "During the last decades, Serious Games (SG) have emerged as innovative educational tools that blend learning with entertainment, addressing the challenges of digital and pedagogical shifts. However, incorporating these hybrid instruments into teaching methods and preserving them as cultural artifacts presents considerable obstacles. This research investigates the information-related behaviours of teachers and pedagogical engineers who work with Serious Games. Furthermore, this paper examines the efforts of the French National Library in preserving SG within its legal deposit framework, highlighting the complexities of archiving these digital artifacts. The findings reveal diverse informational practices, a need for specialized support in SG integration and challenges in long-term preservation."
 location: TBD
 date: 2025-05-27T16:10:00.763Z
