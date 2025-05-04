@@ -58,6 +58,10 @@ Please note that accepted presenters will have the choice of presenting in-perso
 - Poppy Riddle, Dalhousie University
 - Sandra Toze, Dalhousie University
 
+## Translators
+We are very grateful to Université de Montréal students Ambre Lefaix-Franchi, Faye Daw-Yi Fung, and Alice Aubin-Mercier for their assistance translating the conference proceedings.
+
+## Volunteers
 
 ## Contact us
 
