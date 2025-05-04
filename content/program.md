@@ -38,3 +38,4 @@ The CAIS conference committee is pleased to offer several events for conference 
 <strong>Day 3: Guided tour of Halifax Citadel National Historic Site!</strong>
 
 ![Citadel Tour poster](/Citadel.png)
+
