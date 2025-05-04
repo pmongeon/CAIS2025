@@ -1,20 +1,21 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: “WHY SHOULD I STAY?” CANADIAN BLACK YOUTH AND PUBLIC LIBRARIES
+abstract: "This study used narrative inquiry and critical approaches to race to explore Black youth perceptions of public libraries and community-based programs. The study was conducted in Ontario with youth aged 13 to 24 and parents of youth. Data was drawn from semi-structured interviews with youth and parents and an arts-based qualitative tool. Libraries were identified as safe and welcoming community spaces. However, youth feel poorly represented and seek youth programs with a race-conscious and inclusive approach. Core recommendations include equitable approaches to representation, strengthening relationships with partner organizations, and addressing performative approaches to inclusion."
+location: Rowe 1007 and Zoom
+date: 2025-05-28T15:20:00.763Z
+date_end: 2025-05-28T15:45:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Amber Matthews
 tags:
   - ""
 categories:
   - Papers
+  - Virtual
 #image:
 ##  filename: featured
 ##  focal_point: Smart

@@ -1,20 +1,23 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: "Supporting Global Equity in Documentary Heritage with a Free, Minimal Computing Solution for Creating Sustainable and Accessible Digital Exhibitions : The Case of Zulima"
+abstract: "The Global South’s documentary heritage is less online than the Global North’s and tools and methods are needed for enhancing the discoverability of collections where resources are constrained. The Zulima collection, late 19th- and early 20th-century documents pertaining to an important female Venezuelan author and playwright is a collection at risk of being lost as there are currently no memory institutions in Venezuela that can safely keep it. This project proposes a way to expand on existing metadata management software, SWALLOW, minimal web templates, a data export to Wikidata, and free asset hosting, to make this collection available online and accessible for future researchers."
+location: Rowe 1007 and Zoom
+date: 2025-05-28T15:45:00.763Z
+date_end: 2025-05-28T16:10:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Pamela Carson
+  - Francisco Berrizbeitia
 tags:
-  - ""
+  - "Archives"
+  - "Digital Preservation"
 categories:
   - Papers
+  - Hybrid
 #image:
 ##  filename: featured
 ##  focal_point: Smart
