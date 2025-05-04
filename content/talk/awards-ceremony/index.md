@@ -14,8 +14,6 @@ authors:
   - Sandra Toze
 #tags:
 #  - ""
-categories:
-  - Workshops
 #image:
 #  filename: featured
 #  focal_point: Smart
