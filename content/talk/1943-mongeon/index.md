@@ -21,10 +21,10 @@ tags:
   - "Bibliometrics" 
   - "Research Evaluation"
   - "OpenAlex"
-  - "Web of Science
-  - "Library and Information Science
+  - "Web of Science"
+  - "Library and Information Science"
   - "Open Data"
-  - "Metadata
+  - "Metadata"
   - "Document Type"
 categories:
   - Papers
