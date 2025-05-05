@@ -264,7 +264,7 @@ header:
     <th colspan=4>Conference Reception at the Social</th>
   </tr>
   <tr>
-      <td colspan=6 style="font-size:20px"><strong>Day 2 - Wednesday, May 28</strong> </td>
+      <td colspan=6 style="font-size:20px"><strong>Day 3 - Thursday, May 29</strong> </td>
   </tr>
    <tr>
     <td colspan=2 style="width:20%">8:15am - 9:00am</td>
