@@ -1,6 +1,6 @@
 ---
 title: Heather Hill
-role: Western University
+role: University of Western Ontario
 bio: ""
 avatar_filename: avatar.jpg
 superuser: false
