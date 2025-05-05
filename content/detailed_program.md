@@ -259,4 +259,21 @@ header:
         <i>Camille Demers</i></td>
   </td>
   </tr>
+  <tr>
+    <th colspan=2>5:00pm - 8:00pm</th>
+    <th colspan=4>Conference Reception at the Social</th>
+  </tr>
+  <tr>
+      <td colspan=6 style="font-size:20px"><strong>Day 2 - Wednesday, May 28</strong> </td>
+  </tr>
+   <tr>
+    <td colspan=2 style="width:20%">8:15am - 9:00am</td>
+    <td colspan=4 style="width:60%">Coffee and Pastries- Rowe Atrium</td>
+  </tr>
+
+  <tr>
+    <th colspan=3>Rowe 1007 - Zoom A</th>
+    <th colspan=3>Rowe 1014 - Zoom B</th>
+  </tr>
+
 </table>
