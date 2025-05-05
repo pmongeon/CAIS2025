@@ -152,6 +152,13 @@ header:
         <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
   </td> 
   </tr>
+  <tr>
+    <th colspan=2>5:00pm - 8:00pm</th>
+    <th colspan=4>Conference Reception at the Social</th>
+  </tr>
+  <tr>
+      <td colspan=6 style="font-size:20px"><strong>Day 2 - Wednesday, May 28</strong> </td>
+  </tr>
 
   <tr> 
     <td colspan=2 > 3:45pm - 4:15pm</td>
