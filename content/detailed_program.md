@@ -29,30 +29,26 @@ header:
       <td colspan=6><strong>Opening session - Rowe 1009 and Zoom A </strong></td>
   </tr>
   <tr>
-    <th colspan=2 style="width:20%">Time (AST)</th>
-    <th colspan=4 style="width:60%">Event</th>
-  </tr>
-  <tr>
     <td colspan=2>9:00am - 9:20am</td>
     <td colspan=2>Opening remarks</td>
     <td colspan=2></a></strong></td>
   </tr>
   <tr>
-    <td colspan=2>9:20am - 10:20am</td></br>
+    <td colspan=2>9:20am - 10:20am</td>
     <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a><br>
     <i>Emily Drabinski</i></td>
   </tr>
   <tr>
-    <td>Break</td>
-    <td colspan=5>10:20am - 10:35am</td>
+    <td colspan=2>10:20am - 10:40am</td>
+	<td colspan=4>Break</td>
   </tr>
   <tr>
-    <td colspan=2>10:20am - 10:35am</td></br>
-    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a><br>
-    <i>Emily Drabinski</i></td>
+    <td colspan=2>10:40am - 11:10am</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/awards-ceremony/">Awards Ceremony</a><br>
+    <i>Ping Li, Sandra Toze</i></td>
   </tr>
   <tr>
-    <td colspan=2>9:20am - 10:20am</td></br>
+    <td colspan=2>9:20am - 10:20am</td>
     <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a><br>
     <i>Emily Drabinski</i></td>
   </tr>
