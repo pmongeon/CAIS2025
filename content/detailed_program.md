@@ -22,7 +22,7 @@ header:
     <th colspan=4>Event</th>
   </tr>
    <tr>
-    <td colspan=2 style="width:20%">8:15-9:00</td>
+    <td colspan=2 style="width:20%">8:15am - 9:00am</td>
     <td colspan=4 style="width:60%">Registrations - Rowe Atrium</td>
   </tr>
   <tr>
@@ -80,21 +80,22 @@ header:
   </td>
   </tr>
   <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
+    <td>1:50pm - 2:15pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1937-cornwell/">Theorizing Improved NLP Features for Promoting Behavior that Supports CMC Users’ Subjective Well-Being
+</a><br>
+        <i>Sarah E. Cornwell, Nicole S. Delellis, Dominique Kelly, Yifan Liu, Alexandre Mayhew, Yimin Chen, Victoria L. Rubin</i></td>
+    <td>1:50pm - 2:15pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1936-gracey/">A Study of Graduate Students’ Experienecs of Artificial Intelligence at the University of New Brunswick</a><br>
+        <i>Catherine Gracey, Julie Morris, Richelle Witherspoon, Erik Moore</i></td>
   </td>
   </tr>
   <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
+    <td>2:15pm - 2:40pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1929-soglasnova/">Canadian Libraries Use by Immigrants from Ukraine: Work in Progress</a><br>
+        <i>Lana Soglasnova, Veronika Makarova</i></td>
+    <td>2:15pm - 2:40pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1888-hirt/">Adventurers and Algorithms: AI and the Evolution of TTRPG Gameplay</a><br>
+        <i>Juliana Hirt, Wan-Chen Lee</i></td>
   </td>
   </tr>
   <tr>
@@ -102,28 +103,20 @@ header:
     <th colspan=4>Coffee Break - Rowe Atrium</th>
   </tr>
  <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
+    <td rowspan=3>2:55pm - 4:10pm</td>
+    <td rowspan =3, colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Respectful Terminologies Workshop</a><br>
+        <i>Stacy Allison-Cassin</i></td>
+    <td>2:55pm - 3:20pm</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
         <i>Camille Demers</i></td>
   </td>
   </tr>
   <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
+    <td>3:20pm - 3:45pm</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
         <i>Camille Demers</i></td>
   </td>
   </tr>
-  <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
         <i>Camille Demers</i></td>
   </td>
@@ -234,11 +227,12 @@ header:
   </tr>
  <tr>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+    <td colspan=1><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+    <td colspan=1><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
+		
   </td>
   </tr>
   <tr>
@@ -267,7 +261,9 @@ header:
     <td>10:30am - 10:55am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
-   
+    <td>1:00pm - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
   </tr>
   <tr>
     <td>10:55am - 11:20am</td>
