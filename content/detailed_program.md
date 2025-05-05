@@ -260,8 +260,28 @@ header:
   </td>
   </tr>
   <tr>
-    <th colspan=2>5:00pm - 8:00pm</th>
-    <th colspan=4>Conference Reception at the Social</th>
+    <th colspan=2>2:15pm - 2:30pm</th>
+    <th colspan=4>Coffee Break</th>
+  </tr>
+ <tr>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+   
+  </tr>
+  <tr>
+    <td>10:55am - 11:20am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+  </tr>
+  <tr>
+    <td>11:20am - 11:45am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+  </tr>
+  <tr>
+    <th colspan=2>6:00pm</th>
+    <th colspan=4>Dinner at the Old Triangle</th>
   </tr>
   <tr>
       <td colspan=6 style="font-size:20px"><strong>Day 3 - Thursday, May 29</strong> </td>
