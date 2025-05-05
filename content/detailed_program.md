@@ -169,31 +169,28 @@ header:
 
 
  <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
-  </td>
+    <td>9:00am - 9:25am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1941-beaton/">Extreme Sport and Information: Initial Findings of Technical Cave Diver’s Information-Seeking Behaviours</a><br>
+        <i>Toni Beaton, Stacy Allison-Cassin</i></td>
+    <td>9:00am - 9:25am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1951-centivany/">A Window into Generative Artificial Intelligence Under Copyright Law & Policy in Canada</a><br>
+        <i>Alissa Centivany</i></td>
   </tr>
   <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
-  </td>
+    <td>9:25am - 9:50am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1882-veeninga/">Parental HIV Disclosure: Scoping Literature Review with a Lens on Information Behavior</a><br>
+        <i>Katherine Veeninga</i></td>
+    <td>9:25am - 9:50am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1913-thornton/">AI in Canadian LIS Journals: A Text Analysis</a><br>
+        <i>Gail M. Thornton, Emily Kroeker</i></td>
   </tr>
   <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
-  </td>
+    <td>9:50am - 10:15am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1955-shuva/">Employment-related information experiences of Bangladeshi immigrants in New York City</a><br>
+        <i>Nafiz Zaman Shuva</i></td>
+    <td>9:50am - 10:15am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1874-shiri/">Conceptualizations of Information Science by Large Language Models</a><br>
+        <i>Ali Shiri</i></td>
   </tr>
   <tr>
     <th colspan=2>10:15am - 10:30am</th>
@@ -204,19 +201,19 @@ header:
     <td colspan=2, rowspan=3><a href="https://cais2025.ca/talk/1931-bullard/">Knowledge Organization in a Dangerous Time (Panel)</a><br>
         <i>Julia Bullard, Melissa Adler, Stacy Allison-Cassin, Sharon Farnel, Ali Shiri</i></td>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1949-youngman/">Cultural Heritage Informatics: Past, Present, and Future</a><br>
+        <i>Tyler Youngman, Sebastian Modrow, Isaac Meth</i></td>
   </td>
   </tr>
   <tr>
     <td>10:55am - 11:20am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1887-detlor/">Public Library-Led Digital Literacy Training to Older Adults in Social Housing</a><br>
+        <i>Brian Detlor</i></td>
   </td>
   </tr>
   <tr>
     <td>11:20am - 11:45am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1893-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
         <i>Camille Demers</i></td>
   </td>
   </tr>
