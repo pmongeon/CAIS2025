@@ -39,7 +39,7 @@ header:
   </tr>
   <tr>
     <td colspan=2>9:20am - 10:20am</td></br>
-    <td colspan=4>Libraries and the end of the world (Keynote)</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a></td>
     <i>Emily Drabinski</i></td>
   </tr>
   <tr>
