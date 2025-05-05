@@ -104,21 +104,21 @@ header:
   </tr>
  <tr>
     <td rowspan=3>2:55pm - 4:10pm</td>
-    <td rowspan =3, colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Respectful Terminologies Workshop</a><br>
+    <td rowspan =3, colspan=2><a href="https://cais2025.ca/talk/respectful-terminologies-workshop/">Respectful Terminologies Workshop</a><br>
         <i>Stacy Allison-Cassin</i></td>
     <td>2:55pm - 3:20pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasie Use of Undesirable Models and Language in Research on Neurogivergence in Academic Libraries</a><br>
+        <i>Catharina Ochsner, Jesse David Dinneen</i></td>
   </td>
   </tr>
   <tr>
     <td>3:20pm - 3:45pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1925-adewunmi/">Black Women In STEM: Reimagining the Role of Information Science as a Pathway to STEM Equity in the United States</a><br>
+        <i>Joanna Adewunmi, Melissa Ocepek</i></td>
   </td>
   </tr>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1920-fitzgerald/">Accessibility policies in libary and information science</a><br>
+        <i>Drew Fitzgerald</i></td>
   </td>
   <tr>
     <th colspan=2>4:10pm - 5:00pm</th>
@@ -127,22 +127,22 @@ header:
   <tr>
     <td colspan=1>Posters</td>
     <td colspan=5>
-	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
-	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
-	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
-	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
-	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
-	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
-	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
-	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
+	<a href="https://cais2025.ca/talk/1912-rath/">Document Analysis and Information Behavior of Pre-Service Teacher Perceptions of ChatGPT Generated Lesson Plans</a><br>
+        <i>Logan Rath, Peter Kalenda</i><br><br>
+	<a href="https://cais2025.ca/talk/1952-mann/">Steering the Narrative: An Analysis of how Cybersecurity Rhetoric is used to Hinder the Right to Repair</a><br>
+        <i>Jasvinder Mann, Alissa Centivany</i><br><br>
+	<a href="https://cais2025.ca/talk/1961-slipp/">Mind your own Business? Business Database Subscriptions in Atlantic Canadian Postsecondary Libraries</a><br>
+        <i>Nicole Slipp, Nicole Marcoux</i><br><br>
+	<a href="https://cais2025.ca/talk/1886-ndiaye/">Digital Serious Games as Tools to Support Educational: Information Practices of Teachers, Integretion Perspectives and Challenges of their Preservation at the French National Library (BNF)</a><br>
+        <i>Mamoudou Ndiaye, Raphaëlle Fabrice</i><br><br>
+	<a href="https://cais2025.ca/talk/1907-landy/">Personal and Professional Information Behaviours of Comic and Graphic Novel Librarians in Toronto</a><br>
+        <i>Alexandra Landy</i><br><br>
+	<a href="https://cais2025.ca/talk/1963-mondesir/">Patterns of Chat Users: Analyzing Repeat Users of a Consortium-Level Virtual Reference Service</a><br>
+        <i>Guinsly Mondesir, Maggie Gordon</i><br><br>
+	<a href="https://cais2025.ca/talk/1898-hare/">Measuring Literacy: The Results of a Scoping Review</a><br>
+        <i>Madelaine Hare, Sandra Toze, Wendy Kraglund-Gauthier, Alison Brown, Poppy Riddle, Lindsay McNiff, Jayne Hunter</i><br><br>
+	<a href="https://cais2025.ca/talk/1918-rath/">Librarian Use of the Knowledge Practices and Dispositions in the ACRL Framework</a><br>
+        <i>Logan Rath, Heidi Julien</i><br><br>
   </td> 
   </tr>
   <tr>
