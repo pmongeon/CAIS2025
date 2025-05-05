@@ -49,8 +49,18 @@ header:
   </tr>
   <tr>
     <td colspan=2>11:10am - 11:35am</td>
-    <td colspan=4><a href="https://cais2025.ca/talk/1928-barriage/">What Does a Librarian Look Like? Understanding Undergraduate Student Perceptions of Librarians (Best Paper Award)</a><br>
+    <td colspan=4><a href="https://cais2025.ca/talk/1928-barriage/">What Does a Librarian Look Like? Understanding Undergraduate Student Perceptions of Librarians (Best Paper)</a><br>
     <i>Sarah Barriage, Beth Strickland Bloch, Ena Prskalo</i></td>
+  </tr>
+  <tr>
+    <td colspan=2>11:35am - 12:00pm</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/1917-tracey/">Cycles of Bias: Soft Censorship in Libraries (Best Student Paper)</a><br>
+    <i>Adelaide Tracey, Anton Boudreau Ninkov</i></td>
+  </tr>
+  <tr>
+    <td colspan=2>12:00am - 12:25am</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/1876-weiss/">Exploring Dehumanization and Infrahumanization as Underlying Factors in Misinformation Belief and Spread (Best Practitioner Paper)</a><br>
+    <i>Andrew Weiss, Souvick Ghosh, Frances Johnson</i></td>
   </tr>
   
   <tr>
