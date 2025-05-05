@@ -259,15 +259,16 @@ header:
     <th colspan=2>2:15pm - 2:30pm</th>
     <th colspan=4>Coffee Break</th>
   </tr>
+    <tr>
+    <th colspan=3>Rowe 1007 - Zoom A</th>
+    <th colspan=3>Rowe 5053 - Zoom C</th>
+  </tr>
  <tr>
     <td>2:30pm - 10:55am</td>
-    <td colspan=1><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:00pm - 10:55am</td>
-    <td colspan=1><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-		<td rowspan=3>1:00pm - 2:15pm</td>
-	<td rowspan=3>Student Research Forum<br>
+    <td>2:30pm - 3:45pm</td>
+	<td colspan=2, rowspan=3>Student Research Forum<br>
 		<i>Organizer: Constance Poitras</i></td>
   </tr>
   <tr>
