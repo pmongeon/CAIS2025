@@ -22,11 +22,11 @@ header:
     <th colspan=4>Event</th>
   </tr>
    <tr>
-    <th colspan=2 style="width:20%">8:15-9:00</th>
-    <th colspan=4 style="width:60%">Registrations (Rowe building atrium)</th>
+    <td colspan=2 style="width:20%">8:15-9:00</td>
+    <td colspan=4 style="width:60%">Registrations (Rowe building atrium)</td>
   </tr>
   <tr>
-      <td colspan=6><strong>Opening session - Rowe 1009 and Zoom A </strong></td>
+      <th colspan=6>Opening session - Rowe 1009 and Zoom A</th>
   </tr>
   <tr>
     <td colspan=2>9:00am - 9:20am</td>
@@ -40,7 +40,7 @@ header:
   </tr>
   <tr>
     <td colspan=2>10:20am - 10:40am</td>
-	<td colspan=4>Break</td>
+    <td colspan=4>Break</td>
   </tr>
   <tr>
     <td colspan=2>10:40am - 11:10am</td>
@@ -62,14 +62,13 @@ header:
     <td colspan=4><a href="https://cais2025.ca/talk/1876-weiss/">Exploring Dehumanization and Infrahumanization as Underlying Factors in Misinformation Belief and Spread (Best Practitioner Paper)</a><br>
     <i>Andrew Weiss, Souvick Ghosh, Frances Johnson</i></td>
   </tr>
-  
   <tr>
-    <th>Session</th>
-    <th>Time (EDT)</th>
-    <th><a href="https://westernuniversity.zoom.us/j/91531028175">Track 1</a><//th>
-    <th>Session</th>
-    <th>Time (EDT)</th>
-    <th><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Track 2</a></th>
+    <td colspan=2>12:25am - 13:25am</td>
+    <td colspan=4>Lunch</td>
+  </tr>
+  <tr>
+    <th colspan=3>Rowe 1007 - Zoom A</th>
+    <th colspan=3>Rowe 1014 - Zoom B</th>
   </tr>
   
   <tr>
