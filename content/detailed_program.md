@@ -58,31 +58,25 @@ header:
     <i>Adelaide Tracey, Anton Boudreau Ninkov</i></td>
   </tr>
   <tr>
-    <td colspan=2>12:00am - 12:25am</td>
+    <td colspan=2>12:00pm - 12:25pm</td>
     <td colspan=4><a href="https://cais2025.ca/talk/1876-weiss/">Exploring Dehumanization and Infrahumanization as Underlying Factors in Misinformation Belief and Spread (Best Practitioner Paper)</a><br>
     <i>Andrew Weiss, Souvick Ghosh, Frances Johnson</i></td>
   </tr>
   <tr>
-    <td colspan=2>12:25am - 13:25am</td>
+    <td colspan=2>12:25pm - 1:25pm</td>
     <td colspan=4>Lunch</td>
   </tr>
   <tr>
     <th colspan=3>Rowe 1007 - Zoom A</th>
     <th colspan=3>Rowe 1014 - Zoom B</th>
   </tr>
-  
   <tr>
-  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Advances in Diverstiy, Equity, and Inclusion I </a><br>
-        <i>Moderator: Sarah Polkinghorne</i></td>
-    <td>1:15pm - 1:45pm</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/01.Mehra/">Civic Engagement and Collective Impact For Social Change: Public Libraries Promoting Racial Justice in the American Southt</a></strong><br>
-        <i>Bharat Mehra, Kimberly Black, Baheya Jaber and Kaurri Williams-Cockfield</i>
-  </td>
-    <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session I </a><br>
-        <i>Moderator: Shirin G.Alamdari</i></td>
-    <td rowspan=3>1:15pm - 2:45pm</td>
-    <td rowspan=3><strong><a href="https://www.cais2024.ca/talk/Panel1/">Cultural Heritage Informatics, Old Idea or Emerging Domain?: Stumbling into a Shared Definition for Research and Teachings</a></strong><br>
-        <i>Hannah Turner, Shirin G. Alamdari, Stacy Allison-Cassin, Isto Huvila, Diana Marsh and Andrea Thomer</i>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+        <i>Camille Demers</i></td>
   </td>
   </tr>
   
