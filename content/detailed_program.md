@@ -287,13 +287,61 @@ header:
       <td colspan=6 style="font-size:20px"><strong>Day 3 - Thursday, May 29</strong> </td>
   </tr>
    <tr>
-    <td colspan=2 style="width:20%">8:15am - 9:00am</td>
+    <td colspan=2 style="width:20%">9:00am - 9:15am</td>
     <td colspan=4 style="width:60%">Coffee and Pastries- Rowe Atrium</td>
   </tr>
-
   <tr>
     <th colspan=3>Rowe 1007 - Zoom A</th>
     <th colspan=3>Rowe 1014 - Zoom B</th>
   </tr>
-
+ <tr>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+  </tr>
+   <tr>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+  </tr>
+   <tr>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+  </tr>
+   <tr>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+  </tr>
+ <tr>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Conference Closing</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+ </tr>
+  <tr>
+    <th colspan=2>2:15pm - 2:30pm</th>
+    <th colspan=4>Coffee Break/Light Lunch</th>
+  </tr>
+ <tr>
+    <td>12:00pm - 2:00pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">CAIS Annual General Meeting</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+ </tr>
+  <tr>
+    <th colspan=2>2:25pm - 4:00pm</th>
+    <th colspan=4>Group guided tour of Halifax Citadel National Historic Site</th>
+  </tr>
 </table>
