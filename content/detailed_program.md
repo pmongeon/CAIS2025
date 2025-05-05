@@ -160,7 +160,7 @@ header:
       <td colspan=6 style="font-size:20px"><strong>Day 2 - Wednesday, May 28</strong> </td>
   </tr>
    <tr>
-    <td colspan=2 style="width:20%">8:15-9:00</td>
+    <td colspan=2 style="width:20%">8:15am - 9:00am</td>
     <td colspan=4 style="width:60%">Coffee and Pastries- Rowe Atrium</td>
   </tr>
 
@@ -198,48 +198,39 @@ header:
   </td>
   </tr>
   <tr>
-    <th colspan=2>2:40pm - 2:55pm</th>
+    <th colspan=2>10:15am - 10:30am</th>
     <th colspan=4>Coffee Break - Rowe Atrium</th>
   </tr>
  <tr>
-    <td>1:25pm - 1:50pm</td>
+    <td>10:30am - 10:55am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
+    <td>10:30am - 10:55am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+  </td>
+  </tr>
+  <tr>
+    <td>10:55am - 11:20am</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>10:55am - 11:20am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
         <i>Camille Demers</i></td>
   </td>
   </tr>
   <tr>
-    <td>1:25pm - 1:50pm</td>
+    <td>11:20am - 11:45am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
-  </td>
-  </tr>
-  <tr>
-    <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>1:25pm - 1:50pm</td>
+    <td>11:20am - 11:45am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
         <i>Camille Demers</i></td>
   </td>
   <tr>
-
-  <tr> 
-    <td colspan=2 > 3:45pm - 4:15pm</td>
-    <td colspan=2 > <strong><a href="https://www.cais2024.ca/talk/05.Baker/">Transformative Reflection on Perspective Consciousness: Providing a Leap Forward in Diversity, Equity, Inclusion, and Belonging in Practice</a></strong><br>
-        <i>Sheila F Baker and Vivienne McClendon</i>
-  </td>
-  </tr>
-
-  
   <tr>
-    <td>Break</td>
-    <td colspan=5>4:15pm - 5:00pm</td>
+    <th colspan=2>11:45am - 1:00pm</th>
+    <th colspan=4>Lunch</th>
   </tr>
   
   <tr>
