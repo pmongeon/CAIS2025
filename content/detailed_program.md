@@ -48,9 +48,9 @@ header:
     <i>Ping Li, Sandra Toze</i></td>
   </tr>
   <tr>
-    <td colspan=2>9:20am - 10:20am</td>
-    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a><br>
-    <i>Emily Drabinski</i></td>
+    <td colspan=2>11:10am - 11:35am</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/1928-barriage/">What Does a Librarian Look Like? Understanding Undergraduate Student Perceptions of Librarians (Best Paper Award)</a><br>
+    <i>Sarah Barriage, Beth Strickland Bloch, Ena Prskalo</i></td>
   </tr>
   
   <tr>
