@@ -18,15 +18,15 @@ header:
       <td colspan=6 style="font-size:20px"><strong>Day 1 - Tuesday, May 27</strong> </td>
   </tr>
    <tr>
-    <th colspan=2 style="width:20%">Time (AST)</th>
-    <th colspan=4 style="width:60%">Event</th>
+    <th colspan=2>Time (AST)</th>
+    <th colspan=4>Event</th>
   </tr>
    <tr>
     <th colspan=2 style="width:20%">8:15-9:00</th>
     <th colspan=4 style="width:60%">Registrations (Rowe building atrium)</th>
   </tr>
   <tr>
-      <td colspan=6 style="font-size:20px"><strong>Opening session - Rowe 1009 and Zoom A </strong></td>
+      <td colspan=6><strong>Opening session - Rowe 1009 and Zoom A </strong></td>
   </tr>
   <tr>
     <th colspan=2 style="width:20%">Time (AST)</th>
@@ -39,7 +39,7 @@ header:
   </tr>
   <tr>
     <td colspan=2>9:20am - 10:20am</td></br>
-    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a>
+    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a><br>
     <i>Emily Drabinski</i></td>
   </tr>
   <tr>
@@ -48,12 +48,12 @@ header:
   </tr>
   <tr>
     <td colspan=2>10:20am - 10:35am</td></br>
-    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a></td>
+    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a><br>
     <i>Emily Drabinski</i></td>
   </tr>
   <tr>
     <td colspan=2>9:20am - 10:20am</td></br>
-    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a></td>
+    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a><br>
     <i>Emily Drabinski</i></td>
   </tr>
   
