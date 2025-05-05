@@ -23,7 +23,7 @@ header:
   </tr>
    <tr>
     <td colspan=2 style="width:20%">8:15-9:00</td>
-    <td colspan=4 style="width:60%">Registrations (Rowe Atrium)</td>
+    <td colspan=4 style="width:60%">Registrations - Rowe Atrium</td>
   </tr>
   <tr>
       <th colspan=6>Opening session - Rowe 1009 and Zoom A</th>
@@ -159,6 +159,75 @@ header:
   <tr>
       <td colspan=6 style="font-size:20px"><strong>Day 2 - Wednesday, May 28</strong> </td>
   </tr>
+   <tr>
+    <td colspan=2 style="width:20%">8:15-9:00</td>
+    <td colspan=4 style="width:60%">Coffee and Pastries- Rowe Atrium</td>
+  </tr>
+
+  <tr>
+    <th colspan=3>Rowe 1007 - Zoom A</th>
+    <th colspan=3>Rowe 1014 - Zoom B</th>
+  </tr>
+
+
+ <tr>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+        <i>Camille Demers</i></td>
+  </td>
+  </tr>
+  <tr>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+        <i>Camille Demers</i></td>
+  </td>
+  </tr>
+  <tr>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+        <i>Camille Demers</i></td>
+  </td>
+  </tr>
+  <tr>
+    <th colspan=2>2:40pm - 2:55pm</th>
+    <th colspan=4>Coffee Break - Rowe Atrium</th>
+  </tr>
+ <tr>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+        <i>Camille Demers</i></td>
+  </td>
+  </tr>
+  <tr>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+        <i>Camille Demers</i></td>
+  </td>
+  </tr>
+  <tr>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
+        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+        <i>Camille Demers</i></td>
+  </td>
+  <tr>
 
   <tr> 
     <td colspan=2 > 3:45pm - 4:15pm</td>
