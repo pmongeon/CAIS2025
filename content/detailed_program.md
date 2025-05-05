@@ -266,6 +266,9 @@ header:
     <td>1:00pm - 10:55am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
+		<td rowspan=3>1:00pm - 2:15pm</td>
+	<td rowspan=3>Student Research Forum<br>
+		<i>Organizer: Constance Poitras</i></td>
   </tr>
   <tr>
     <td>10:55am - 11:20am</td>
