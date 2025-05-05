@@ -229,7 +229,7 @@ header:
     <td colspan=1><a href="https://cais2025.ca/talk/1899-van-bellen/">Diamond Open Access and Open Infrastructures Have Shaped the Canadian Scholarly Journal Landscape Since the Start of the Digital Era</a><br>
         <i>Simon van Bellen, Lucía Céspedes</i></td>
 	<td rowspan=3>1:00pm - 2:15pm</td>
-	<td rowspan=3>Student Research Forum<br>
+	<td rowspan=3>Student Research Forum - Deloitte Greenhouse (Rowe 5053)<br>
 		<i>Organizer: Constance Poitras</i></td>
   </tr>
   <tr>
