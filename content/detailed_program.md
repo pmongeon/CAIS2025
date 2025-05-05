@@ -341,8 +341,8 @@ header:
         <i>CAIS Organizing Committee</i></td>
  </tr>
   <tr>
-    <th colspan=2>11:40am - 12:00pm</th>
-    <th colspan=4>Coffee Break/Light Lunch</th>
+    <td colspan=2>11:40am - 12:00pm</td>
+    <td colspan=4>Coffee Break/Light Lunch</td>
   </tr>
  <tr>
     <td>12:00pm - 2:00pm</td>
