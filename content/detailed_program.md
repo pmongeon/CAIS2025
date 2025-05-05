@@ -201,8 +201,8 @@ header:
   </tr>
  <tr>
     <td rowspan=3>10:30am - 10:55am</td>
-    <td colspan=2, rowspan=3><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2, rowspan=3><a href="https://cais2025.ca/talk/1931-bullard/">Knowledge Organization in a Dangerous Time (Panel)</a><br>
+        <i>Julia Bullard, Melissa Adler, Stacy Allison-Cassin, Sharon Farnel, Ali Shiri</i></td>
     <td>10:30am - 10:55am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
