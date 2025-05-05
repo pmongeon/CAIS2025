@@ -221,6 +221,11 @@ header:
     <th colspan=2>11:45am - 1:00pm</th>
     <th colspan=4>Lunch</th>
   </tr>
+  <tr>
+    <th colspan=2>Rowe 1007 - Zoom A</th>
+    <th colspan=2>Rowe 1014 - Zoom B</th>
+	<th colspan=2>Rowe 5053 - Zoom C</th>
+  </tr>
  <tr>
     <td>1:00pm - 1:25pm</td>
     <td colspan=1><a href="https://cais2025.ca/talk/1880-iopatovska/">Addressing Teen Mental Health Needs at Individual and Community Levels</a><br>
@@ -229,7 +234,7 @@ header:
     <td colspan=1><a href="https://cais2025.ca/talk/1899-van-bellen/">Diamond Open Access and Open Infrastructures Have Shaped the Canadian Scholarly Journal Landscape Since the Start of the Digital Era</a><br>
         <i>Simon van Bellen, Lucía Céspedes</i></td>
 	<td rowspan=3>1:00pm - 2:15pm</td>
-	<td rowspan=3>Student Research Forum - Deloitte Greenhouse (Rowe 5053)<br>
+	<td rowspan=3>Student Research Forum<br>
 		<i>Organizer: Constance Poitras</i></td>
   </tr>
   <tr>
