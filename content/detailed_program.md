@@ -117,6 +117,7 @@ header:
         <i>Joanna Adewunmi, Melissa Ocepek</i></td>
   </td>
   </tr>
+	<td>3:20pm - 3:45pm</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1920-fitzgerald/">Accessibility policies in libary and information science</a><br>
         <i>Drew Fitzgerald</i></td>
   </td>
