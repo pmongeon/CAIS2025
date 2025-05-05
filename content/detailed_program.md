@@ -284,10 +284,8 @@ header:
   </tr>
   <tr>
     <th colspan=2>6:00pm</th>
-    <th colspan=4>Dinner at the Old Triangle</th>
+    <th colspan=4>Dinner and Music at the Old Triangle</th>
   </tr>
-  
-  
   
   
   
@@ -307,40 +305,40 @@ header:
   </tr>
  <tr>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1894-poitras/">L’état des frontières sous-disciplinaires en bibliothéconomie et sciences de l’information : entre porosité et étanchéité</a><br>
+        <i>Constance Poitras</i></td>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1884-dufour/">Discriminations au sein des professions et métiers documentaires au québec, qu’en est-il? Résultats d’une enquête sur la réconciliation, l’équité, la diversité et l’inclusion (RÉDI)</a><br>
+        <i>Christine Dufour, Marie D. Martel, Micheline Brûlé, Jennifer Ricard, Julie Lise Simard</i></td>
   </tr>
    <tr>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1885-demaine/">Mapping SDGs by Faculty to Find New Interdisciplinary Collaborations: a Type of Linked Literature Analysis</a><br>
+        <i>Jeffrey Demaine</i></td>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1953-butler/">An Evidence-Based Approach to Advancing Open Science at the University of Ottawa: Experiences from the Open Science Working Group</a><br>
+        <i>Leigh-Ann Butler, Madelaine Hare, Saskia van Walsum, Chantal Ripp, Stefanie Haustein</i></td>
   </tr>
    <tr>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1902-orel/">Information Management Practices and Methodologies in Architecting Information Systems</a><br>
+        <i>Tatiana Orel, Inge Alberts, Mary Cavanagh</i></td>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1947-hill/">Reversing the Gaze: Ontario Public Library Managers’ Perception of and Experience with Accommodation for Disability</a><br>
+        <i>Heather Hill, Kevin Oswald</i></td>
   </tr>
    <tr>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1943-mongeon/">Investigating document type discrepancies between OpenAlex and the Web of Science</a><br>
+        <i>Philippe Mongeon, Madelaine Hare, Geoff Krause, Rebecca Marjoram, Poppy Riddle, Rémi Toupin, Summer Wilson</i></td>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1919-allard/">"Policies and Training Empowers Staff and Management to Act": Preliminary Findings From the Patron-Perpetrated (PPSH) Policies and Procedures Survey</a><br>
+        <i>Danielle Allard, Tami Oliphant</i></td>
   </tr>
  <tr>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Conference Closing</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/closing-ceremony/">Closing Ceremony</a><br>
+        <i>CAIS Organizing Committee</i></td>
  </tr>
   <tr>
     <th colspan=2>2:15pm - 2:30pm</th>
@@ -348,8 +346,8 @@ header:
   </tr>
  <tr>
     <td>12:00pm - 2:00pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">CAIS Annual General Meeting</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/agm/">CAIS Annual General Meeting</a><br>
+        <i>Nafiz Shuva, CAIS President</i></td>
  </tr>
   <tr>
     <th colspan=2>2:25pm - 4:00pm</th>
