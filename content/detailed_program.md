@@ -213,8 +213,8 @@ header:
   </tr>
   <tr>
     <td>11:20am - 11:45am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1893-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1893-sansbury/">The Librarian’s Role in Fostering Positive School-Wide Reading Culture in Georgia Schools</a><br>
+        <i>Sarah Sansbury</i></td>
   </td>
   </tr>
   <tr>
@@ -222,31 +222,32 @@ header:
     <th colspan=4>Lunch</th>
   </tr>
  <tr>
-    <td>10:30am - 10:55am</td>
-    <td colspan=1><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>10:30am - 10:55am</td>
-    <td colspan=1><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-		
+    <td>1:00pm - 1:25pm</td>
+    <td colspan=1><a href="https://cais2025.ca/talk/1880-iopatovska/">Addressing Teen Mental Health Needs at Individual and Community Levels</a><br>
+        <i>Irene lopatovska, Allison Cathey, Celia Coan, Melissa Bowden, Harrison Cortellesi, Alain Laforest, Van Nguyen, Hannah Ramirez</i></td>
+    <td>1:00pm - 1:25pm</td>
+    <td colspan=1><a href="https://cais2025.ca/talk/1899-van-bellen/">Diamond Open Access and Open Infrastructures Have Shaped the Canadian Scholarly Journal Landscape Since the Start of the Digital Era</a><br>
+        <i>Simon van Bellen, Lucía Céspedes</i></td>
+	<td rowspan=3>1:00pm - 2:15pm</td>
+	<td rowspan=3>Student Research Forum<br>
+		<i>Organizer: Constance Poitras</i></td>
+  </tr>
+  <tr>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=1><a href="https://cais2025.ca/talk/1906-onaolapo/">Library SCEB Model: Advocating Positive Psychology Interventions in Library Settings</a><br>
+        <i>Sodiq Onaolapo, Victoria Rubin</i></td>
+    <td>1:25pm - 1:50pm</td>
+    <td colspan=1><a href="https://cais2025.ca/talk/1908-sauve/">A Bibliometric Analysis of Research by Canadian Library and Information Science Academics and Practitioners</a><br>
+        <i>Jean-Sébastien Sauvé, Madelaine Hare, Geoff Krause, Constance Poitras, Poppy Riddle, Philippe Mongeon</i></td>
   </td>
   </tr>
   <tr>
-    <td>10:55am - 11:20am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>10:55am - 11:20am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
-  </td>
-  </tr>
-  <tr>
-    <td>11:20am - 11:45am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>11:20am - 11:45am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
-        <i>Camille Demers</i></td>
+    <td>1:50pm - 2:15pm</td>
+    <td colspan=1><a href="https://cais2025.ca/talk/1923-brown/">"Like a splinter had come out of her": A poetic inquiry of shared reading</a><br>
+        <i>Alison Brown</i></td>
+    <td>1:50pm - 2:15pm</td>
+    <td colspan=1><a href="https://cais2025.ca/talk/1954-obrien/">Exploring Alternative Formats of University-Community Engaged Knowledge Mobilization</a><br>
+        <i>Heather O'Brien, Evan Mauro, Kirby Manià, Avneet Dhillon</i></td>
   </td>
   </tr>
   <tr>
@@ -254,7 +255,7 @@ header:
     <th colspan=4>Coffee Break</th>
   </tr>
  <tr>
-    <td>10:30am - 10:55am</td>
+    <td>2:30pm - 10:55am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
     <td>1:00pm - 10:55am</td>
