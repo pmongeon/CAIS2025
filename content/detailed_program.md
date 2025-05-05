@@ -39,12 +39,22 @@ header:
   </tr>
   <tr>
     <td colspan=2>9:20am - 10:20am</td></br>
+    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a>
+    <i>Emily Drabinski</i></td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=5>10:20am - 10:35am</td>
+  </tr>
+  <tr>
+    <td colspan=2>10:20am - 10:35am</td></br>
     <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a></td>
     <i>Emily Drabinski</i></td>
   </tr>
   <tr>
-    <td colspan=2>Break</td>
-    <td colspan=4>12:45pm - 1:15pm</td>
+    <td colspan=2>9:20am - 10:20am</td></br>
+    <td colspan=4><a href="https://cais2025.ca/talk/keynote-drabinski/">Libraries and the end of the world (Keynote)</a></td>
+    <i>Emily Drabinski</i></td>
   </tr>
   
   <tr>
