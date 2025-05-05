@@ -265,22 +265,22 @@ header:
     <th colspan=3>Rowe 5053 - Zoom C</th>
   </tr>
  <tr>
-    <td>2:30pm - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
-    <td>2:30pm - 3:45pm</td>
+    <td>2:30pm - 2:55pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1870-budd/">Information, the Library, and Late(r) Capitalist Ideology</a><br>
+        <i>John Budd</i></td>
+    <td>2:30pm - 2:55pm</td>
 	<td colspan=2, rowspan=3>Student Research Forum<br>
 		<i>Organizer: Constance Poitras</i></td>
   </tr>
   <tr>
-    <td>10:55am - 11:20am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>2:55pm - 3:20pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1946-matthews/">"Why should I Stay?" Canadian Black Youth and Public Libraries</a><br>
+        <i>Amber Matthews</i></td>
   </tr>
   <tr>
-    <td>11:20am - 11:45am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
-        <i>Mary H. Moen, Lauren H. Mandel</i></td>
+    <td>3:20pm - 3:45pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1957-carson/">Supporting Global Equity in Documentary Heritage with a Free, Minimal Computing Solution for Creating Sustainable and Accessible Digital Exhibitions: The Case of Zulima</a><br>
+        <i>Pamela Carson, Francisco Berrizbeitia</i></td>
   </tr>
   <tr>
     <th colspan=2>6:00pm</th>
