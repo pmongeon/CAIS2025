@@ -23,7 +23,7 @@ header:
   </tr>
    <tr>
     <td colspan=2 style="width:20%">8:15-9:00</td>
-    <td colspan=4 style="width:60%">Registrations (Rowe building atrium)</td>
+    <td colspan=4 style="width:60%">Registrations (Rowe Atrium)</td>
   </tr>
   <tr>
       <th colspan=6>Opening session - Rowe 1009 and Zoom A</th>
@@ -99,7 +99,7 @@ header:
   </tr>
   <tr>
     <th colspan=2>2:40pm - 2:55pm</th>
-    <th colspan=4>Break</th>
+    <th colspan=4>Coffee Break - Rowe Atrium</th>
   </tr>
  <tr>
     <td>1:25pm - 1:50pm</td>
@@ -129,10 +129,11 @@ header:
   </td>
   <tr>
     <th colspan=2>4:10pm - 5:00pm</th>
-    <th colspan=4>Coffee Break and In-Person Poster Session</th>
+    <th colspan=4>Coffee Break and In-Person Poster Session - Rowe Atrium</th>
   </tr>
   <tr>
-  <td colspan=6>
+    <td colspan=1>Posters</td>
+    <td colspan=5>
 	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i><br><br>
 	<a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
