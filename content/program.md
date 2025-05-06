@@ -145,8 +145,8 @@ header:
         <i>Alexandra Landy</i><br><br>
 	<a href="https://cais2025.ca/talk/1963-mondesir/">Patterns of Chat Users: Analyzing Repeat Users of a Consortium-Level Virtual Reference Service</a><br>
         <i>Guinsly Mondesir, Maggie Gordon</i><br><br>
-	<a href="https://cais2025.ca/talk/1898-hare/">Measuring Literacy: The Results of a Scoping Review</a><br>
-        <i>Madelaine Hare, Sandra Toze, Wendy Kraglund-Gauthier, Alison Brown, Poppy Riddle, Lindsay McNiff, Jayne Hunter</i><br><br>
+	<a href="https://cais2025.ca/talk/1898-hare/">Reading the province: Creating a multiliteracy assessment framework for Nova Scotia</a><br>
+        <i>Madelaine Hare, Poppy Riddle, Sandra Toze, Wendy Kraglund-Gauthier, Alison Brown, Lindsay McNiff, Jayne Hunter</i><br><br>
 	<a href="https://cais2025.ca/talk/1918-rath/">Librarian Use of the Knowledge Practices and Dispositions in the ACRL Framework</a><br>
         <i>Logan Rath, Heidi Julien</i><br><br>
   </td> 
