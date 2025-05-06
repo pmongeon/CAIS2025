@@ -11,6 +11,7 @@ draft: false
 featured: false
 authors:
   - Stacy Allison-Cassin
+  - Camille Callison
 #tags:
 #  - ""
 categories:

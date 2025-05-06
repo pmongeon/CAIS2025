@@ -110,9 +110,9 @@ header:
  <tr>
     <td rowspan=3>2:55pm - 4:10pm</td>
     <td rowspan =3, colspan=2><a href="https://cais2025.ca/talk/respectful-terminologies-workshop/">Respectful Terminologies Workshop</a><br>
-        <i>Stacy Allison-Cassin</i></td>
+        <i>Stacy Allison-Cassin, Camille Callison</i></td>
     <td>2:55pm - 3:20pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasie Use of Undesirable Models and Language in Research on Neurogivergence in Academic Libraries</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasive Use of Undesirable Models and Language in Research on Neurogivergence in Academic Libraries</a><br>
         <i>Catharina Ochsner, Jesse David Dinneen</i></td>
   </td>
   </tr>
