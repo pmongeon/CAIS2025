@@ -225,22 +225,22 @@ header:
   <tr>
     <td colspan=1>Posters</td>
     <td colspan=5>
-	<a href="https://cais2025.ca/talk/1912-rath/">Document Analysis and Information Behavior of Pre-Service Teacher Perceptions of ChatGPT Generated Lesson Plans</a><br>
-        <i>Logan Rath, Peter Kalenda</i><br><br>
-	<a href="https://cais2025.ca/talk/1952-mann/">Steering the Narrative: An Analysis of how Cybersecurity Rhetoric is used to Hinder the Right to Repair</a><br>
-        <i>Jasvinder Mann, Alissa Centivany</i><br><br>
-	<a href="https://cais2025.ca/talk/1961-slipp/">Mind your own Business? Business Database Subscriptions in Atlantic Canadian Postsecondary Libraries</a><br>
-        <i>Nicole Slipp, Nicole Marcoux</i><br><br>
-	<a href="https://cais2025.ca/talk/1886-ndiaye/">Digital Serious Games as Tools to Support Educational: Information Practices of Teachers, Integretion Perspectives and Challenges of their Preservation at the French National Library (BNF)</a><br>
-        <i>Mamoudou Ndiaye, Raphaëlle Fabrice</i><br><br>
-	<a href="https://cais2025.ca/talk/1907-landy/">Personal and Professional Information Behaviours of Comic and Graphic Novel Librarians in Toronto</a><br>
-        <i>Alexandra Landy</i><br><br>
-	<a href="https://cais2025.ca/talk/1963-mondesir/">Patterns of Chat Users: Analyzing Repeat Users of a Consortium-Level Virtual Reference Service</a><br>
-        <i>Guinsly Mondesir, Maggie Gordon</i><br><br>
-	<a href="https://cais2025.ca/talk/1898-hare/">Measuring Literacy: The Results of a Scoping Review</a><br>
-        <i>Madelaine Hare, Sandra Toze, Wendy Kraglund-Gauthier, Alison Brown, Poppy Riddle, Lindsay McNiff, Jayne Hunter</i><br><br>
-	<a href="https://cais2025.ca/talk/1918-rath/">Librarian Use of the Knowledge Practices and Dispositions in the ACRL Framework</a><br>
-        <i>Logan Rath, Heidi Julien</i><br><br>
+	<a href="https://cais2025.ca/talk/1916-lockett/">Digital Search and Health Insurance Literacy in the U.S.</a><br>
+        <i>Amanda Lockett, Samaneh Borji</i><br><br>
+	<a href="https://cais2025.ca/talk/1924-follen/">Teaching with Archival Materials Using a Trauma-Informed Framework</a><br>
+        <i>Jennifer Follen</i><br><br>
+	<a href="https://cais2025.ca/talk/1960-bagchi/">Semantic Knowledge Management: Towards a Novel Knowledge Representation Perspective</a><br>
+        <i>Mayukh Bagchi</i><br><br>
+	<a href="https://cais2025.ca/talk/1891-gupta/">Common Issues and Uncommon Solutions to Cataloguing Comic Books in Libraries</a><br>
+        <i>Asmita Gupta</i><br><br>
+	<a href="https://cais2025.ca/talk/1930-kampen/">Accessibility policies in libary and information science</a><br>
+        <i>Andrea Kampen</i><br><br>
+	<a href="https://cais2025.ca/talk/1956-rathi/">Soft Skills are Important in Doctoral Degree Program: A Reflection by Doctoral Students</a><br>
+        <i>Dinesh Rathi, Jennifer Branch-Mueller</i><br><br>
+	<a href="https://cais2025.ca/talk/1909-ajanaku/">Organizational Culture as a Catalyst for Effective Knowledge Management in Healthcare Delivery among Nurses: Exploring the Link Between Culture and Knowledge Processes in Nursing Practice</a><br>
+        <i>Olateju Jumoke Ajanaku</i><br><br>
+	<a href="https://cais2025.ca/talk/1942-stieglitz/">Advancing Environmental Sustainability in Academic Libraries: A Process-Oriented Approach</a><br>
+        <i>Lauren Stieglitz, Virginia Pow, Olesya Komarnytska, Tim Klassen</i><br><br>
   </td> 
   </tr>
  
