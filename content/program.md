@@ -335,8 +335,8 @@ header:
     <td colspan=2><a href="https://cais2025.ca/talk/1894-poitras/">L’état des frontières sous-disciplinaires en bibliothéconomie et sciences de l’information : entre porosité et étanchéité</a><br>
         <i>Constance Poitras</i></td>
     <td>9:40am - 10:05am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1884-dufour/">Discriminations au sein des professions et métiers documentaires au québec, qu’en est-il? Résultats d’une enquête sur la réconciliation, l’équité, la diversité et l’inclusion (RÉDI)</a><br>
-        <i>Christine Dufour, Marie D. Martel, Micheline Brûlé, Jennifer Ricard, Julie Lise Simard</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1902-orel/">Information Management Practices and Methodologies in Architecting Information Systems</a><br>
+       <i>Tatiana Orel, Inge Alberts, Mary Cavanagh</i></td>
   </tr>
    <tr>
     <td>10:05am - 10:30am</td>
@@ -348,8 +348,8 @@ header:
   </tr>
    <tr>
     <td>10:30am - 10:55am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1902-orel/">Information Management Practices and Methodologies in Architecting Information Systems</a><br>
-        <i>Tatiana Orel, Inge Alberts, Mary Cavanagh</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1884-dufour/">Discriminations au sein des professions et métiers documentaires au québec, qu’en est-il? Résultats d’une enquête sur la réconciliation, l’équité, la diversité et l’inclusion (RÉDI)</a><br>
+        <i>Christine Dufour, Marie D. Martel, Micheline Brûlé, Jennifer Ricard, Julie Lise Simard</i></td>
     <td>10:30am - 10:55am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1947-hill/">Reversing the Gaze: Ontario Public Library Managers’ Perception of and Experience with Accommodation for Disability</a><br>
         <i>Heather Hill, Kevin Oswald</i></td>
