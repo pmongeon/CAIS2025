@@ -14,7 +14,7 @@ header:
 
 ## Pre-Conference Event
 
-<strong><a href="https://cais2025.ca/aligned-events/">May 26th: Archives in Action Workshop: Toward a National Policy Action Plan for Marginalized and Vulnerable Audiovisual Archives (2:30-4:30 pm) + Film screening and Panel Discussion (6:30-9:30 pm)</a></strong>
+<a href="https://cais2025.ca/aligned-events/">May 26th: Archives in Action Workshop: Toward a National Policy Action Plan for Marginalized and Vulnerable Audiovisual Archives (2:30-4:30 pm) + Film screening and Panel Discussion (6:30-9:30 pm)</a>
 
 ## Conference Program
 
