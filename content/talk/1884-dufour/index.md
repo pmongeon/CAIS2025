@@ -11,7 +11,7 @@ draft: false
 featured: false
 authors:
   - Christine Dufour
-  - "Marie D. Martel"
+  - Marie D. Martel
   - Micheline Brûlé
   - Jennifer Ricard
   - Julie Lise Simard
