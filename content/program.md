@@ -149,6 +149,9 @@ header:
         <i>Madelaine Hare, Poppy Riddle, Sandra Toze, Wendy Kraglund-Gauthier, Alison Brown, Lindsay McNiff, Jayne Hunter</i><br><br>
 	<a href="https://cais2025.ca/talk/1918-rath/">Librarian Use of the Knowledge Practices and Dispositions in the ACRL Framework</a><br>
         <i>Logan Rath, Heidi Julien</i><br><br>
+	<a href="https://cais2025.ca/talk/1958-mann/">Libraries in the Spotlight: First Amendment Auditors and Social Media Commentary</a><br>
+        <i>Jasvinder Mann</i><br><br>
+
   </td> 
   </tr>
   <tr>
@@ -228,8 +231,9 @@ header:
     <th colspan=4>Lunch (Atrium) + Virtual Poster Session (Rowe 1007)</th>
   </tr>
   <tr>
-    <td colspan=1>Posters</td>
+    <td colspan=1><br><br>Posters</td>
     <td colspan=5>
+	Posters will be presented in the following order. Each presenter will have 5 minutes to present and 3 minutes for questions.
 	<a href="https://cais2025.ca/talk/1916-lockett/">Digital Search and Health Insurance Literacy in the U.S.</a><br>
         <i>Amanda Lockett, Samaneh Borji</i><br><br>
 	<a href="https://cais2025.ca/talk/1924-follen/">Teaching with Archival Materials Using a Trauma-Informed Framework</a><br>
