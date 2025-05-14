@@ -1,20 +1,21 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: The Librarian’s Role in Fostering Positive School-Wide Reading Culture in Georgia Schools
+abstract: "This study examines how librarians in Georgia's K-12 public schools foster positive reading cultures. Using qualitative research, it explores how librarians promote reading engagement by creating inviting library spaces, curating diverse collections, developing programs that encourage reading for pleasure and academic growth, and collaborating with school community members. The research is guided by the Reading Culture framework, adapted from a combination of the cultures framework and the Expectancy-Value Theory of Achievement Motivation. This framework contextualizes how librarians influence reading culture through resources, programming, and relationships. This study's findings contain best practices for encouraging student reading engagement and increased literacy growth."
+location: Rowe 1014 and Zoom
+date: 2025-05-28T11:20:00.763Z
+date_end: 2025-05-28T11:45:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Sarah Sansbury
 tags:
-  - ""
+  - "School Libraries"
 categories:
   - Papers
+  - Virtual
 #image:
 ##  filename: featured
 ##  focal_point: Smart

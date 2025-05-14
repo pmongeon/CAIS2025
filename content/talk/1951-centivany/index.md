@@ -1,20 +1,23 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: A Window into Generative Artificial Intelligence Under Copyright Law & Policy in Canada
+abstract: "Generative artificial intelligence (GenAI) challenges and alters existing sociotechnical practices and regulatory schemes. This research provides a window into the current Canadian copyright law and policy context concerning GenAI, offering insights derived from existing legal precedent and policymaking efforts. Key issues addressed include the varied nature of policymaking processes, the copyright implications of text and data mining (TDM) and GenAI training models, the evolving roles of licensing and data curation, and ethical considerations around transparency. This work offers perspective on the current state of Canadian copyright law regarding AI and provides guidance on where future policymaking efforts and reforms are most needed."
+location: Rowe 1014 and Zoom
+date: 2025-05-28T9:00:00.763Z
+date_end: 2025-05-28T9:25:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Alissa Centivany
 tags:
-  - ""
+  - "Policy" 
+  - "Copyright"
+  - "Artificial Intelligence"
 categories:
   - Papers
+  - In-Person
 #image:
 ##  filename: featured
 ##  focal_point: Smart

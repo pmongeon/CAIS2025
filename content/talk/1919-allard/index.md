@@ -1,20 +1,24 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: '"Policies and Training Empowers Staff and Management to Act": Preliminary Findings From the Patron-Perpetrated (PPSH) Policies and Procedures Survey'
+abstract: "Library workers across Canada view library policy, training, and reporting as important interventions to prevent and address patron-perpetrated sexual harassment (PPSH). A nation-wide survey indicates that Canadian public libraries vary widely in their development and usage of PPSH policies, procedures, and training. While 40% of libraries surveyed have PPSH policies, 78% have patron codes of conduct and 74% have policies that address workplace violence, harassment & discrimination. Only 26% of participating libraries offer staff PPSH specific training. Of the 69% of participating libraries who had formal incident reporting processes, only 13% list sexual harassment as a reporting option. More positively, findings demonstrate a strong interest by participants to address PPSH in their workplaces."
+location: Rowe 1014 and Zoom
+date: 2025-05-29T10:55:00.763Z
+date_end: 2025-05-29T11:20:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Danielle Allard
+  - Tami Oliphant
 tags:
-  - ""
+  - "Sexual Harassment"
+  - "Public Libraries" 
+  - "Policy"
 categories:
   - Papers
+  - Virtual
 #image:
 ##  filename: featured
 ##  focal_point: Smart

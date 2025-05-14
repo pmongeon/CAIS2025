@@ -1,7 +1,7 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
+title: "Soft Skills are Important in Doctoral Degree Program: A Reflection by Doctoral Students"
+abstract: "Doctoral students need both hard skills (i.e., technical skills) and soft skills (i.e., social skills) to manage their learning journey and to succeed in their program of study. The paper presents findings from a qualitative study conducted with doctoral students enrolled in one of the Canadian U15 universities and studying in diverse doctoral degree programs. The study presents findings from the experiential reflection of doctoral students on the use of soft skills to succeed in their program of study. The participating students suggested a range of “non-academic” skills (i.e., soft skills) that were important in their learning journey such as communication, time management, conflict management, stress management, expectation management, work ethics, self- discipline and motivation, power navigation and others. This research aims to identify a wide range of soft skills that doctoral students need to move successfully in their program of study and contribute to the growing body of literature in the area of soft skills, particularly in the context of doctoral students and their programs."
+location: Rowe 1007 and ZoomS
 date: 2025-05-27T12:36:37.763Z
 date_end: 2025-05-27T12:37:40.471Z
 all_day: false
@@ -10,11 +10,16 @@ publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Dinesh Rathi
+  - Jennifer Branch-Mueller
 tags:
-  - ""
+  - "Doctoral Students"
+  - "Canada"
+  - "Soft Skills"
+  - "Learning Journey"
 categories:
-  - Papers
+  - Posters
+  - Virtual
 #image:
 ##  filename: featured
 ##  focal_point: Smart

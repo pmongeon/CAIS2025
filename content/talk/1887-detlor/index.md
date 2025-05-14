@@ -1,20 +1,25 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: Public Library-Led Digital Literacy Training to Older Adults in Social Housing 
+abstract: "This paper describes an in-progress two-cycled Action Research investigation of public library-led digital literacy training to older adults in social housing. Prior to the first cycle, the digital literacy needs and training preferences of CityHousing Hamilton (CHH) older adults were identified. These findings were then used to design and evaluate an Android tablet training program delivered by Hamilton Public Library (HPL) to CHH older adults onsite at their CHH place of residence (Cycle One). Findings from Cycle One were then used to design and implement another iteration of onsite HPL-led tablet training to CHH seniors (Cycle Two)."
+location: Rowe 1014 and Zoom
+date: 2025-05-28T10:55:00.763Z
+date_end: 2025-05-28T11:20:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Brian Detlor
 tags:
-  - ""
+  - "Digital Literacy" 
+  - "Training"
+  - "Older Adults"
+  - "Public Libraries"
+  - "Social Housing"
 categories:
-  - Papers
+  - Work-in-Progress
+  - Virtual
 #image:
 ##  filename: featured
 ##  focal_point: Smart

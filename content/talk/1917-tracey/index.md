@@ -1,20 +1,25 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: "Cycles of Bias: Soft Censorship in Libraries"
+abstract: "Library professionals, often without knowing, can indirectly reduce access to information, a phenomenon known as soft censorship. This research-in-progress conceptualizes key aspects of soft censorship and identifies conditions conducive to soft censorship in libraries. The individual and systematic biases that form the cycles that facilitate soft censorship become evident through this conceptualization, including content warnings, neutrality, subject headings, hiring, and publishing. In future work, we will analyze other areas where soft censorship has the potential to proliferate, including acquisitions, weeding, and reference, to obtain a fuller picture of soft censorship."
+location: Rowe 1007 and Zoom
+date: 2025-05-27T13:25:00.763Z
+date_end: 2025-05-27T13:50:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Adelaide Tracey
+  - Anton Boudreau Ninkov
 tags:
-  - ""
+  - "Censorship" 
+  - "Soft Censorship" 
+  - "Implicit Bias"
+  - "Libraries"
+  - "Information Science"
 categories:
-  - Papers
+  - Work-in-Progress
 #image:
 ##  filename: featured
 ##  focal_point: Smart

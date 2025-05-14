@@ -1,20 +1,24 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: www.zoomlinkwillbehere.com
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: "AI in Canadian LIS Journals: A Text Analysis"
+abstract: "Since its inception in 1955, the term “artificial intelligence” (AI) has seen a recent revival with generative AI. But what does this mean for Canadian Library and Information Sciences (LIS) responses? Text analysis was performed in 56 AI publications from nine Canadian LIS journals spanning 1982 to 2024. Using diachronic and sentiment trends, the identified corpus highlights that past familiarity with more traditional AI has led to a balanced and possibly more critical sentiment that provides context, acceptance, and concern for future generative AI technologies within the Canadian LIS landscape."
+location: Rowe 1014 and Zoom
+date: 2025-05-28T9:25:00.763Z
+date_end: 2025-05-28T9:50:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Alison Brown
+  - Gail M. Thornton
+  - Emily Kroeker
 tags:
-  - ""
+  - "artificial intelligence"
+  - "text analysis"
+  - "Canadian context"
 categories:
   - Papers
+  - Virtual
 #image:
 ##  filename: featured
 ##  focal_point: Smart
