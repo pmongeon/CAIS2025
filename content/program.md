@@ -128,7 +128,7 @@ header:
   </td>
   	<td>3:45pm - 4:10pm</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1924-follen/">Teaching with Archival Materials Using a Trauma-Informed Framework</a><br>
-        <i>Drew Fitzgerald</i></td>
+        <i>Jennifer Follen</i></td>
   </td>
   <tr>
     <th colspan=2>4:10pm - 5:00pm</th>
