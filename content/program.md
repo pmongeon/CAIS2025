@@ -266,8 +266,8 @@ header:
   </tr>
  <tr>
     <td>1:00pm - 1:25pm</td>
-    <td colspan=1><a href="https://cais2025.ca/talk/1880-iopatovska/">Addressing Teen Mental Health Needs at Individual and Community Levels</a><br>
-        <i>Irene lopatovska, Allison Cathey, Celia Coan, Melissa Bowden, Harrison Cortellesi, Alain Laforest, Van Nguyen, Hannah Ramirez</i></td>
+    <td colspan=1><a href="https://cais2025.ca/talk/1880-Lopatovska/">Addressing Teen Mental Health Needs at Individual and Community Levels</a><br>
+        <i>Irene Lopatovska, Allison Cathey, Celia Coan, Melissa Bowden, Harrison Cortellesi, Alain Laforest, Van Nguyen, Hannah Ramirez</i></td>
     <td>1:00pm - 1:25pm</td>
     <td colspan=1><a href="https://cais2025.ca/talk/1899-van-bellen/">Diamond Open Access and Open Infrastructures Have Shaped the Canadian Scholarly Journal Landscape Since the Start of the Digital Era</a><br>
         <i>Simon van Bellen, Lucía Céspedes</i></td>
