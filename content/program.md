@@ -239,13 +239,11 @@ header:
     <th colspan=4>Lunch (Atrium) + Virtual Poster Session (Rowe 1007)</th>
   </tr>
   <tr>
-    <td colspan=1><br><br><br>Posters</td>
+    <td colspan=1><br><br>Posters</td>
     <td colspan=5>
 	Posters will be presented in the following order. Each presenter will have 5 minutes to present and 3 minutes for questions.<br><br>
 	<a href="https://cais2025.ca/talk/1916-lockett/">Digital Search and Health Insurance Literacy in the U.S.</a><br>
         <i>Amanda Lockett, Samaneh Borji</i><br><br>
-	<a href="https://cais2025.ca/talk/1924-follen/">Teaching with Archival Materials Using a Trauma-Informed Framework</a><br>
-        <i>Jennifer Follen</i><br><br>
 	<a href="https://cais2025.ca/talk/1960-bagchi/">Semantic Knowledge Management: Towards a Novel Knowledge Representation Perspective</a><br>
         <i>Mayukh Bagchi</i><br><br>
 	<a href="https://cais2025.ca/talk/1891-gupta/">Common Issues and Uncommon Solutions to Cataloguing Comic Books in Libraries</a><br>
