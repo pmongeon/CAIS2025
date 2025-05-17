@@ -36,17 +36,31 @@ Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registr
 
 ![Picture of Workshop poster](/workshop.png)
 
-## Film screening and Panel Discussion
+## Beyond the Reel: Sustaining Indigenous Culture Through Film: Film screening and panel discussion
 
 
 *Details*
 
+Registration for this event is free. Register [here](https://www.eventbrite.com/e/beyond-the-reel-sustaining-indigenous-culture-through-film-tickets-1334053593209?aff=oddtdtcreator)
+
 <strong>Date</strong>: May 26th, 2025
 
-<strong>Time</strong>: 6:30-9:30 pm 
+<strong>Time</strong>: 7:00-9:30 pm (Doors will open at 6:30 pm) 
 
 <strong>Location</strong>: Potter Auditorium, Kenneth C. Rowe Management Building, Dalhousie University
 
 *Description*
 
-Check back for more details soon!
+Film is an important medium for conveying First Nations culture, language, teaching, and history. Yet, audiovisual materials remain among the most vulnerable cultural materials due to a range of systemic challenges—insufficient preservation methods, under-resourced technical infrastructure, limited and unstable funding, and intellectual property regimes that do not support artists or communities.
+
+Hosted by the Archives in Action project, films by filmmakers Catherine Martin and Shalan Joudry will be screened, providing a rich basis of discussion.
+
+Catherine Martin is a Mi'kmaw film maker and the Director of Indigenous Community Engagement at Dalhousie University. Basket Maker is a documentary film which shares the stories of Mi'kmaw women basket makers.
+
+shalan joudry is a Mi'kmaw multidisciplinary storyteller and ecologist. Her film Welima'q explores the profound meaning of sweetgrass picking as a celebration of nature's gifts and Indigenous traditions.
+
+Follwing the films, a panel discussion featuring Catherine Martin in discussion with Dr. Mary Elizabeth Luka will be moderated by Dr. Stacy Allisson-Cassin.
+
+Doors for the event will open at 6:30 pm.
+
+![Picture of Film screening poster](/filmscreening.png)
