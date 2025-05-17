@@ -52,7 +52,7 @@ Registration for this event is free. Register [here](https://www.eventbrite.com/
 
 Film is an important medium for conveying First Nations culture, language, teaching, and history. Yet, audiovisual materials remain among the most vulnerable cultural materials due to a range of systemic challenges—insufficient preservation methods, under-resourced technical infrastructure, limited and unstable funding, and intellectual property regimes that do not support artists or communities.
 
-Hosted by the Archives in Action project, films by filmmakers Catherine Martin and Shalan Joudry will be screened, providing a rich basis of discussion.
+Hosted by the Archives in Action project, films by filmmakers Catherine Martin and shalan joudry will be screened, providing a rich basis of discussion.
 
 Catherine Martin is a Mi'kmaw film maker and the Director of Indigenous Community Engagement at Dalhousie University. Basket Maker is a documentary film which shares the stories of Mi'kmaw women basket makers.
 
