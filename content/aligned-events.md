@@ -38,7 +38,6 @@ Register for the workshop [here](https://forms.office.com/r/sApW3zipCf). Registr
 
 ## Beyond the Reel: Sustaining Indigenous Culture Through Film: Film screening and panel discussion
 
-
 *Details*
 
 Registration for this event is free. Register [here](https://www.eventbrite.com/e/beyond-the-reel-sustaining-indigenous-culture-through-film-tickets-1334053593209?aff=oddtdtcreator)
