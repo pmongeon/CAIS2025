@@ -10,7 +10,7 @@ publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Irene lopatovska
+  - Irene Lopatovska
   - Allison Cathey
   - Celia Coan
   - Melissa Bowden
