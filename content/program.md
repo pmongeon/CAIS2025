@@ -28,7 +28,7 @@ header:
   </tr>
    <tr>
     <td colspan=2 style="width:20%">8:15am - 9:00am</td>
-    <td colspan=4 style="width:60%">Registrations - Rowe Atrium</td>
+    <td colspan=4 style="width:60%">Registration - Rowe Atrium</td>
   </tr>
   <tr>
       <th colspan=6>Opening session - Rowe 1009 and Zoom A</th>
@@ -239,9 +239,9 @@ header:
     <th colspan=4>Lunch (Atrium) + Virtual Poster Session (Rowe 1007)</th>
   </tr>
   <tr>
-    <td colspan=1><br><br>Posters</td>
+    <td colspan=1><br><br><br>Posters</td>
     <td colspan=5>
-	Posters will be presented in the following order. Each presenter will have 5 minutes to present and 3 minutes for questions.
+	Posters will be presented in the following order. Each presenter will have 5 minutes to present and 3 minutes for questions.<br><br>
 	<a href="https://cais2025.ca/talk/1916-lockett/">Digital Search and Health Insurance Literacy in the U.S.</a><br>
         <i>Amanda Lockett, Samaneh Borji</i><br><br>
 	<a href="https://cais2025.ca/talk/1924-follen/">Teaching with Archival Materials Using a Trauma-Informed Framework</a><br>
