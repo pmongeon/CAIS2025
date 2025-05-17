@@ -122,10 +122,18 @@ header:
         <i>Joanna Adewunmi, Melissa Ocepek</i></td>
   </td>
   </tr>
+  <tr>
 	<td>3:20pm - 3:45pm</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1920-fitzgerald/">Accessibility policies in libary and information science</a><br>
         <i>Drew Fitzgerald</i></td>
   </td>
+  </tr>
+  <tr>
+  	<td>3:45pm - 4:10pm</td>
+    <td colspan=2><a href="https://cais2025.ca/talk/1924-follen/">Teaching with Archival Materials Using a Trauma-Informed Framework</a><br>
+        <i>Jennifer Follen</i></td>
+  </td>
+  </tr>
   <tr>
     <th colspan=2>4:10pm - 5:00pm</th>
     <th colspan=4>Coffee Break and In-Person Poster Session - Rowe Atrium</th>
