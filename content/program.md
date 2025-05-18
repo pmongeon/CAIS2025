@@ -31,11 +31,12 @@ header:
     <td colspan=4 style="width:60%">Registration - Rowe Atrium</td>
   </tr>
   <tr>
-      <th colspan=6>Opening session - Rowe 1009 and Zoom A</th>
+      <td colspan=6><strong>Opening Session - Rowe 1009 and Zoom A</strong><br>
+      <i>moderator: Philippe Mongeon</i></td>
   </tr>
   <tr>
     <td colspan=2>9:00am - 9:20am</td>
-    <td colspan=2>Opening remarks</td>
+    <td colspan=2>Opening Remarks</td>
     <td colspan=2></a></strong></td>
   </tr>
   <tr>
@@ -44,13 +45,17 @@ header:
     <i>Emily Drabinski</i></td>
   </tr>
   <tr>
-    <td colspan=2>10:20am - 10:40am</td>
-    <td colspan=4>Break</td>
+    <td colspan=2><strong>10:20am - 10:40am</strong></td>
+    <td colspan=4><strong>Break</strong></td>
+  </tr>
+    <tr>
+      <td colspan=6><strong>Awards Session - Rowe 1009 and Zoom A</strong><br>
+      <i>moderator: Ping li</i></td>
   </tr>
   <tr>
     <td colspan=2>10:40am - 11:10am</td>
     <td colspan=4><a href="https://cais2025.ca/talk/awards-ceremony/">Awards Ceremony</a><br>
-    <i>Ping Li, Sandra Toze</i></td>
+    <i>Ping Li</i></td>
   </tr>
   <tr>
     <td colspan=2>11:10am - 11:35am</td>
@@ -72,8 +77,14 @@ header:
     <th colspan=4>Lunch</th>
   </tr>
   <tr>
-    <th colspan=3>Rowe 1007 - Zoom A</th>
-    <th colspan=3>Rowe 1014 - Zoom B</th>
+    <td colspan=3>
+      <strong>Session 1 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Chantal Ripp</i>
+    </td>
+    <td colspan=3>
+      <strong>Session 2 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Constance Poitras</i>
+    </td>
   </tr>
   <tr>
     <td>1:25pm - 1:50pm</td>
@@ -106,6 +117,15 @@ header:
   <tr>
     <th colspan=2>2:40pm - 2:55pm</th>
     <th colspan=4>Coffee Break - Rowe Atrium</th>
+  </tr>
+  <tr>
+    <td colspan=3>
+      <strong>Workshop - Rowe 1007 - Zoom A</strong><br>
+    </td>
+    <td colspan=3>
+      <strong>Session 3 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Bertrum MacDonald</i>
+    </td>
   </tr>
  <tr>
     <td rowspan=4>2:55pm - 4:10pm</td>
@@ -178,13 +198,16 @@ header:
     <td colspan=2 style="width:20%">8:15am - 9:00am</td>
     <td colspan=4 style="width:60%">Coffee and Pastries- Rowe Atrium</td>
   </tr>
-
   <tr>
-    <th colspan=3>Rowe 1007 - Zoom A</th>
-    <th colspan=3>Rowe 1014 - Zoom B</th>
+    <td colspan=3>
+      <strong>Session 4 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Ping Li</i>
+    </td>
+    <td colspan=3>
+      <strong>Session 5 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Anton Boudreau Ninkov</i>
+    </td>
   </tr>
-
-
  <tr>
     <td>9:00am - 9:25am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1941-beaton/">Extreme Sport and Information: Initial Findings of Technical Cave Diver’s Information-Seeking Behaviours</a><br>
@@ -213,6 +236,16 @@ header:
     <th colspan=2>10:15am - 10:30am</th>
     <th colspan=4>Coffee Break - Rowe Atrium</th>
   </tr>
+  <tr>
+    <td colspan=3>
+      <strong>Session 6 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Julia Bullard</i>
+    </td>
+    <td colspan=3>
+      <strong>Session 7 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Nafiz Shuva</i>
+    </td>
+  </tr>
  <tr>
     <td rowspan=3>10:30am - 10:55am</td>
     <td colspan=2, rowspan=3><a href="https://cais2025.ca/talk/1931-bullard/">Knowledge Organization in a Dangerous Time (Panel)</a><br>
@@ -235,8 +268,10 @@ header:
   </td>
   </tr>
   <tr>
-    <th colspan=2>11:45am - 1:00pm</th>
-    <th colspan=4>Lunch (Atrium) + Virtual Poster Session (Rowe 1007)</th>
+    <td colspan=2><strong>11:45am - 1:00pm</strong></td>
+    <td colspan=4><strong>Lunch (Atrium) + Virtual Poster Session (Rowe 1007)</strong><br>
+      <i>Moderator: Lubda Daraz</i>
+    </td>
   </tr>
   <tr>
     <td colspan=1><br><br>Posters</td>
@@ -260,9 +295,13 @@ header:
   </tr>
  
   <tr>
-    <th colspan=2>Rowe 1007 - Zoom A</th>
-    <th colspan=2>Rowe 1014 - Zoom B</th>
-	<th colspan=2>Rowe 5053 - Zoom C</th>
+    <td colspan=2><strong>Session 8 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Maddie Hare</i>
+    </td>
+    <td colspan=2><strong>Session 9 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Marc-André Simard</i>
+    </td>
+	  <td colspan=2><strong>Student Forum - Rowe 5053 - Zoom C</strong></td>
   </tr>
  <tr>
     <td>1:00pm - 1:25pm</td>
@@ -298,7 +337,9 @@ header:
     <th colspan=4>Coffee Break</th>
   </tr>
     <tr>
-    <th colspan=3>Rowe 1007 - Zoom A</th>
+    <td colspan=3><strong>Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Geoff Krause</i>
+    </td>
     <th colspan=3>Rowe 5053 - Zoom C</th>
   </tr>
  <tr>
@@ -337,8 +378,14 @@ header:
     <td colspan=4 style="width:60%">Coffee and Pastries- Rowe Atrium</td>
   </tr>
   <tr>
-    <th colspan=3>Rowe 1007 - Zoom A</th>
-    <th colspan=3>Rowe 1014 - Zoom B</th>
+    <td colspan=3>
+      <strong>Session 11 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Philippe Mongeon</i>
+    </td>
+    <td colspan=3>
+      <strong>Session 12 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Poppy Riddle</i>
+    </td>
   </tr>
  <tr>
     <td>9:40am - 10:05am</td>
@@ -372,10 +419,14 @@ header:
     <td colspan=2><a href="https://cais2025.ca/talk/1919-allard/">"Policies and Training Empowers Staff and Management to Act": Preliminary Findings From the Patron-Perpetrated (PPSH) Policies and Procedures Survey</a><br>
         <i>Danielle Allard, Tami Oliphant</i></td>
   </tr>
+  <tr>
+    <td colspan=3>
+      <strong>Closing Ceremony- Rowe 1007 - Zoom A</strong><br>
+    </td>
+  </tr>
  <tr>
     <td>11:20am - 11:40am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/closing-ceremony/">Closing Ceremony</a><br>
-        <i>CAIS Organizing Committee</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/closing-ceremony/">Closing Ceremony</a></td>
  </tr>
   <tr>
     <td colspan=2>11:40am - 12:00pm</td>
@@ -383,8 +434,7 @@ header:
   </tr>
  <tr>
     <td>12:00pm - 2:00pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/agm/">CAIS Annual General Meeting</a><br>
-        <i>Nafiz Shuva, CAIS President</i></td>
+    <td colspan=2><a href="https://cais2025.ca/talk/agm/">CAIS Annual General Meeting</a></td>
  </tr>
   <tr>
     <th colspan=2>2:25pm - 4:00pm</th>
