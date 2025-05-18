@@ -13,9 +13,9 @@ header:
 ---
 
 ## Presenter Information
-<strong> Paper presentations</strong>: Presenters will have 25 minutes each: we advise a 15 minute presentation and 10 minutes for questions. All sessions will by hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom.
+<strong> Paper presentations</strong>: Presenters will have 25 minutes each: we advise a 15 minute presentation and 10 minutes for questions. All sessions will be hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom.
 
-<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website.
+<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
 
 ## Call for papers
 
