@@ -28,7 +28,7 @@ header:
   </tr>
    <tr>
     <td colspan=2 style="width:20%">8:15am - 9:00am</td>
-    <td colspan=4 style="width:60%">Registrations - Rowe Atrium</td>
+    <td colspan=4 style="width:60%">Registration - Rowe Atrium</td>
   </tr>
   <tr>
       <th colspan=6>Opening session - Rowe 1009 and Zoom A</th>
@@ -108,8 +108,8 @@ header:
     <th colspan=4>Coffee Break - Rowe Atrium</th>
   </tr>
  <tr>
-    <td rowspan=3>2:55pm - 4:10pm</td>
-    <td rowspan =3, colspan=2><a href="https://cais2025.ca/talk/respectful-terminologies-workshop/">Respectful Terminologies Workshop</a><br>
+    <td rowspan=4>2:55pm - 4:10pm</td>
+    <td rowspan =4, colspan=2><a href="https://cais2025.ca/talk/respectful-terminologies-workshop/">Respectful Terminologies Workshop</a><br>
         <i>Stacy Allison-Cassin, Camille Callison</i></td>
     <td>2:55pm - 3:20pm</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasive Use of Undesirable Models and Language in Research on Neurogivergence in Academic Libraries</a><br>
@@ -152,7 +152,7 @@ header:
 	<a href="https://cais2025.ca/talk/1907-landy/">Personal and Professional Information Behaviours of Comic and Graphic Novel Librarians in Toronto</a><br>
         <i>Alexandra Landy</i><br><br>
 	<a href="https://cais2025.ca/talk/1963-mondesir/">Patterns of Chat Users: Analyzing Repeat Users of a Consortium-Level Virtual Reference Service</a><br>
-        <i>Guinsly Mondesir, Maggie Gordon</i><br><br>
+        <i>Guinsly Mondesir, Maggie Gordon, Chelsie Lalonde, Yoonhee Lee, Usman Malik, Sherri Sunstrum</i><br><br>
 	<a href="https://cais2025.ca/talk/1898-hare/">Reading the province: Creating a multiliteracy assessment framework for Nova Scotia</a><br>
         <i>Madelaine Hare, Poppy Riddle, Sandra Toze, Wendy Kraglund-Gauthier, Alison Brown, Lindsay McNiff, Jayne Hunter</i><br><br>
 	<a href="https://cais2025.ca/talk/1918-rath/">Librarian Use of the Knowledge Practices and Dispositions in the ACRL Framework</a><br>
@@ -241,11 +241,9 @@ header:
   <tr>
     <td colspan=1><br><br>Posters</td>
     <td colspan=5>
-	Posters will be presented in the following order. Each presenter will have 5 minutes to present and 3 minutes for questions.
+	Posters will be presented in the following order. Each presenter will have 5 minutes to present and 3 minutes for questions.<br><br>
 	<a href="https://cais2025.ca/talk/1916-lockett/">Digital Search and Health Insurance Literacy in the U.S.</a><br>
         <i>Amanda Lockett, Samaneh Borji</i><br><br>
-	<a href="https://cais2025.ca/talk/1924-follen/">Teaching with Archival Materials Using a Trauma-Informed Framework</a><br>
-        <i>Jennifer Follen</i><br><br>
 	<a href="https://cais2025.ca/talk/1960-bagchi/">Semantic Knowledge Management: Towards a Novel Knowledge Representation Perspective</a><br>
         <i>Mayukh Bagchi</i><br><br>
 	<a href="https://cais2025.ca/talk/1891-gupta/">Common Issues and Uncommon Solutions to Cataloguing Comic Books in Libraries</a><br>
@@ -268,8 +266,8 @@ header:
   </tr>
  <tr>
     <td>1:00pm - 1:25pm</td>
-    <td colspan=1><a href="https://cais2025.ca/talk/1880-iopatovska/">Addressing Teen Mental Health Needs at Individual and Community Levels</a><br>
-        <i>Irene lopatovska, Allison Cathey, Celia Coan, Melissa Bowden, Harrison Cortellesi, Alain Laforest, Van Nguyen, Hannah Ramirez</i></td>
+    <td colspan=1><a href="https://cais2025.ca/talk/1880-Lopatovska/">Addressing Teen Mental Health Needs at Individual and Community Levels</a><br>
+        <i>Irene Lopatovska, Allison Cathey, Celia Coan, Melissa Bowden, Harrison Cortellesi, Alain Laforest, Van Nguyen, Hannah Ramirez</i></td>
     <td>1:00pm - 1:25pm</td>
     <td colspan=1><a href="https://cais2025.ca/talk/1899-van-bellen/">Diamond Open Access and Open Infrastructures Have Shaped the Canadian Scholarly Journal Landscape Since the Start of the Digital Era</a><br>
         <i>Simon van Bellen, Lucía Céspedes</i></td>

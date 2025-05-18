@@ -12,6 +12,10 @@ featured: false
 authors:
   - Guinsly Mondesir
   - Maggie Gordon
+  - Chelsie Lalonde
+  - Yoonhee Lee
+  - Usman Malik
+  - Sherri Sunstrum
 tags:
   - "Information Behaviours"
   - "Canada"
