@@ -420,21 +420,21 @@ header:
         <i>Danielle Allard, Tami Oliphant</i></td>
   </tr>
   <tr>
-    <td colspan=3>
+    <td colspan=6>
       <strong>Closing Ceremony- Rowe 1007 - Zoom A</strong><br>
     </td>
   </tr>
  <tr>
-    <td>11:20am - 11:40am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/closing-ceremony/">Closing Ceremony</a></td>
+    <td colspan=2>11:20am - 11:40am</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/closing-ceremony/">Closing Ceremony</a></td>
  </tr>
   <tr>
     <td colspan=2>11:40am - 12:00pm</td>
     <td colspan=4>Coffee Break/Light Lunch</td>
   </tr>
  <tr>
-    <td>12:00pm - 2:00pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/agm/">CAIS Annual General Meeting</a></td>
+    <td colspan=2>12:00pm - 2:00pm</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/agm/">CAIS Annual General Meeting</a></td>
  </tr>
   <tr>
     <th colspan=2>2:25pm - 4:00pm</th>
