@@ -11,7 +11,6 @@ draft: false
 featured: false
 authors:
   - Ping Li
-  - Sandra Toze
 #tags:
 #  - ""
 #image:

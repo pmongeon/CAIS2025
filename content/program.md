@@ -90,7 +90,7 @@ header:
 </a><br>
         <i>Sarah E. Cornwell, Nicole S. Delellis, Dominique Kelly, Yifan Liu, Alexandre Mayhew, Yimin Chen, Victoria L. Rubin</i></td>
     <td>1:50pm - 2:15pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1936-gracey/">A Study of Graduate Students’ Experienecs of Artificial Intelligence at the University of New Brunswick</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1936-gracey/">A Study of Graduate Students’ Experiences of Artificial Intelligence at the University of New Brunswick</a><br>
         <i>Catherine Gracey, Julie Morris, Richelle Witherspoon, Erik Moore</i></td>
   </td>
   </tr>
@@ -112,7 +112,7 @@ header:
     <td rowspan =4, colspan=2><a href="https://cais2025.ca/talk/respectful-terminologies-workshop/">Respectful Terminologies Workshop</a><br>
         <i>Stacy Allison-Cassin, Camille Callison</i></td>
     <td>2:55pm - 3:20pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasive Use of Undesirable Models and Language in Research on Neurogivergence in Academic Libraries</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasive Use of Undesirable Models and Language in Research on Neurodivergence in Academic Libraries</a><br>
         <i>Catharina Ochsner, Jesse David Dinneen</i></td>
   </td>
   </tr>
@@ -124,7 +124,7 @@ header:
   </tr>
   <tr>
 	<td>3:20pm - 3:45pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1920-fitzgerald/">Accessibility policies in libary and information science</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1920-fitzgerald/">Framing Disability: Understanding the Future of Post-Secondary Student Accessibility Accommodations by Documenting Past Experiences</a><br>
         <i>Drew Fitzgerald</i></td>
   </td>
   </tr>
@@ -147,12 +147,12 @@ header:
         <i>Jasvinder Mann, Alissa Centivany</i><br><br>
 	<a href="https://cais2025.ca/talk/1961-slipp/">Mind your own Business? Business Database Subscriptions in Atlantic Canadian Postsecondary Libraries</a><br>
         <i>Nicole Slipp, Nicole Marcoux</i><br><br>
-	<a href="https://cais2025.ca/talk/1886-ndiaye/">Digital Serious Games as Tools to Support Educational: Information Practices of Teachers, Integretion Perspectives and Challenges of their Preservation at the French National Library (BNF)</a><br>
+	<a href="https://cais2025.ca/talk/1886-ndiaye/">Digital Serious Games as Tools to Support Education: Information Practices of Teachers, Integretion Perspectives and Challenges of their Preservation at the French National Library (BNF)</a><br>
         <i>Mamoudou Ndiaye, Raphaëlle Fabrice</i><br><br>
 	<a href="https://cais2025.ca/talk/1907-landy/">Personal and Professional Information Behaviours of Comic and Graphic Novel Librarians in Toronto</a><br>
         <i>Alexandra Landy</i><br><br>
 	<a href="https://cais2025.ca/talk/1963-mondesir/">Patterns of Chat Users: Analyzing Repeat Users of a Consortium-Level Virtual Reference Service</a><br>
-        <i>Guinsly Mondesir, Maggie Gordon, Chelsie Lalonde, Yoonhee Lee, Usman Malik, Sherri Sunstrum</i><br><br>
+        <i>Maggie Gordon, Guinsly Mondesir, Chelsie Lalonde, Yoonhee Lee, Usman Malik, Sherri Sunstrum</i><br><br>
 	<a href="https://cais2025.ca/talk/1898-hare/">Reading the province: Creating a multiliteracy assessment framework for Nova Scotia</a><br>
         <i>Madelaine Hare, Poppy Riddle, Sandra Toze, Wendy Kraglund-Gauthier, Alison Brown, Lindsay McNiff, Jayne Hunter</i><br><br>
 	<a href="https://cais2025.ca/talk/1918-rath/">Librarian Use of the Knowledge Practices and Dispositions in the ACRL Framework</a><br>
@@ -203,7 +203,7 @@ header:
   </tr>
   <tr>
     <td>9:50am - 10:15am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1955-shuva/">Employment-related information experiences of Bangladeshi immigrants in New York City</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1955-shuva/">Employment-Related Information Experiences of Bangladeshi Immigrants in New York City</a><br>
         <i>Nafiz Zaman Shuva</i></td>
     <td>9:50am - 10:15am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1874-shiri/">Conceptualizations of Information Science by Large Language Models</a><br>
@@ -248,14 +248,14 @@ header:
         <i>Mayukh Bagchi</i><br><br>
 	<a href="https://cais2025.ca/talk/1891-gupta/">Common Issues and Uncommon Solutions to Cataloguing Comic Books in Libraries</a><br>
         <i>Asmita Gupta</i><br><br>
-	<a href="https://cais2025.ca/talk/1930-kampen/">Accessibility policies in libary and information science</a><br>
+	<a href="https://cais2025.ca/talk/1930-kampen/">Understanding Information-Sharing of Artist-Researchers: Emerging Themes</a><br>
         <i>Andrea Kampen</i><br><br>
 	<a href="https://cais2025.ca/talk/1956-rathi/">Soft Skills are Important in Doctoral Degree Program: A Reflection by Doctoral Students</a><br>
         <i>Dinesh Rathi, Jennifer Branch-Mueller</i><br><br>
 	<a href="https://cais2025.ca/talk/1909-ajanaku/">Organizational Culture as a Catalyst for Effective Knowledge Management in Healthcare Delivery among Nurses: Exploring the Link Between Culture and Knowledge Processes in Nursing Practice</a><br>
         <i>Olateju Jumoke Ajanaku</i><br><br>
 	<a href="https://cais2025.ca/talk/1942-stieglitz/">Advancing Environmental Sustainability in Academic Libraries: A Process-Oriented Approach</a><br>
-        <i>Lauren Stieglitz, Virginia Pow, Olesya Komarnytska, Tim Klassen</i><br><br>
+        <i>Virginia Pow, Lauren Stieglitz, Olesya Komarnytska, Tim Klassen</i><br><br>
   </td> 
   </tr>
  
@@ -392,6 +392,9 @@ header:
   </tr>
 </table>
 
+## Feedback Survey
+
+Please click [here](https://docs.google.com/forms/d/e/1FAIpQLScSaAkrU5x8yigu5HZZ3menTFpUBRuKpGTm0rrjGnNCMw-TWw/viewform) to complete our conference feedback survey!
 
 ## Social Program
 

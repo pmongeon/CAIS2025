@@ -18,3 +18,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+The agenda for the AGM is [here](https://docs.google.com/document/d/1FUpJwoVCVYsiF-9OASD7tacy-I-OM8aE/edit?usp=sharing&ouid=106561254829315441731&rtpof=true&sd=true).

@@ -10,8 +10,8 @@ publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Guinsly Mondesir
   - Maggie Gordon
+  - Guinsly Mondesir
   - Chelsie Lalonde
   - Yoonhee Lee
   - Usman Malik
