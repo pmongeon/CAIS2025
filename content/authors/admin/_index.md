@@ -45,10 +45,13 @@ The CAIS 2025 conference is delighted to be joined by <strong>Emily Drabinski</s
 - <strong>Submission deadline</strong>: ~~January 8th, 2025.~~ ~~January 20th, 2025, midnight Pacific Time.~~
 - <strong>Notification of acceptance</strong>: ~~No later than March 15, 2025.~~
 - <strong>Submission of final versions</strong>: ~~No later than April 30, 2025.~~
-- <strong>Deadline to register</strong>: May 16th.
+- <strong>Deadline to register</strong>: ~~May 16th.~~
 - <strong>Conference</strong>: May 27-29, 2025.
 
-Please note that accepted presenters will have the choice of presenting in-person or virtually.
+## Presenter Information
+<strong> Paper presentations</strong>: Presenters will have 25 minutes each: we advise a 15 minute presentation and 10 minutes for questions. All sessions will by hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom.
+
+<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website.
 
 ## Organizing committee
 
@@ -63,7 +66,7 @@ Please note that accepted presenters will have the choice of presenting in-perso
 We are very grateful to Université de Montréal students Ambre Lefaix-Franchi, Faye Daw-Yi Fung, and Alice Aubin-Mercier for their assistance translating the conference proceedings.
 
 ## Volunteers
-A big thank you to our dedicated volunteers: Cindy Bergeron, Kate Gaffney, Lisa Taylor, Rebecca Marjoram, Summer Wilson, Rowan Moore, Sarah Clarkson, Sodiq Onaolapo, and Emma Hak-Kovacs.
+A big thank you to our dedicated volunteers: Cindy Bergeron, Kate Gaffney, Lisa Taylor, Rebecca Marjoram, Summer Wilson, Rowan Moore, Sarah Clarkson, and Sodiq Onaolapo.
 
 ## Contact us
 
