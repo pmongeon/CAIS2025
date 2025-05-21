@@ -39,6 +39,7 @@ This year's conference is hosted by the Department of Information Science of Dal
 
 The CAIS 2025 conference is delighted to be joined by <strong>Emily Drabinski</strong>, Associate Professor at the Queens College (CUNY) Graduate School of Library and Information Studies, who will deliver the keynote address <strong>"Libraries at the End of the World"</strong>. Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
 
+The detailed conference program can be found [here](https://drive.google.com/file/d/1XuOfcgO9L6W1D6mnUmptHZKP6nh9KiqJ/view?usp=drive_link).
 
 ## Important dates 
 <strong>Submissions to CAIS 2025 are now closed.</strong>
@@ -51,7 +52,7 @@ The CAIS 2025 conference is delighted to be joined by <strong>Emily Drabinski</s
 ## Presenter Information
 <strong> Paper presentations</strong>: Presenters will have 25 minutes each: we advise a 15 minute presentation and 10 minutes for questions. All sessions will be hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom.
 
-<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
+<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 3-5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
 
 ## Organizing committee
 

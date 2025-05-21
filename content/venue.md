@@ -39,6 +39,8 @@ The Kenneth C. Rowe Management Building will serve as our main conference venue.
 Kenneth C. Rowe Management Building
 6100 University Ave, Halifax, NS
 
+Please note the conference will be taking place mainly in rooms 1007, 1016, 1009, 5053, and the Rowe atrium.
+
 ## Getting to the Venue
 
 Dalhousie University’s Studley campus is conveniently located near public transportation options, making it easy for attendees to reach the venue from various parts of the city.
