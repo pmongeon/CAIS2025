@@ -33,11 +33,12 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <td colspan=4 style="width:60%">Registration - Rowe Atrium</td>
   </tr>
   <tr>
-      <th colspan=6>Opening session - Rowe 1009 and Zoom A</th>
+      <td colspan=6><strong>Opening Session - Rowe 1009 and Zoom A</strong><br>
+      <i>moderator: Philippe Mongeon</i></td>
   </tr>
   <tr>
     <td colspan=2>9:00am - 9:20am</td>
-    <td colspan=2>Opening remarks</td>
+    <td colspan=2>Opening Remarks</td>
     <td colspan=2></a></strong></td>
   </tr>
   <tr>
@@ -46,13 +47,17 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <i>Emily Drabinski</i></td>
   </tr>
   <tr>
-    <td colspan=2>10:20am - 10:40am</td>
-    <td colspan=4>Break</td>
+    <td colspan=2><strong>10:20am - 10:40am</strong></td>
+    <td colspan=4><strong>Break</strong></td>
+  </tr>
+    <tr>
+      <td colspan=6><strong>Awards Session - Rowe 1009 and Zoom A</strong><br>
+      <i>moderator: Ping li</i></td>
   </tr>
   <tr>
     <td colspan=2>10:40am - 11:10am</td>
     <td colspan=4><a href="https://cais2025.ca/talk/awards-ceremony/">Awards Ceremony</a><br>
-    <i>Ping Li, Sandra Toze</i></td>
+    <i>Ping Li</i></td>
   </tr>
   <tr>
     <td colspan=2>11:10am - 11:35am</td>
@@ -74,8 +79,14 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <th colspan=4>Lunch</th>
   </tr>
   <tr>
-    <th colspan=3>Rowe 1007 - Zoom A</th>
-    <th colspan=3>Rowe 1014 - Zoom B</th>
+    <td colspan=3>
+      <strong>Session 1 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Chantal Ripp</i>
+    </td>
+    <td colspan=3>
+      <strong>Session 2 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Constance Poitras</i>
+    </td>
   </tr>
   <tr>
     <td>1:25pm - 1:50pm</td>
@@ -92,7 +103,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
 </a><br>
         <i>Sarah E. Cornwell, Nicole S. Delellis, Dominique Kelly, Yifan Liu, Alexandre Mayhew, Yimin Chen, Victoria L. Rubin</i></td>
     <td>1:50pm - 2:15pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1936-gracey/">A Study of Graduate Students’ Experienecs of Artificial Intelligence at the University of New Brunswick</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1936-gracey/">A Study of Graduate Students’ Experiences of Artificial Intelligence at the University of New Brunswick</a><br>
         <i>Catherine Gracey, Julie Morris, Richelle Witherspoon, Erik Moore</i></td>
   </td>
   </tr>
@@ -109,12 +120,21 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <th colspan=2>2:40pm - 2:55pm</th>
     <th colspan=4>Coffee Break - Rowe Atrium</th>
   </tr>
+  <tr>
+    <td colspan=3>
+      <strong>Workshop - Rowe 1007 - Zoom A</strong><br>
+    </td>
+    <td colspan=3>
+      <strong>Session 3 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Bertrum MacDonald</i>
+    </td>
+  </tr>
  <tr>
     <td rowspan=4>2:55pm - 4:10pm</td>
     <td rowspan =4, colspan=2><a href="https://cais2025.ca/talk/respectful-terminologies-workshop/">Respectful Terminologies Workshop</a><br>
         <i>Stacy Allison-Cassin, Camille Callison</i></td>
     <td>2:55pm - 3:20pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasive Use of Undesirable Models and Language in Research on Neurogivergence in Academic Libraries</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasive Use of Undesirable Models and Language in Research on Neurodivergence in Academic Libraries</a><br>
         <i>Catharina Ochsner, Jesse David Dinneen</i></td>
   </td>
   </tr>
@@ -126,7 +146,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
   <tr>
 	<td>3:20pm - 3:45pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1920-fitzgerald/">Accessibility policies in libary and information science</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1920-fitzgerald/">Framing Disability: Understanding the Future of Post-Secondary Student Accessibility Accommodations by Documenting Past Experiences</a><br>
         <i>Drew Fitzgerald</i></td>
   </td>
   </tr>
@@ -149,7 +169,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
         <i>Jasvinder Mann, Alissa Centivany</i><br><br>
 	<a href="https://cais2025.ca/talk/1961-slipp/">Mind your own Business? Business Database Subscriptions in Atlantic Canadian Postsecondary Libraries</a><br>
         <i>Nicole Slipp, Nicole Marcoux</i><br><br>
-	<a href="https://cais2025.ca/talk/1886-ndiaye/">Digital Serious Games as Tools to Support Educational: Information Practices of Teachers, Integretion Perspectives and Challenges of their Preservation at the French National Library (BNF)</a><br>
+	<a href="https://cais2025.ca/talk/1886-ndiaye/">Digital Serious Games as Tools to Support Education: Information Practices of Teachers, Integretion Perspectives and Challenges of their Preservation at the French National Library (BNF)</a><br>
         <i>Mamoudou Ndiaye, Raphaëlle Fabrice</i><br><br>
 	<a href="https://cais2025.ca/talk/1907-landy/">Personal and Professional Information Behaviours of Comic and Graphic Novel Librarians in Toronto</a><br>
         <i>Alexandra Landy</i><br><br>
@@ -180,13 +200,16 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <td colspan=2 style="width:20%">8:15am - 9:00am</td>
     <td colspan=4 style="width:60%">Coffee and Pastries- Rowe Atrium</td>
   </tr>
-
   <tr>
-    <th colspan=3>Rowe 1007 - Zoom A</th>
-    <th colspan=3>Rowe 1014 - Zoom B</th>
+    <td colspan=3>
+      <strong>Session 4 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Ping Li</i>
+    </td>
+    <td colspan=3>
+      <strong>Session 5 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Anton Boudreau Ninkov</i>
+    </td>
   </tr>
-
-
  <tr>
     <td>9:00am - 9:25am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1941-beaton/">Extreme Sport and Information: Initial Findings of Technical Cave Diver’s Information-Seeking Behaviours</a><br>
@@ -205,7 +228,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
   <tr>
     <td>9:50am - 10:15am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1955-shuva/">Employment-related information experiences of Bangladeshi immigrants in New York City</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1955-shuva/">Employment-Related Information Experiences of Bangladeshi Immigrants in New York City</a><br>
         <i>Nafiz Zaman Shuva</i></td>
     <td>9:50am - 10:15am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1874-shiri/">Conceptualizations of Information Science by Large Language Models</a><br>
@@ -214,6 +237,16 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   <tr>
     <th colspan=2>10:15am - 10:30am</th>
     <th colspan=4>Coffee Break - Rowe Atrium</th>
+  </tr>
+  <tr>
+    <td colspan=3>
+      <strong>Session 6 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Julia Bullard</i>
+    </td>
+    <td colspan=3>
+      <strong>Session 7 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Nafiz Shuva</i>
+    </td>
   </tr>
  <tr>
     <td rowspan=3>10:30am - 10:55am</td>
@@ -237,8 +270,10 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </td>
   </tr>
   <tr>
-    <th colspan=2>11:45am - 1:00pm</th>
-    <th colspan=4>Lunch (Atrium) + Virtual Poster Session (Rowe 1007)</th>
+    <td colspan=2><strong>11:45am - 1:00pm</strong></td>
+    <td colspan=4><strong>Lunch (Atrium) + Virtual Poster Session (Rowe 1007)</strong><br>
+      <i>Moderator: Lubda Daraz</i>
+    </td>
   </tr>
   <tr>
     <td colspan=1><br><br>Posters</td>
@@ -250,21 +285,25 @@ The detailed conference program can be found [here](https://drive.google.com/fil
         <i>Mayukh Bagchi</i><br><br>
 	<a href="https://cais2025.ca/talk/1891-gupta/">Common Issues and Uncommon Solutions to Cataloguing Comic Books in Libraries</a><br>
         <i>Asmita Gupta</i><br><br>
-	<a href="https://cais2025.ca/talk/1930-kampen/">Accessibility policies in libary and information science</a><br>
+	<a href="https://cais2025.ca/talk/1930-kampen/">Understanding Information-Sharing of Artist-Researchers: Emerging Themes</a><br>
         <i>Andrea Kampen</i><br><br>
 	<a href="https://cais2025.ca/talk/1956-rathi/">Soft Skills are Important in Doctoral Degree Program: A Reflection by Doctoral Students</a><br>
         <i>Dinesh Rathi, Jennifer Branch-Mueller</i><br><br>
 	<a href="https://cais2025.ca/talk/1909-ajanaku/">Organizational Culture as a Catalyst for Effective Knowledge Management in Healthcare Delivery among Nurses: Exploring the Link Between Culture and Knowledge Processes in Nursing Practice</a><br>
         <i>Olateju Jumoke Ajanaku</i><br><br>
 	<a href="https://cais2025.ca/talk/1942-stieglitz/">Advancing Environmental Sustainability in Academic Libraries: A Process-Oriented Approach</a><br>
-        <i>Lauren Stieglitz, Virginia Pow, Olesya Komarnytska, Tim Klassen</i><br><br>
+        <i>Virginia Pow, Lauren Stieglitz, Olesya Komarnytska, Tim Klassen</i><br><br>
   </td> 
   </tr>
  
   <tr>
-    <th colspan=2>Rowe 1007 - Zoom A</th>
-    <th colspan=2>Rowe 1014 - Zoom B</th>
-	<th colspan=2>Rowe 5053 - Zoom C</th>
+    <td colspan=2><strong>Session 8 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Maddie Hare</i>
+    </td>
+    <td colspan=2><strong>Session 9 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Marc-André Simard</i>
+    </td>
+	  <td colspan=2><strong>Student Forum - Rowe 5053 - Zoom C</strong></td>
   </tr>
  <tr>
     <td>1:00pm - 1:25pm</td>
@@ -300,7 +339,9 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <th colspan=4>Coffee Break</th>
   </tr>
     <tr>
-    <th colspan=3>Rowe 1007 - Zoom A</th>
+    <td colspan=3><strong>Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Geoff Krause</i>
+    </td>
     <th colspan=3>Rowe 5053 - Zoom C</th>
   </tr>
  <tr>
@@ -339,8 +380,14 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <td colspan=4 style="width:60%">Coffee and Pastries- Rowe Atrium</td>
   </tr>
   <tr>
-    <th colspan=3>Rowe 1007 - Zoom A</th>
-    <th colspan=3>Rowe 1014 - Zoom B</th>
+    <td colspan=3>
+      <strong>Session 11 - Rowe 1007 - Zoom A</strong><br>
+      <i>Moderator: Philippe Mongeon</i>
+    </td>
+    <td colspan=3>
+      <strong>Session 12 - Rowe 1014 - Zoom B</strong><br>
+      <i>Moderator: Poppy Riddle</i>
+    </td>
   </tr>
  <tr>
     <td>9:40am - 10:05am</td>
@@ -374,19 +421,22 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <td colspan=2><a href="https://cais2025.ca/talk/1919-allard/">"Policies and Training Empowers Staff and Management to Act": Preliminary Findings From the Patron-Perpetrated (PPSH) Policies and Procedures Survey</a><br>
         <i>Danielle Allard, Tami Oliphant</i></td>
   </tr>
+  <tr>
+    <td colspan=6>
+      <strong>Closing Ceremony- Rowe 1007 - Zoom A</strong><br>
+    </td>
+  </tr>
  <tr>
-    <td>11:20am - 11:40am</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/closing-ceremony/">Closing Ceremony</a><br>
-        <i>CAIS Organizing Committee</i></td>
+    <td colspan=2>11:20am - 11:40am</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/closing-ceremony/">Closing Ceremony</a></td>
  </tr>
   <tr>
     <td colspan=2>11:40am - 12:00pm</td>
     <td colspan=4>Coffee Break/Light Lunch</td>
   </tr>
  <tr>
-    <td>12:00pm - 2:00pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/agm/">CAIS Annual General Meeting</a><br>
-        <i>Nafiz Shuva, CAIS President</i></td>
+    <td colspan=2>12:00pm - 2:00pm</td>
+    <td colspan=4><a href="https://cais2025.ca/talk/agm/">CAIS Annual General Meeting</a></td>
  </tr>
   <tr>
     <th colspan=2>2:25pm - 4:00pm</th>
@@ -394,6 +444,9 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
 </table>
 
+## Feedback Survey
+
+Please click [here](https://docs.google.com/forms/d/e/1FAIpQLScSaAkrU5x8yigu5HZZ3menTFpUBRuKpGTm0rrjGnNCMw-TWw/viewform) to complete our conference feedback survey!
 
 ## Social Program
 
