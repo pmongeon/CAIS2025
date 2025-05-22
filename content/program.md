@@ -84,7 +84,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
       <i>Moderator: Chantal Ripp</i>
     </td>
     <td colspan=3>
-      <strong>Session 2 - Rowe 1014 - Zoom B</strong><br>
+      <strong>Session 2 - Rowe 1016 - Zoom B</strong><br>
       <i>Moderator: Constance Poitras</i>
     </td>
   </tr>
@@ -125,7 +125,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
       <strong>Workshop - Rowe 1007 - Zoom A</strong><br>
     </td>
     <td colspan=3>
-      <strong>Session 3 - Rowe 1014 - Zoom B</strong><br>
+      <strong>Session 3 - Rowe 1016 - Zoom B</strong><br>
       <i>Moderator: Bertrum MacDonald</i>
     </td>
   </tr>
@@ -206,7 +206,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
       <i>Moderator: Ping Li</i>
     </td>
     <td colspan=3>
-      <strong>Session 5 - Rowe 1014 - Zoom B</strong><br>
+      <strong>Session 5 - Rowe 1016 - Zoom B</strong><br>
       <i>Moderator: Anton Boudreau Ninkov</i>
     </td>
   </tr>
@@ -244,7 +244,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
       <i>Moderator: Julia Bullard</i>
     </td>
     <td colspan=3>
-      <strong>Session 7 - Rowe 1014 - Zoom B</strong><br>
+      <strong>Session 7 - Rowe 1016 - Zoom B</strong><br>
       <i>Moderator: Nafiz Shuva</i>
     </td>
   </tr>
@@ -300,7 +300,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <td colspan=2><strong>Session 8 - Rowe 1007 - Zoom A</strong><br>
       <i>Moderator: Maddie Hare</i>
     </td>
-    <td colspan=2><strong>Session 9 - Rowe 1014 - Zoom B</strong><br>
+    <td colspan=2><strong>Session 9 - Rowe 1016 - Zoom B</strong><br>
       <i>Moderator: Marc-André Simard</i>
     </td>
 	  <td colspan=2><strong>Student Forum - Rowe 5053 - Zoom C</strong></td>
@@ -385,7 +385,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
       <i>Moderator: Philippe Mongeon</i>
     </td>
     <td colspan=3>
-      <strong>Session 12 - Rowe 1014 - Zoom B</strong><br>
+      <strong>Session 12 - Rowe 1016 - Zoom B</strong><br>
       <i>Moderator: Poppy Riddle</i>
     </td>
   </tr>
