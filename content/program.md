@@ -430,7 +430,8 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
  <tr>
     <td colspan=2>11:20am - 11:40am</td>
-    <td colspan=4>Closing Ceremony</td>
+    <td colspan=4>Closing Ceremony<br>
+	<i>Organizing committee, Mike Smit (Dean)</i></td>
  </tr>
   <tr>
     <td colspan=2>11:40am - 12:00pm</td>
