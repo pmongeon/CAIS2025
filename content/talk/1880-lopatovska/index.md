@@ -20,6 +20,20 @@ authors:
   - Hannah Ramirez
 tags:
   - ""
+  
+links:
+  - name: Proceedings
+    url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1880'
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: 'talk/1880-Lopatovska/CAIS2025-1880-Lopatovska.pdf'
+url_source: ''
+url_video: ''
+
 categories:
   - Papers
   - In-Person
