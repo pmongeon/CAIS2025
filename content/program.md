@@ -25,7 +25,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
       <td colspan=6 style="font-size:20px"><strong>Day 1 - Tuesday, May 27</strong> </td>
   </tr>
    <tr>
-    <th colspan=2>Time (AST)</th>
+    <th colspan=2>Time (ADT)</th>
     <th colspan=4>Event</th>
   </tr>
    <tr>
