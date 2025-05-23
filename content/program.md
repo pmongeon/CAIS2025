@@ -20,6 +20,8 @@ The detailed conference program can be found [here](https://drive.google.com/fil
 
 ## Conference Program
 
+<strong>Important</strong>: Please note that all times are in <strong>Atlantic Daylight Time (ADT).</strong>
+
 <table style="width:100%">
   <tr>
       <td colspan=6 style="font-size:20px"><strong>Day 1 - Tuesday, May 27</strong> </td>
@@ -34,7 +36,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
   <tr>
       <td colspan=6><strong>Opening Session - Rowe 1009 and Zoom A</strong><br>
-      <i>moderator: Philippe Mongeon</i></td>
+      <i>Moderator: Philippe Mongeon</i></td>
   </tr>
   <tr>
     <td colspan=2>9:00am - 9:20am</td>
@@ -52,7 +54,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
     <tr>
       <td colspan=6><strong>Awards Session - Rowe 1009 and Zoom A</strong><br>
-      <i>moderator: Ping li</i></td>
+      <i>Moderator: Ping li</i></td>
   </tr>
   <tr>
     <td colspan=2>10:40am - 11:10am</td>
@@ -428,7 +430,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
  <tr>
     <td colspan=2>11:20am - 11:40am</td>
-    <td colspan=4><a href="https://cais2025.ca/talk/closing-ceremony/">Closing Ceremony</a></td>
+    <td colspan=4>Closing Ceremony</td>
  </tr>
   <tr>
     <td colspan=2>11:40am - 12:00pm</td>
