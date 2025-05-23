@@ -93,7 +93,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <td colspan=2><a href="https://cais2025.ca/talk/1878-moen/">Supported Yet Isolated: Graduate Student Perspectives on Building Community Through Discussion Forums in an Online Accelerated MLIS Program</a><br>
         <i>Mary H. Moen, Lauren H. Mandel</i></td>
     <td>1:25pm - 1:50pm</td>
-    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Applying LLMs and Semantic Technologies for Data Extraction in Literature Reviews: A Pilot Study in LIS</a><br>
+    <td colspan=2><a href="https://cais2025.ca/talk/1915-demers/">Application des GML et des technologies sémantiques pour l'extraction de données dans les revues de littérature : Une étude pilote en sciences de l'information</a><br>
         <i>Camille Demers</i></td>
   </td>
   </tr>
