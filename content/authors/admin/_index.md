@@ -41,7 +41,7 @@ The CAIS 2025 conference is delighted to be joined by <strong>Emily Drabinski</s
 
 The detailed conference program can be found [here](https://drive.google.com/file/d/1XuOfcgO9L6W1D6mnUmptHZKP6nh9KiqJ/view?usp=drive_link).
 
-## Important dates 
+## Important Dates 
 <strong>Submissions to CAIS 2025 are now closed.</strong>
 - <strong>Submission deadline</strong>: ~~January 8th, 2025.~~ ~~January 20th, 2025, midnight Pacific Time.~~
 - <strong>Notification of acceptance</strong>: ~~No later than March 15, 2025.~~
@@ -49,12 +49,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
 - <strong>Deadline to register</strong>: ~~May 16th.~~
 - <strong>Conference</strong>: May 27-29, 2025.
 
-## Presenter Information
-<strong> Paper presentations</strong>: Presenters will have 25 minutes each: we advise a 15 minute presentation and 10 minutes for questions. All sessions will be hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom.
-
-<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 3-5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
-
-## Organizing committee
+## Organizing Committee
 
 - Philippe Mongeon, Dalhousie University
 - Maddie Hare, University of Ottawa
@@ -63,12 +58,24 @@ The detailed conference program can be found [here](https://drive.google.com/fil
 - Poppy Riddle, Dalhousie University
 - Sandra Toze, Dalhousie University
 
+For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
+
 ## Translators
 We are very grateful to Université de Montréal students Ambre Lefaix-Franchi, Faye Daw-Yi Fung, and Alice Aubin-Mercier for their assistance translating the conference proceedings.
 
 ## Volunteers
 A big thank you to our dedicated volunteers: Cindy Bergeron, Kate Gaffney, Lisa Taylor, Rebecca Marjoram, Summer Wilson, Rowan Moore, Sarah Clarkson, and Sodiq Onaolapo.
 
-## Contact us
 
-For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
+## Our Sponsors
+CAIS 2025 is proud to be sponsored by the following organizations:
+
+- Federation for the Humanities and Social Sciences (EDID Initiatives Fund) 
+- The Canadian Association of Research Libraries (CARL)
+- Érudit
+- ASIS&T Canada Chapter
+
+![Picture of FHSS](/fhss.jpg)       ![Picture of CARL](/carl.png) ![Picture of Erudit](/erudit1.png) ![Picture of ASIST](/ASIST.png) 
+
+
+

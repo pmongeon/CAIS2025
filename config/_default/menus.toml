@@ -8,20 +8,20 @@
 #  url = "#about"
 #  weight = 10
 
-[[main]]
-  name = "Call for papers"
-  url = "call-for-papers/"
-  weight = 15
+#[[main]]
+#  name = "Call for papers"
+#  url = "call-for-papers/"
+#  weight = 15
 
 [[main]]
   name = "Venue"
   url = "venue/"
   weight = 18 
 
-[[main]]
-  name = "Registration"
-  url = "registration/"
-  weight = 20
+#[[main]]
+#  name = "Registration"
+#  url = "registration/"
+#  weight = 20
 
 [[main]]
   name = "Program"
@@ -33,10 +33,10 @@
   url = "aligned-events/"
   weight = 40
 
-[[main]]
-  name = "Sponsors"
-  url = "sponsors/"
-  weight = 50
+#[[main]]
+#  name = "Sponsors"
+#  url = "sponsors/"
+#  weight = 50
 
 [[main]]
   name = "Contact"
