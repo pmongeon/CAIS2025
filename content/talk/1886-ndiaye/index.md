@@ -20,7 +20,7 @@ tags:
   - "Educational Games"
 links:
   - name: Poster
-    url: 'https://cais2025.ca/talk/CAIS2025-1886-Ndiaye/CAIS2025-1886-Ndiaye-slides.pdf'
+    url: 'https://cais2025.ca/talk/1886-Ndiaye/CAIS2025-1886-Ndiaye-slides.pdf'
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1886'
 categories:
