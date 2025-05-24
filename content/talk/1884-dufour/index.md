@@ -20,6 +20,11 @@ tags:
 categories:
   - Papers
   - Hybrid
+links:
+  - name: Proceedings
+    url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1884'
+url-slides: ''
+
 #image:
 ##  filename: featured
 ##  focal_point: Smart

@@ -19,6 +19,11 @@ tags:
 categories:
   - Papers
   - In-Person
+links:
+  - name: Proceedings
+    url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1885'
+url-slides: ''
+
 #image:
 ##  filename: featured
 ##  focal_point: Smart
