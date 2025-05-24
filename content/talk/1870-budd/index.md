@@ -18,7 +18,7 @@ tags:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1870'
-  - slides_url : 'https://cais2025.ca/talk/1870-budd/CAIS2025-1870-Budd.pptx'
+url_slides: 'https://cais2025.ca/talk/1870-budd/CAIS2025-1870-Budd.pptx'
 categories:
   - Papers
   - In-Person
