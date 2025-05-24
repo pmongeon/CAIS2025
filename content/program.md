@@ -12,11 +12,11 @@ header:
   image: ""
 ---
 
+The detailed conference program can be found [here](https://drive.google.com/file/d/1XuOfcgO9L6W1D6mnUmptHZKP6nh9KiqJ/view?usp=drive_link).
+
 ## Pre-Conference Event
 
 <a href="https://cais2025.ca/aligned-events/">May 26th: Archives in Action Workshop: Toward a National Policy Action Plan for Marginalized and Vulnerable Audiovisual Archives (2:30-4:30 pm) + Film screening and Panel Discussion (6:30-9:30 pm)</a>
-
-The detailed conference program can be found [here](https://drive.google.com/file/d/1XuOfcgO9L6W1D6mnUmptHZKP6nh9KiqJ/view?usp=drive_link).
 
 ## Conference Program
 
