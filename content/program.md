@@ -274,7 +274,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   <tr>
     <td colspan=2><strong>11:45am - 1:00pm</strong></td>
     <td colspan=4><strong>Lunch (Atrium) + Virtual Poster Session (Rowe 1007)</strong><br>
-      <i>Moderator: Lubda Daraz</i>
+      <i>Moderator: Lubna Daraz</i>
     </td>
   </tr>
   <tr>
