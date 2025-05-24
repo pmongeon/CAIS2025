@@ -18,6 +18,10 @@ tags:
   - "Dehumanization"
   - "Infrahumanization"
   - "Information Behavior"
+links:
+  - name: Proceedings
+    url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1876'
+
 categories:
   - Papers
   - In-Person

@@ -14,6 +14,10 @@ authors:
   - Lauren H. Mandel
 tags:
   - ""
+links:
+  - name: Proceedings
+    url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1878'
+
 categories:
   - Work-in-Progress
   - In-Person
