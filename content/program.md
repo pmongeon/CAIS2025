@@ -20,7 +20,6 @@ The detailed conference program can be found [here](https://drive.google.com/fil
 
 ## Conference Program
 
-<strong>Important information</strong>:
 - Please note that all times are in <strong>Atlantic Daylight Time (ADT).</strong>
 - Presentations will be 25 minutes. We advise a 15 minute presentation and 10 minutes for questions. All sessions will be hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom.
 - Virtual posters will have 5 minutes and 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
@@ -283,7 +282,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   <tr>
     <td colspan=1><br><br>Posters</td>
     <td colspan=5>
-	Posters will be presented in the following order. Each presenter will have 5 minutes to present and 3 minutes for questions.<br><br>
+	Posters will be presented in the following order. Each presenter will have 5 minutes to present and 5 minutes for questions.<br><br>
 	<a href="https://cais2025.ca/talk/1916-lockett/">Digital Search and Health Insurance Literacy in the U.S.</a><br>
         <i>Amanda Lockett, Samaneh Borji</i><br><br>
 	<a href="https://cais2025.ca/talk/1960-bagchi/">Semantic Knowledge Management: Towards a Novel Knowledge Representation Perspective</a><br>
