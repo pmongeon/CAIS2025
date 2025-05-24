@@ -20,7 +20,7 @@ categories:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1882'
-url-slides: 'https://cais2025.ca/talk/1882-veeninga/CAIS2025-1882-Veeninga-Slides.pptx'
+url_slides: 'https://cais2025.ca/talk/1882-veeninga/CAIS2025-1882-Veeninga-Slides.pptx'
 
 #image:
 ##  filename: featured

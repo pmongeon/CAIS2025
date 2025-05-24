@@ -25,7 +25,7 @@ categories:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1942'
-url-slides: 'https://cais2025.ca/talk/1942-stieglitz/CAIS2025-1942-Stieglitz.pdf'
+url_slides: 'https://cais2025.ca/talk/1942-stieglitz/CAIS2025-1942-Stieglitz.pdf'
 #image:
 ##  filename: featured
 ##  focal_point: Smart

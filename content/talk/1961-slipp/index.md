@@ -21,9 +21,10 @@ categories:
   - Posters
   - In-Person
 links:
+  - name: Poster
+    url: 'https://cais2025.ca/talk/1961-slipp/CAIS2025-1961-Slipp-Poster.pdf'
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1961'
-url-slides: 'https://cais2025.ca/talk/1961-slipp/CAIS2025-1961-Slipp-Poster.pdf'
 #image:
 ##  filename: featured
 ##  focal_point: Smart
