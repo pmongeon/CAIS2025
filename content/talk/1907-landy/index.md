@@ -22,7 +22,7 @@ categories:
   - In-Person
 links:
   - name: Poster
-    url: 'https://cais2025.ca/talk/1907-landy/CAIS2025-1907-Landy-poster.pdf
+    url: 'https://cais2025.ca/talk/1907-landy/CAIS2025-1907-Landy-poster.pdf'
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1907'
 #image:
