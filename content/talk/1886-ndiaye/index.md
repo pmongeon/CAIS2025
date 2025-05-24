@@ -21,7 +21,7 @@ tags:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1886'
-url-slides: CAIS2025-1886-Ndiaye-slides.pdf
+url-slides: 'CAIS2025-1886-Ndiaye-slides.pdf'
 categories:
   - Posters
   - In-Person
