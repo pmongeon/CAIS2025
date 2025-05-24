@@ -1,7 +1,7 @@
 ---
 title: A Study of Graduate Students’ Experiences of Artificial Intelligence at the University of New Brunswick
 abstract: "Artificial intelligence (AI) is increasingly being used by students in higher education for a wide range of tasks, such as brainstorming, finding information, or drafting papers. While we understand the general use cases for AI in the classroom, there is a gap in the research about students’ processes for learning, evaluating and implementing new tools into their learning workflows. This talk summarizes the initial findings of focus groups conducted with graduate students at the University of New Brunswick that explored student perceptions of—and experiences with—AI technology."
-location: Rowe 1014 and Zoom
+location: Rowe 1016 and Zoom B
 date: 2025-05-27T13:50:00.763Z
 date_end: 2025-05-27T14:15:00.471Z
 all_day: false
@@ -20,6 +20,10 @@ tags:
 categories:
   - Papers
   - In-Person
+links:
+  - name: Proceedings
+    url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1936'
+url-slides: ''
 #image:
 ##  filename: featured
 ##  focal_point: Smart

@@ -1,7 +1,7 @@
 ---
 title: "Patterns of Chat Users: Analyzing Repeat Users of a Consortium-Level Virtual Reference Service"
 abstract: "This poster explores the behaviors and information needs of repeat users of a virtual reference chat service in Ontario academic libraries. Analyzing 1,419 chat transcripts from 360 unique users in 2022-23, the study examines transaction types, instructional interactions, and signs of library anxiety. Using a mixed-methods approach, researchers identified patterns in repeat users' engagement, highlighting implications for service design, training, and outreach. The poster presents data visualizations, thematic analysis, and recommendations to enhance virtual reference services, ensuring they better support sustained user engagement and address evolving patron needs."
-location: TBD
+location: Rowe Atrium
 date: 2025-05-27T16:10:00.763Z
 date_end: 2025-05-27T17:00:00.471Z
 all_day: false
@@ -24,6 +24,10 @@ tags:
 categories:
   - Posters
   - In-Person
+links:
+  - name: Proceedings
+    url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1963'
+url-slides: ''
 #image:
 ##  filename: featured
 ##  focal_point: Smart
