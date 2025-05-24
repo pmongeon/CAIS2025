@@ -21,7 +21,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
 ## Conference Program
 
 - Please note that all times are in <strong>Atlantic Daylight Time (ADT).</strong>
-- Presentations will be 25 minutes. We advise a 15 minute presentation and 10 minutes for questions. All sessions will be hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom.
+- Presentations will be 25 minutes. We advise a 15 minute presentation and 10 minutes for questions. All sessions will be hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom. Virtual presenters will use screen sharing on Zoom.
 - Virtual posters will have 5 minutes and 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
 
 <table style="width:100%">
@@ -126,7 +126,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Workshop - Rowe 1007 - Zoom A</strong><br>
+      <strong>Workshop - Rowe 1007 - In person only</strong><br>
     </td>
     <td colspan=3>
       <strong>Session 3 - Rowe 1016 - Zoom B</strong><br>
@@ -135,7 +135,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
   </tr>
  <tr>
     <td rowspan=4>2:55pm - 4:10pm</td>
-    <td rowspan =4, colspan=2><a href="https://cais2025.ca/talk/respectful-terminologies-workshop/">Respectful Terminologies Workshop</a><br>
+    <td rowspan =4, colspan=2><a href="https://cais2025.ca/talk/respectful-terminologies-workshop/">Respectful Terminologies Workshop</a> (in person only)<br>
         <i>Stacy Allison-Cassin, Camille Callison</i></td>
     <td>2:55pm - 3:20pm</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1889-ochsner/">Further to Go: The Pervasive Use of Undesirable Models and Language in Research on Neurodivergence in Academic Libraries</a><br>
