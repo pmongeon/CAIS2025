@@ -343,7 +343,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
     <th colspan=4>Coffee Break</th>
   </tr>
     <tr>
-    <td colspan=3><strong>Rowe 1007 - Zoom A</strong><br>
+    <td colspan=3><strong>Session 10 - Rowe 1007 - Zoom A</strong><br>
       <i>Moderator: Geoff Krause</i>
     </td>
     <th colspan=3>Rowe 5053 - Zoom C</th>
