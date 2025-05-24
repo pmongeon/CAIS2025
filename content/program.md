@@ -228,7 +228,7 @@ The detailed conference program can be found [here](https://drive.google.com/fil
         <i>Katherine Veeninga</i></td>
     <td>9:25am - 9:50am</td>
     <td colspan=2><a href="https://cais2025.ca/talk/1913-thornton/">AI in Canadian LIS Journals: A Text Analysis</a><br>
-        <i>Gail M. Thornton, Emily Kroeker</i></td>
+        <i>Emily Kroeker, Gail M. Thornton</i></td>
   </tr>
   <tr>
     <td>9:50am - 10:15am</td>

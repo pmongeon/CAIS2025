@@ -10,8 +10,8 @@ publishDate: 2025-04-01T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Gail M. Thornton
   - Emily Kroeker
+  - Gail M. Thornton
 tags:
   - "artificial intelligence"
   - "text analysis"
