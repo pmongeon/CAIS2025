@@ -1,7 +1,7 @@
 ---
 title: "Adventurers and Algorithms: AI and the Evolution of TTRPG Gameplay"
 abstract: "Modern tabletop role-playing games (TTRPGs) have received increasing attention in library and educational contexts due to their ability to serve as an alternative experiential learning opportunity. However, common TTRPG safety frameworks lack consideration for the adoption and impact of AI tools. To address this gap, this study employs a qualitative approach to explore how AI tools are used in TTRPGs and players’ concerns related to fairness, bias, and safety. The findings aim to aid the development of more comprehensive safety frameworks for AI-integrated TTRPG experiences."
-location: Rowe 1016 and Zoom B
+location: Rowe 1016 and [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)
 date: 2025-05-27T14:15:00.763Z
 date_end: 2025-05-27T14:40:00.471Z
 all_day: false

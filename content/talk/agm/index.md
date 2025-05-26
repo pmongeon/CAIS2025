@@ -1,7 +1,7 @@
 ---
 title: CAIS Annual General Meeting
 # abstract: ""
-location: Rowe 1007 and Zoom
+location: Rowe 1007 and [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)
 date: 2025-05-29T12:00:00.763Z
 date_end: 2025-05-29T14:00:00.471Z
 all_day: false

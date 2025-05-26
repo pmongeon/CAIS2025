@@ -1,7 +1,7 @@
 ---
 title: "AI in Canadian LIS Journals: A Text Analysis"
 abstract: "Since its inception in 1955, the term “artificial intelligence” (AI) has seen a recent revival with generative AI. But what does this mean for Canadian Library and Information Sciences (LIS) responses? Text analysis was performed in 56 AI publications from nine Canadian LIS journals spanning 1982 to 2024. Using diachronic and sentiment trends, the identified corpus highlights that past familiarity with more traditional AI has led to a balanced and possibly more critical sentiment that provides context, acceptance, and concern for future generative AI technologies within the Canadian LIS landscape."
-location: Rowe 1016 and Zoom B
+location: Rowe 1016 and [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)
 date: 2025-05-28T9:25:00.763Z
 date_end: 2025-05-28T9:50:00.471Z
 all_day: false

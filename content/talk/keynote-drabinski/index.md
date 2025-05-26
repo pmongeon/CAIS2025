@@ -1,7 +1,7 @@
 ---
 title: Libraries at the End of the World
 abstract: "Since 2021, libraries have become a target of organized forces seeking to suppress the stories of LGBTQIA+ and BIPOC people and our histories. Attempts to remove books from library shelves have reached record numbers while legislation in states from Florida to Idaho to Texas to Missouri have enshrined censorship into law. Such restrictions on the right to think, write, and read place libraries at the center of the fight for democracy."
-location: Rowe 1007 and Zoom
+location: Rowe 1007 and [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)
 date: 2025-05-27T9:20:00.763Z
 date_end: 2025-05-27T10:20:00.471Z
 all_day: false

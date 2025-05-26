@@ -1,7 +1,7 @@
 ---
 title: Knowledge Organization in a Dangerous Time
 abstract: "Knowledge organization (KO) work is both critical and risky in the context of rising fascism, creating tools that support both discovery and censorship. Contemporary approaches require knowing how our design work contributes to either outcome. In this panel, we will apply our collective expertise in critique and design of knowledge organization to explore ethical approaches to KO work in dangerous times."
-location: Rowe 1007 and Zoom A
+location: Rowe 1007 and [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)
 date: 2025-05-28T10:30:00.763Z
 date_end: 2025-05-28T11:45:00.471Z
 all_day: false

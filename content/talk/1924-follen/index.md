@@ -1,7 +1,7 @@
 ---
 title: Teaching with Archival Materials Using a Trauma-Informed Framework
 abstract: "Working through selecting materials for a syllabus, problematic issues arise in both processed and unprocessed materials. There’s a professional urgency in including a trauma-informed framework in instruction and ensuring that people working and viewing collections have the necessary context, preparation, and tools to interpret archival material and manage traumatic responses. Teaching with primary sources requires a knowledge of educational and archival pedagogy. The following paper is a self-reflective exploration into previous work setting a foundation for the models and frameworks still vital in my current role."
-location: Rowe 1016 and Zoom B
+location: Rowe 1016 and [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)
 date: 2025-05-27T3:45:00.763Z
 date_end: 2025-05-27T4:10:00.471Z
 all_day: false

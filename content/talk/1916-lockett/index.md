@@ -1,7 +1,7 @@
 ---
 title: Digital Search and Health Insurance Literacy in the U.S.
 abstract: "This research focuses on the impact of digital search on health information, primarily health insurance and health insurance literacy (HIL). Through the use of a Google search simulation software, this study examined the health insurance search of young adults 18-25 and evaluated their literacy using the health insurance literacy measure (HILM). With the marketing of AI to mass audiences and its introduction as a tool for search, this study incorporated AI into the search simulation and measured whether it impacted the development of HIL for the participants."
-location: Rowe 1007 and Zoom A
+location: Rowe 1007 and [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)
 date: 2025-05-28T11:45:00.763Z
 date_end: 2025-05-28T11:55:00.471Z
 all_day: false
