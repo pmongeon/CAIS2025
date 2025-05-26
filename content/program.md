@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-The detailed conference program can be found [here](https://drive.google.com/file/d/1XuOfcgO9L6W1D6mnUmptHZKP6nh9KiqJ/view?usp=drive_link).
+Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfcgO9L6W1D6mnUmptHZKP6nh9KiqJ/view?usp=drive_link), and the conference proceedings [here](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).
 
 ## Pre-Conference Event
 
