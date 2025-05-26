@@ -37,7 +37,7 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
     <td colspan=4 style="width:60%">Registration - Rowe Atrium</td>
   </tr>
   <tr>
-      <td colspan=6><strong>Opening Session - Rowe 1009 and Zoom A</strong><br>
+      <td colspan=6><strong>Opening Session - Rowe 1009 and [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
       <i>Moderator: Philippe Mongeon</i></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
     <td colspan=4><strong>Break</strong></td>
   </tr>
     <tr>
-      <td colspan=6><strong>Awards Session - Rowe 1009 and Zoom A</strong><br>
+      <td colspan=6><strong>Awards Session - Rowe 1009 and [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
       <i>Moderator: Ping li</i></td>
   </tr>
   <tr>
@@ -84,11 +84,11 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 1 - Rowe 1007 - Zoom A</strong><br>
+      <strong>Session 1 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
       <i>Moderator: Chantal Ripp</i>
     </td>
     <td colspan=3>
-      <strong>Session 2 - Rowe 1016 - Zoom B</strong><br>
+      <strong>Session 2 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
       <i>Moderator: Constance Poitras</i>
     </td>
   </tr>
@@ -129,7 +129,7 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
       <strong>Workshop - Rowe 1007 - In person only</strong><br>
     </td>
     <td colspan=3>
-      <strong>Session 3 - Rowe 1016 - Zoom B</strong><br>
+      <strong>Session 3 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
       <i>Moderator: Bertrum MacDonald</i>
     </td>
   </tr>
@@ -206,11 +206,11 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 4 - Rowe 1007 - Zoom A</strong><br>
+      <strong>Session 4 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
       <i>Moderator: Ping Li</i>
     </td>
     <td colspan=3>
-      <strong>Session 5 - Rowe 1016 - Zoom B</strong><br>
+      <strong>Session 5 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
       <i>Moderator: Anton Boudreau Ninkov</i>
     </td>
   </tr>
@@ -244,11 +244,11 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 6 - Rowe 1007 - Zoom A</strong><br>
+      <strong>Session 6 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
       <i>Moderator: Julia Bullard</i>
     </td>
     <td colspan=3>
-      <strong>Session 7 - Rowe 1016 - Zoom B</strong><br>
+      <strong>Session 7 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
       <i>Moderator: Nafiz Shuva</i>
     </td>
   </tr>
@@ -301,10 +301,10 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
   </tr>
  
   <tr>
-    <td colspan=2><strong>Session 8 - Rowe 1007 - Zoom A</strong><br>
+    <td colspan=2><strong>Session 8 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
       <i>Moderator: Maddie Hare</i>
     </td>
-    <td colspan=2><strong>Session 9 - Rowe 1016 - Zoom B</strong><br>
+    <td colspan=2><strong>Session 9 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
       <i>Moderator: Marc-André Simard</i>
     </td>
 	  <td colspan=2><strong>Student Forum - Rowe 5053 - Zoom C</strong></td>
@@ -343,7 +343,7 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
     <th colspan=4>Coffee Break</th>
   </tr>
     <tr>
-    <td colspan=3><strong>Session 10 - Rowe 1007 - Zoom A</strong><br>
+    <td colspan=3><strong>Session 10 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
       <i>Moderator: Geoff Krause</i>
     </td>
     <th colspan=3>Rowe 5053 - Zoom C</th>
@@ -385,11 +385,11 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 11 - Rowe 1007 - Zoom A</strong><br>
+      <strong>Session 11 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
       <i>Moderator: Philippe Mongeon</i>
     </td>
     <td colspan=3>
-      <strong>Session 12 - Rowe 1016 - Zoom B</strong><br>
+      <strong>Session 12 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
       <i>Moderator: Poppy Riddle</i>
     </td>
   </tr>
@@ -427,7 +427,7 @@ Find a detailed conference program [here](https://drive.google.com/file/d/1XuOfc
   </tr>
   <tr>
     <td colspan=6>
-      <strong>Closing Ceremony- Rowe 1007 - Zoom A</strong><br>
+      <strong>Closing Ceremony- Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
     </td>
   </tr>
  <tr>
