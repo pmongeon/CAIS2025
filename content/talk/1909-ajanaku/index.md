@@ -20,6 +20,8 @@ categories:
   - Posters
   - Virtual
 links:
+  - name: Poster
+	url: 'https://cais2025.ca/talk/1909-ajanaku/CAIS2025-1930-Ajanaku-Poster.pdf'
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1909'
 url-slides: ''

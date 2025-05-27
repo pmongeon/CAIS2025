@@ -17,6 +17,8 @@ categories:
   - Posters
   - Virtual
 links:
+  - name: Poster
+    url: 'https://cais2025.ca/talk/1930-kampen/CAIS2025-1930-Kampen-Poster.pdf'
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1930'
 url-slides: ''

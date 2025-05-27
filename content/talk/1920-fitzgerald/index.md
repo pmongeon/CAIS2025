@@ -19,7 +19,11 @@ categories:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1920'
-url-slides: ''
+  - name: Slides (PowerPoint)
+    url: 'https://cais2025.ca/talk/1920-fitzgerlard/CAIS2025-1920-Fitzgerald-Slides.pptx'
+  - name: Slides (PDF)
+    url: 'https://cais2025.ca/talk/1920-fitzgerald/CAIS2025-1920-Fitzgerald-Slides.pdf'
+ur
 #image:
 ##  filename: featured
 ##  focal_point: Smart
