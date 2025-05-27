@@ -22,6 +22,9 @@ tags:
 categories:
   - Papers
   - In-Person
+links:
+  - name: Full Paper (CJILS)
+    url: 'https://ojs.lib.uwo.ca/index.php/cjils/article/view/22207'
 url_slides: 'https://cais2025.ca/talk/1899-van-bellen/CAIS2025-1899-van-Bellen-Slides.pptx'
 #image:
 ##  filename: featured
