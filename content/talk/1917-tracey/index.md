@@ -23,7 +23,7 @@ categories:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1917'
-url-slides: ''
+url_slides: 'https://cais2025.ca/talk/1917-tracey/CAIS2025-1917-Tracey-Slides.pptx'
 #image:
 ##  filename: featured
 ##  focal_point: Smart
