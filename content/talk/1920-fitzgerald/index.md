@@ -23,7 +23,6 @@ links:
     url: 'https://cais2025.ca/talk/1920-fitzgerlard/CAIS2025-1920-Fitzgerald-Slides.pptx'
   - name: Slides (PDF)
     url: 'https://cais2025.ca/talk/1920-fitzgerald/CAIS2025-1920-Fitzgerald-Slides.pdf'
-ur
 #image:
 ##  filename: featured
 ##  focal_point: Smart
