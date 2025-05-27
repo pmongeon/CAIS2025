@@ -23,7 +23,7 @@ categories:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1884'
-url-slides: ''
+url-slides: 'https://cais2025.ca/talk/1884-dufour/CAIS2025-1884-Dufour-Diapos.pdf'
 
 #image:
 ##  filename: featured

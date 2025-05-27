@@ -22,6 +22,7 @@ tags:
 categories:
   - Papers
   - In-Person
+url-slides: 'https://cais2025.ca/talk/1899-van-bellen/CAIS2025-1899-van-Bellen-Slides.pdf'
 #image:
 ##  filename: featured
 ##  focal_point: Smart
