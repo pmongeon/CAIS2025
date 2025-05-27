@@ -25,7 +25,7 @@ categories:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1902'
-url-slides: 'https://cais2025.ca/talk/1902-orel/CAIS2025-1902-Orel-Slides.pptx'
+url_slides: 'https://cais2025.ca/talk/1902-orel/CAIS2025-1902-Orel-Slides.pptx'
 #image:
 ##  filename: featured
 ##  focal_point: Smart

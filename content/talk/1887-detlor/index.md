@@ -23,7 +23,7 @@ categories:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1887'
-url-slides: 'https://cais2025.ca/talk/1887-Detlor/CAIS2025-1887-Detlor-Slides.pdf'
+url_slides: 'https://cais2025.ca/talk/1887-Detlor/CAIS2025-1887-Detlor-Slides.pdf'
 #image:
 ##  filename: featured
 ##  focal_point: Smart
