@@ -23,9 +23,9 @@ links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1885'
   - name: Slides (PowerPoint)
-    url: 'https://cais2025.ca/talk/1985-demaine/CAIS2025-1985-Demaine-Slides.pptx'
+    url: 'https://cais2025.ca/talk/1885-demaine/CAIS2025-1885-Demaine-Slides.pptx'
   - name: Slides (PDF)
-    url: 'https://cais2025.ca/talk/1985-demaine/CAIS2025-1985-Demaine-Slides.pdf'
+    url: 'https://cais2025.ca/talk/1885-demaine/CAIS2025-1885-Demaine-Slides.pdf'
 
 
 #image:
