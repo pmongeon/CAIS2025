@@ -20,7 +20,7 @@ categories:
 links:
   - name: Proceedings
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1941'
-url_slides: 'https://cais2025.ca/talk/1941-beaton/Beaton-slides.pdf'
+url_slides: 'https://cais2025.ca/talk/1941-beaton/CAIS2025-1941-Beaton-slides.pdf'
 #image:
 ##  filename: featured
 ##  focal_point: Smart
